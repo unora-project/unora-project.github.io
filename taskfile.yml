@@ -1,0 +1,12 @@
+version: '3'
+
+tasks:
+  create:
+    cmds:
+      - Powershell Remove-Item venv -Recurse -Force -ErrorAction SilentlyContinue
+      - python -m venv venv
+      - .\\venv\\Scripts\\pip install -r .\\requirements.txt
+
+  start:
+    cmds:
+      - .\\venv\\Scripts\\mkdocs serve

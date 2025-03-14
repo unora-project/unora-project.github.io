@@ -1,0 +1,6 @@
+Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
+Spiked Greaves,41-70 Bosses,56,-,-7,200,-400,-,5,-,-,-,-,-,-,-,-
+Dark Aisling Greaves,Arena events / Cthonic Demise,96,7,-8,500,500,-,5,-,-,-,-,-,5,-,Dark Aisling
+Sacred Greaves,Limbo,Master,8,-7,500,1000,-,10,-2,2,2,-,-,-,7,Sacred
+Scurvy Greaves,,Master,8,-8,800,400,-,10,-,-,-,-,-,2,4,Sacred
+Reinforced Spiked Greaves,,Master,8,-8,1200,-,-,10,-,-,-,-,-,5,-,Sacred

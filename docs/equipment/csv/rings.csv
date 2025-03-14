@@ -1,0 +1,8 @@
+Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
+Dark Aisling Ring,Arena events / Cthonic Demise,70,1,-,500,400,5%,-,-1,-1,-1,-1,-1,5,5,Dark Aisling
+Grand Ruby Ring,-,77,-,-,300,500,-,-,-,1,-,-,-,-,5,-
+Sacred Ring,Limbo,Master,1,-,600,1200,-,10,-,2,2,-,-,-,12,-
+Ring of Flames,Oren Ruins Hydra / Cthonic Drake,Master,1,-,750,500,-,10,-,3,-,-,-,-,12,-
+Forsaken Ring,Chaos,Master,1,-,1000,-,16,-10,1,-,-,1,1,10,-,-
+Black Stone Ring,Oren Ruins Ancient Draco / Cthonic Drake,Master,1,-,600,-,20,10,-,-,-,-,3,-,5,-
+Large Emerald Ring,Shinewood Green Mantis,Master,1,-,1250,-,5,10,3,-,-,-,-,8,-,-

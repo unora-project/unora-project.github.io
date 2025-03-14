@@ -1,0 +1,4 @@
+Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
+Sea Coral Necklace,Karlopos Quest,60,1,-1,-,300,-,-,-,-,-,-,-,-,8,-
+Forsaken Necklace,Chaos,Master,1,-,1500,500,25,-,-,-,-1,-1,-1,8,-,Sacred
+Sacred Necklace,Limbo,Master,1,-,1000,1000,25,-,-,-,-1,-1,-1,-,10,-

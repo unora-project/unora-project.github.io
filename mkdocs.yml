@@ -1,0 +1,77 @@
+site_name: 'Unora: Elemental Harmony'
+site_url: https://unora-project.github.io
+
+plugins:
+  - glightbox  # add image zoom functionality
+  - search
+  - table-reader
+
+theme:
+  name: material
+  custom_dir: overrides
+  font:
+    text: Varela Round
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - content.tooltips
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+
+watch:
+  - includes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/unora-project/unora-project.github.io
+      name: GitHub
+  hide:
+    - toc: ["index.md"]  # This disables the TOC for the index page only
+
+extra_css:
+  - stylesheets/extra.css
