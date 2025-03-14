@@ -8,7 +8,6 @@ plugins:
 
 theme:
   name: material
-  custom_dir: overrides
   font:
     text: Varela Round
     code: Roboto Mono
