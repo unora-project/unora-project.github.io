@@ -1,5 +1,6 @@
 site_name: 'Unora: Elemental Harmony'
 site_url: https://unora-project.github.io
+repo_url: https://github.com/unora-project/unora-project.github.io
 
 plugins:
   - glightbox  # add image zoom functionality
@@ -39,7 +40,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: teal
+      accent: pink
       toggle:
         icon: material/weather-night
         name: Switch to light mode
