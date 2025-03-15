@@ -1,6 +1,6 @@
 /* stretch the page to the full width */
 .md-grid {
-    max-width: 100%;
+    max-width: 80%;
 }
 
 /* customize tables to look like github */

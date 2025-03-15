@@ -3,8 +3,9 @@ site_url: https://unora-project.github.io
 
 plugins:
   - glightbox  # add image zoom functionality
-  - search
-  - table-reader
+  - search  # adds search functionality
+  - table-reader  # adds table rendering via csv
+  - awesome-nav  # mkdocs enhancements
 
 theme:
   name: material
@@ -30,8 +31,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: red
+      primary: brown
+      accent: yellow
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode

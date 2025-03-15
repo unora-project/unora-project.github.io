@@ -3,10 +3,17 @@ hide:
   - navigation
   - toc
 ---
+<style>
+  .md-typeset h1,
+  .md-content__button {
+    display: none;
+  }
+</style>
 
-An unofficial wiki for Unora: Elemental Harmony.
-
-[How to contribute](./contribute.md)
+<center>
+An unofficial wiki for Unora: Elemental Harmony.<br>
+[How to contribute](./contributing.md)
+</center>
 
 <div class="grid cards" markdown>
 

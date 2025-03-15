@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-glightbox
 mkdocs-table-reader-plugin
+mkdocs-awesome-nav
