@@ -81,6 +81,19 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Shields](./equipment/shields.md)<br>
     [:octicons-arrow-right-24: Weapons](./equipment/weapons.md)<br>
 
+-   __Towns__
+
+    ---
+
+    [:octicons-arrow-right-24: Mileth](./towns/mileth.md)<br>
+    [:octicons-arrow-right-24: Abel](./towns/abel.md)<br>
+    [:octicons-arrow-right-24: Piet](./towns/piet.md)<br>
+    [:octicons-arrow-right-24: Loures](./towns/loures.md)<br>
+    [:octicons-arrow-right-24: Rucesion](./towns/rucesion.md)<br>
+    [:octicons-arrow-right-24: Tagor](./towns/tagor.md)<br>
+    [:octicons-arrow-right-24: Suomi](./towns/suomi.md)<br>
+    [:octicons-arrow-right-24: Undine](./towns/undine.md)<br>
+
 -   __Dungeons__
 
     ---
