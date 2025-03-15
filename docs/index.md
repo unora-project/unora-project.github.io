@@ -89,6 +89,7 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Mileth Crypt](./dungeons/mileth_crypt.md)<br>
     [:octicons-arrow-right-24: Piet Dungeon](./dungeons/piet_dungeon.md)<br>
     [:octicons-arrow-right-24: Cthonic Remains (CR)](./dungeons/cthonic_remains.md)<br>
+    [:octicons-arrow-right-24: Mythic](./dungeons/mythic.md)<br>
 
 -   __Patch Notes__
 
