@@ -1,7 +1,7 @@
 NPC,Area,Minimum Level
-King Mantis,Garden,<30?
-Bee Queen,Woodlands,<30?
-Horse Leader,Floppy Farms,<30?
+Horse Leader,Floppy Farms,9
+King Mantis,Garden,14
+Bee Queen,Woodlands,21
 Frog King,Wolf,30
 Lord Gargoyle,Zombies,41
 Wolf Pack Leader,Frogs,50
