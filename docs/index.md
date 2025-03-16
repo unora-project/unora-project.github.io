@@ -28,24 +28,27 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Warrior](./classes/warrior.md)<br>
     [:octicons-arrow-right-24: Wizard](./classes/wizard.md)
 
--   __Quests__
+-   __[Quests](./quests/overview.md)__
 
     ---
 
-    [:octicons-arrow-right-24: Main Story](./quests/story.md)<br>
-    [:octicons-arrow-right-24: Circle 1 (1-20)](./quests/circle_1.md)<br>
-    [:octicons-arrow-right-24: Circle 2 (21-40)](./quests/circle_2.md)<br>
-    [:octicons-arrow-right-24: Circle 3 (41-70)](./quests/circle_3.md)<br>
-    [:octicons-arrow-right-24: Circle 4 (71-98)](./quests/circle_4.md)<br>
+    [:octicons-arrow-right-24: Circle 1 (1-10)](./quests/overview.md#circle-1)<br>
+    [:octicons-arrow-right-24: Circle 2 (11-40)](./quests/overview.md#circle-2)<br>
+    [:octicons-arrow-right-24: Circle 3 (41-70)](./quests/overview.md#circle-3)<br>
+    [:octicons-arrow-right-24: Circle 4 (71-98)](./quests/overview.md#circle-4)<br>
+    [:octicons-arrow-right-24: Circle 5 (99+)](./quests/overview.md#circle-5)<br>
+    [:octicons-arrow-right-24: Circle 6 (Master)](./quests/overview.md#circle-6)<br>
+    [:octicons-arrow-right-24: Circle 7 (Advanced Classes)](./quests/overview.md#circle-7)<br>
+    [:octicons-arrow-right-24: Repeatables](./quests/overview.md#repeatable-quests)<br>
 
--   __Religion__
+-   __[Religion](./religion/overview.md)__
 
     ---
 
-    [:octicons-arrow-right-24: Miraelis](./religion/miraelis.md)<br>
-    [:octicons-arrow-right-24: Serendael](./religion/serendael.md)<br>
-    [:octicons-arrow-right-24: Skandara](./religion/skandara.md)<br>
-    [:octicons-arrow-right-24: Theselene](./religion/theselene.md)<br>
+    [:octicons-arrow-right-24: Miraelis](./religion/gods/miraelis.md)<br>
+    [:octicons-arrow-right-24: Serendael](./religion/gods/serendael.md)<br>
+    [:octicons-arrow-right-24: Skandara](./religion/gods/skandara.md)<br>
+    [:octicons-arrow-right-24: Theselene](./religion/gods/theselene.md)<br>
 
 -   __Professions__
 
@@ -104,12 +107,11 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Cthonic Remains (CR)](./dungeons/cthonic_remains.md)<br>
     [:octicons-arrow-right-24: Mythic](./dungeons/mythic.md)<br>
 
--   __Patch Notes__
+-   __Miscellaneous__
 
     ---
 
-    Dumped from the #patch-notes posts on Discord.
-
-    [:octicons-arrow-right-24: See all patch notes](./patch_notes/overview.md)
+    [:octicons-arrow-right-24: Unora Lore](./lore/overview.md)<br>
+    [:octicons-arrow-right-24: See all patch notes](./patch_notes/overview.md)<br>
 
 </div>
