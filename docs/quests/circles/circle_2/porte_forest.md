@@ -60,6 +60,11 @@
     - From the entrance, go straight up and follow the path
 - Make sure your entire group is in 4-C before proceeding!
 - Once in 4-C, you will want to fend off the enemies while walking with your party in a straight line to the end, dropping Giant Ant Wings in front of the leader to pad the traps. If they trigger, they hurt!
+
+!!! tip
+
+    Rogues can see traps with the Detect Traps skill. If you have a Rogue in your party, try having them lead. This would make dropping Giant Ant Wings unnecessary.
+
 - Once at the peak of Porte Forest, rest up
 - Someone must now use the Turuc Pendant, which will teleport you to the boss room
 - Defeat the boss, Trevor
