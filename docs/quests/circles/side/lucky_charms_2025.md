@@ -1,5 +1,9 @@
 # Lucky Charms (2025 St. Patrick's Day Event)
 
+!!! note
+
+    The location of the charms changes from year to year. This guide is specifically for the 2025 event.
+
 - To start, speak with Lucky in Mileth Village Way (5,9)
 - Select "What charms are you missing?"
 - Lucky will explain that he's missing 8 charms:
