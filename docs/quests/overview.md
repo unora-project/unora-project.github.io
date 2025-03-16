@@ -95,3 +95,7 @@ Advanced classes are not yet released, but confirmed by the dev team.
 - [Slayer of the Crypt](./circles/side/slayer_of_the_crypt.md)
 - [Eastwoodlands Slayer](./circles/side/eastwoodlands_slayer.md)
 - [Crude Leather](./circles/side/crude_leather.md)
+
+## Event Quests
+
+- [Lucky Charms (2025 St. Patrick's Day)](./circles/side/lucky_charms_2025.md)
