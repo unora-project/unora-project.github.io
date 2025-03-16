@@ -20,18 +20,18 @@
 
     Piet Sewer, Eingren Manor and Mount Giragan can be risky for low level players.
 
-All of these charms can be randomly found on the following maps:
+All of these charms can be randomly found on the following maps. You will find them on the floor and must loot them:
 
-- Pot of Gold: **Eastern Woodlands**
-- Rainbow: **Mount Giragan 1/2**
-- Horseshoe: **Nobis**
-- Heart Charm: **Mileth Crypt**
-- Clover: **Astrid**
+- Pot of Gold: **Eastern Woodlands**, in the lobby entrance
+- Rainbow: **Mount Giragan 1/2**, on the floor
+- Horseshoe: **Nobis**, randomly on the town floor outside
+- Heart Charm: **Mileth Crypt**, first floor
+- Clover: **Astrid**, randomly throughout the hunting maps
 - Red Balloon: **Lynith Beach North**
-- Star: **Piet Sewer**
-- Moon: **Eingren Manor Floor 1**
+- Star: **Piet Sewer**. Does not spawn in the entrance; you must go into the dungeon.
+- Moon: **Eingren Manor**, on the first floor with the ghosts
 
-## Reward
+## Rewards
 
 Red Fanny Pouch.
 
