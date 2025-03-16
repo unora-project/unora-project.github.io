@@ -11,20 +11,22 @@ Throw Surigum,16,7/3/4/4/15,"5,000",Centipede's Gland (1),Assault (100),Mileth S
 Sap Needle,20,6/7/11/5/19,"10,000","Raw Sapphire (3), Padded Gauntlet (1)",-,Mileth Special Skills Master,"Minor damage. Steals 10% mana to split between your group, capped at 20%."
 Amnesia,24,6/12/12/6/12,"10,000","Giant Bat's Wing (3), Raw Beryl (2)",-,Mileth Special Skills Master,Removes the creature's focus.
 Pierce,28,16/5/5/11/30,"20,000","Goblin's Skull (2), Royal Gold Ring (1)",-,Mileth Special Skills Master,Deals damage two tiles in front of you and adds AC to the target.
+Backstab,35,16/7/7/10/35,"50,000","Mimic Teeth (2), Curved Dagger (1)",-,Suomi Special Skill Master,Maneuvers behind a target directly in front of you and stabs them in the back. Replaces Stab.
 Blitz,41,28/5/5/8/38,"10,000",Blossom Dagger (1),Throw Surigum (100),Mileth Special Skills Master,Second assail that deals damage to enemies four spaces in front of you. Replaces Throw Surigum.
 Poison Bomb,41,20/10/10/12/38,"25,000","Hobgoblin's Skull (2), Moon Dagger (2)",-,Suomi Special Skill Master,Allows the Rogue to throw a poison bomb that poisons enemies nearby.
 Throw,50,5/9/5/3/3,"25,000",-,-,Abel Combat Skills Master,Allows an aisling to throw an entity away from them.
-Gut,50,28/9/10/20/44,"50,000","Mimic Teeth (2), Curved Dagger (1)",Stab (100),Suomi Special Skill Master,Deals moderate damage to the enemy in front of you.
 Stab and Twist,60,34/11/6/17/51,"50,000","Chainmail Gauntlet (1), Succubus's Hair (1)",-,Suomi Special Skill Master,Deals damage to the target in front of you.
 Smoke Screen,60,10/5/5/5/16,"25,000",Light Shield (1),Throw Smokebomb (100),Rucesion Special Skills Master,Creates a cloud of smoke blinding enemies three spaces around you.
 Barrage,71,28/10/9/24/66,"100,000","Faerie's Wing (2), Sun Dagger (1)",Blitz (100),Suomi Special Skill Master,Third assail that deals damage to enemies four spaces in front of you.
+Trip,80,50/20/15/25/70,"75,000",Qualgeist Head (2),-,Suomi Special Skill Master,Pushes a monster away from you.
 Skewer,90,36/11/11/24/76,"150,000","Gruesomefly Wing (2), Blood Dagger (1)",Pierce (100),Mileth Special Skills Master,Deals great damage three tiles in front of you and increases target AC. Replaces Pierce.
 Sense,90,36/11/11/24/76,"50,000",Gruesomefly Wing (2),Peek (100),Rucesion Special Skills Master,Allows the rogue to see another's stats.
-Multi Strike,Master (Pure),3/3/3/3/3,-,-,-,Grand Master,Delivers attacks to several enemies. Pure only.
 Shadow Figure,Master (Pure),3/3/3/3/3,-,-,-,Master,Allows the Rogue to obtain and keep a tactical advantage on an enemy. Pure only.
+Rupture,Master (Pure),3/3/3/3/3,-,-,-,Grand Master,Causes the target to bleed. Pure only.
 Midnight Slash,Master,3/3/3/3/3,-,-,-,Master,Master Rogue assail.
 Nightfall Strike,Master,90/20/15/45/130,"500,000",Direwolf Lock (5),-,Suomi Special Skill Master,Executes an enemy below 10% health. Does not work on bosses.
 Stab Twice,Master,50/18/11/28/88,"100,000",Strap Gauntlet (2),-,Suomi Special Skill Master,Deals moderate damage to the enemy in front of you.
 Frost Bomb,Master,90/35/25/30/135,"750,000",Ice Elemental Flame (5),-,Rucesion Special Skills Master,Freezes enemies within four spaces of you. Only works on monsters.
-Surigum Blitz,Master,3/3/3/3/3,-,-,-,Master Dungeon,"Throws your surigum, dealing damage in a cone."
 Assassin Strike,Master,3/3/3/3/3,-,-,-,Master,"Deals more damage to higher health targets; chance to kill a target instantly (monster only, does not work on bosses)."
+Murderous Intent,Master,100/40/35/55/180,"250,000",Direwolf Lock (3),-,Suomi Special Skill Master,Intimidates an enemy directly in front of you.
+Killer Instinct,Master,75/60/40/40/120,"100,000",Grim Succubus's Hair (3),-,Suomi Special Skill Master,Allows the Rogue to study multiple creature's defense.
