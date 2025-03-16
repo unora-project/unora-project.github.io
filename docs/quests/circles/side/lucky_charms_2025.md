@@ -1,5 +1,21 @@
 # Lucky Charms (2025 St. Patrick's Day Event)
 
+## Rewards
+
+- Legend mark: Found Lucky's Charms
+- Red Fanny Pouch
+
+Red Fanny Pouch stats:
+
+- Skill Damage: 100
+- Spell Damage: 100
+- Wisdom: 1
+- Constitution: 1
+
+![Red Fanny Pouch](../assets/red_fanny_pouch.png)
+
+## Walkthrough
+
 !!! note
 
     The location of the charms changes from year to year. This guide is specifically for the 2025 event.
@@ -18,7 +34,7 @@
 - Tell Lucky "I'll find them for you"
 - Once you have all 8 charms, return to Lucky to complete the quest
 
-## Locations
+### Locations
 
 !!! warning
 
@@ -34,16 +50,3 @@ All of these charms can be randomly found on the following maps. You will find t
 - Red Balloon: **Lynith Beach North**
 - Star: **Piet Sewer**. Does not spawn in the entrance; you must go into the dungeon.
 - Moon: **Eingren Manor**, on the first floor with the ghosts
-
-## Rewards
-
-Red Fanny Pouch.
-
-Stats:
-
-- Skill Damage: 100
-- Spell Damage: 100
-- Wisdom: 1
-- Constitution: 1
-
-![Red Fanny Pouch](../assets/red_fanny_pouch.png)
