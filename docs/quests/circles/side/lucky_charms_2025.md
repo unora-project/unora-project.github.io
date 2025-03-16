@@ -20,6 +20,8 @@
 
     Piet Sewer, Eingren Manor and Mount Giragan can be risky for low level players.
 
+All of these charms can be randomly found on the following maps:
+
 - Pot of Gold: **Eastern Woodlands**
 - Rainbow: **Mount Giragan 1/2**
 - Horseshoe: **Nobis**
@@ -28,7 +30,6 @@
 - Red Balloon: **Lynith Beach North**
 - Star: **Piet Sewer**
 - Moon: **Eingren Manor Floor 1**
-
 
 ## Reward
 
