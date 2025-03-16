@@ -48,13 +48,20 @@
     - In 3-R, go to 27,1 to get to 4-R
 - Go back to Bertil, the Suomi White Magic Master (16,86) to turn in the Silver Wolf Mane Hairs
     - This will reward you with an item named "Silver Wolf Leather"
+
+!!! note
+
+    Make sure everyone in your party has the Silver Wolf Leather item in their inventory. This significantly reduces the amount of damage the boss will do to you.
+
 - Go to Isabelle in Porte Forest (21,38). She's at the entrance
 - Click "Turuc Pendant" and go through the prompts
 - She'll make make mention that you can use "Giant Ant Wings" to avoid the traps where the boss is
 - Head back to Porte Forest 4-C
     - From the entrance, go straight up and follow the path
 - Make sure your entire group is in 4-C before proceeding!
-- Once in 4-C, someone must use the Turuc Pendant, which will teleport you to the boss room
+- Once in 4-C, you will want to fend off the enemies while walking with your party in a straight line to the end, dropping Giant Ant Wings in front of the leader to pad the traps. If they trigger, they hurt!
+- Once at the peak of Porte Forest, rest up
+- Someone must now use the Turuc Pendant, which will teleport you to the boss room
 - Defeat the boss, Trevor
 - Once defeated, speak to Rennie. She'll mention that Trevor was her pet mantis and that he kept her safe
 - She'll give you a ring that you need to give to her father, which will calm him down
