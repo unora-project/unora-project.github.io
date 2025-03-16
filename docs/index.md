@@ -40,6 +40,7 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Circle 6 (Master)](./quests/overview.md#circle-6)<br>
     [:octicons-arrow-right-24: Circle 7 (Advanced Classes)](./quests/overview.md#circle-7)<br>
     [:octicons-arrow-right-24: Repeatables](./quests/overview.md#repeatable-quests)<br>
+    [:octicons-arrow-right-24: Events](./quests/overview.md#event-quests)<br>
 
 -   __[Religion](./religion/overview.md)__
 
