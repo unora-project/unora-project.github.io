@@ -3,6 +3,7 @@
 ## Rewards
 
 - 15,000 Experience
+- 8% chance to obtain "Loved by Mileth Mundanes" legend mark
 
 ## Cooldown
 

@@ -19,7 +19,7 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
 - [Wolf Problem](./circles/circle_1/wolf_problem.md)
 - [Bee Problem](./circles/circle_1/bee_problem.md)
 - Leaders of Mythic
-- Terror of the Crypt
+- [Terror of the Crypt](./circles/circle_1/terror_of_the_crypt.md)
 
 ## Circle 2
 
@@ -41,7 +41,7 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
 
     Level range: 41-70
 
-- Feeding the Beggar
+- [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
 - Find the Mysterious Artifact
 - Queen Octopus
 - Dragon Scale
@@ -92,9 +92,24 @@ Advanced classes are not yet released, but confirmed by the dev team.
 
 ## Repeatable Quests
 
-- [Slayer of the Crypt](./circles/side/slayer_of_the_crypt.md)
-- [Eastwoodlands Slayer](./circles/side/eastwoodlands_slayer.md)
+Quests may show here and under this section if they are repeatable. This is intended to show all quests which can be taken more than one time.
+
+- [Abel Dungeon Slayer](./circles/side/abel_dungeon_slayer.md)
+- [Antonio's Vault Squeaks](./circles/side/antonios_vault_squeaks.md)
+- [Blade Material](./circles/side/blade_material.md)
+- [Burning Wood](./circles/side/burning_wood.md)
 - [Crude Leather](./circles/side/crude_leather.md)
+- [Dark Research](./circles/circle_1/dark_research.md)
+- [Decorating the Inn](./circles/side/decorating_the_inn.md)
+- [East Woodlands Slayer](./circles/side/east_woodlands_slayer.md)
+- [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
+- [Holy Research](./circles/circle_1/holy_research.md)
+- [Piet Sewer Slayer](./circles/side/piet_sewer_slayer.md)
+- [Pretty Flower](./circles/side/pretty_flower.md)
+- [Slayer of the Crypt](./circles/side/slayer_of_the_crypt.md)
+- [Suomi Tavern](./circles/side/suomi_tavern.md)
+- [Terror of the Crypt](./circles/circle_1/terror_of_the_crypt.md)
+- [West Woodlands Slayer](./circles/side/west_woodlands_slayer.md)
 
 ## Event Quests
 

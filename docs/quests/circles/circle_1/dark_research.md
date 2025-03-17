@@ -2,12 +2,13 @@
 
 ## Rewards
 
-- Experience that scales with your level
-- 5 Game Points
+- Experience that scales with your level (600,000 at **Lv99+**)
+- (**Lv99+**): Armor Dye or Random Overcoat
+- 5 Game Points (10 at 99+)
 
 ## Cooldown
 
-This quest is repeatable and has a 22 hour cooldown.
+This quest is repeatable and has a 22 hour (**Lv99+**: 24 hour) cooldown.
 
 ## Walkthrough
 

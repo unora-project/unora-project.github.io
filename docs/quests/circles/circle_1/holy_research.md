@@ -7,7 +7,7 @@
 
 ## Cooldown
 
-This quest is repeatable and has a 3 hour cooldown.
+This quest is repeatable and has a 3 hour cooldown. This quest doesn't appear to be repeatable once you're 99.
 
 ## Walkthrough
 
