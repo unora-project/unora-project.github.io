@@ -16,8 +16,8 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
 - Find the Mysterious Artifact
 - [Holy Research](./circles/circle_1/holy_research.md)
 - [Dark Research](./circles/circle_1/dark_research.md)
-- Wolf Problem
-- Bee Problem
+- [Wolf Problem](./circles/circle_1/wolf_problem.md)
+- [Bee Problem](./circles/circle_1/bee_problem.md)
 - Leaders of Mythic
 - Terror of the Crypt
 

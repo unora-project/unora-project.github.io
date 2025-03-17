@@ -8,6 +8,8 @@
 
 - Experience
 - 5 Game Points
+- Legend mark: Helped Skarn clear the Mileth Crypt
+    - This legend mark increments each time you complete it
 
 ## Cooldown
 
