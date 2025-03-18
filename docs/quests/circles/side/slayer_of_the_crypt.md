@@ -10,11 +10,12 @@
 - 5 Game Points
 - Legend mark: Helped Skarn clear the Mileth Crypt
     - This legend mark increments each time you complete it
+    - At 10 completions, this legend mark changes to "Controlled the Mileth Crypt Population"
 - At 10 completions, you will receive a bigger lantern
 
 ## Cooldown
 
-This quest has a 4 hour cooldown.
+This quest has a 4 hour cooldown. After 10 completions, this quest is no longer repetable.
 
 ## Walkthrough
 
