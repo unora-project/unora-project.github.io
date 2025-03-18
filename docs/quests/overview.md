@@ -13,7 +13,7 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
     Level range: 1-10
 
 - Tutorial
-- Find the Mysterious Artifact
+- [Find the Mysterious Artifact](./circles/circle_1/find_the_mysterious_artifact.md)
 - [Holy Research](./circles/circle_1/holy_research.md)
 - [Dark Research](./circles/circle_1/dark_research.md)
 - [Wolf Problem](./circles/circle_1/wolf_problem.md)
@@ -42,11 +42,12 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
     Level range: 41-70
 
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
-- Find the Mysterious Artifact
+- [Find the Mysterious Artifact](./circles/circle_1/find_the_mysterious_artifact.md)
 - Queen Octopus
 - Dragon Scale
 - Louegie's Ghost Problem
 - Supply Loures Army
+- Pentagram
 
 ## Circle 4
 

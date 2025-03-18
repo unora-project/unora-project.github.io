@@ -31,7 +31,10 @@ This quest has a 22 hour cooldown.
 
 ### If you selected "I will slay the Goblins and Kobolds."
 
-TBD.
+- Chloe explains that she will reward experience for every captor killed up to a maximum of 25 each. At a minimum, you will need to slay 10 of any type of captor to be eligible to complete the quest
+- Head to Astrid
+- Each monster type is a captor (Kobold, Goblin Warrior, Goblin Soldier, Goblin Guard) and has their own independent credit. For the maximum amount of experience, get 25 kills of each type of monster
+- Return to Chloe to complete the quest
 
 ### If you selected "I will rescue them."
 
