@@ -108,6 +108,7 @@ Quests which can be completed more than once (with a cooldown).
 - [Ice Wall](./circles/circle_2/ice_wall.md)
 - [Piet Sewer Slayer](./circles/side/piet_sewer_slayer.md)
 - [Pretty Flower](./circles/side/pretty_flower.md)
+- [Red Potion](./circles/side/red_potion.md)
 - [Slayer of the Crypt](./circles/side/slayer_of_the_crypt.md)
 - [Suomi Tavern](./circles/side/suomi_tavern.md)
 - [Terror of the Crypt](./circles/circle_1/terror_of_the_crypt.md)
