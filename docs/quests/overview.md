@@ -32,7 +32,7 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
 - [Ice Wall](./circles/circle_2/ice_wall.md)
 - [Porte Forest](./circles/circle_2/porte_forest.md)
 - [Antique Necklace](./circles/circle_2/antique_necklace.md)
-- Fisk's Secret
+- [Fisk's Secret](./circles/circle_2/fisks_secret.md)
 - Sick Child
 
 ## Circle 3
