@@ -66,8 +66,8 @@ The option you choose will dictate which kind of legend mark you receive.
 
 Legend mark options:
 
-- If you chose to return the necklace to Zolera, you will recieve the legend mark "Returned Zulera's Heirloom".
-- If you chose to keep the necklace, you will receive the legend mark "Stolen Zulera's Necklace".
+- If you chose to return the necklace to Zolera, you will recieve the legend mark "Returned Zulera's Heirloom". This is a light blue mark.
+- If you chose to keep the necklace, you will receive the legend mark "Stolen Zulera's Necklace". This is a dark orange mark.
 
 Zulera's Necklace stats:
 
