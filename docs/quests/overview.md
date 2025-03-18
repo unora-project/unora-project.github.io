@@ -29,9 +29,9 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
 
 - [The Sacrifice](./circles/circle_2/the_sacrifice.md)
 - [Swamp Maze](./circles/circle_2/swamp_maze.md)
-- Ice Wall
+- [Ice Wall](./circles/circle_2/ice_wall.md)
 - [Porte Forest](./circles/circle_2/porte_forest.md)
-- Antique Necklace
+- [Antique Necklace](./circles/circle_2/antique_necklace.md)
 - Fisk's Secret
 - Sick Child
 
@@ -105,6 +105,7 @@ Quests which can be completed more than once (with a cooldown).
 - [East Woodlands Slayer](./circles/side/east_woodlands_slayer.md)
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
 - [Holy Research](./circles/circle_1/holy_research.md)
+- [Ice Wall](./circles/circle_2/ice_wall.md)
 - [Piet Sewer Slayer](./circles/side/piet_sewer_slayer.md)
 - [Pretty Flower](./circles/side/pretty_flower.md)
 - [Slayer of the Crypt](./circles/side/slayer_of_the_crypt.md)
