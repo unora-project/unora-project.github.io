@@ -27,8 +27,8 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
 
     Level range: 11-40
 
-- The Sacrifice
-- Swamp Maze
+- [The Sacrifice](./circles/circle_2/the_sacrifice.md)
+- [Swamp Maze](./circles/circle_2/swamp_maze.md)
 - Ice Wall
 - [Porte Forest](./circles/circle_2/porte_forest.md)
 - Antique Necklace
@@ -92,10 +92,11 @@ Advanced classes are not yet released, but confirmed by the dev team.
 
 ## Repeatable Quests
 
-Quests may show here and under this section if they are repeatable. This is intended to show all quests which can be taken more than one time.
+Quests which can be completed more than once (with a cooldown).
 
 - [Abel Dungeon Slayer](./circles/side/abel_dungeon_slayer.md)
 - [Antonio's Vault Squeaks](./circles/side/antonios_vault_squeaks.md)
+- [Astrid Slayer](./circles/side/astrid_slayer.md)
 - [Blade Material](./circles/side/blade_material.md)
 - [Burning Wood](./circles/side/burning_wood.md)
 - [Crude Leather](./circles/side/crude_leather.md)
@@ -109,6 +110,7 @@ Quests may show here and under this section if they are repeatable. This is inte
 - [Slayer of the Crypt](./circles/side/slayer_of_the_crypt.md)
 - [Suomi Tavern](./circles/side/suomi_tavern.md)
 - [Terror of the Crypt](./circles/circle_1/terror_of_the_crypt.md)
+- [The Sacrifice](./circles/circle_2/the_sacrifice.md)
 - [West Woodlands Slayer](./circles/side/west_woodlands_slayer.md)
 
 ## Event Quests

@@ -12,7 +12,7 @@ Red Fanny Pouch stats:
 - Wisdom: 1
 - Constitution: 1
 
-![Red Fanny Pouch](../assets/red_fanny_pouch.png)
+![Red Fanny Pouch](./assets/red_fanny_pouch.png)
 
 ## Walkthrough
 
