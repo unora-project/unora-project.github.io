@@ -107,6 +107,7 @@ Quests which can be completed more than once (with a cooldown).
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
 - [Holy Research](./circles/circle_1/holy_research.md)
 - [Ice Wall](./circles/circle_2/ice_wall.md)
+- [Karlopos Slayer](./circles/side/karlopos_slayer.md)
 - [Lost Woodlands](./circles/side/lost_woodlands.md)
 - [Piet Sewer Slayer](./circles/side/piet_sewer_slayer.md)
 - [Pretty Flower](./circles/side/pretty_flower.md)
