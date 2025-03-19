@@ -2,8 +2,7 @@
 
 ## Rewards
 
-- Experience that scales with your level (600,000 at **Lv99+**)
-- (**Lv99+**): Choice of armor or random equipment (potential chance for a mount)
+- Experience that scales with your level
 
 ## Cooldown
 
