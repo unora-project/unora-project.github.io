@@ -57,18 +57,18 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
 
     __Primary__
 
-    [:octicons-arrow-right-24: Alchemy](./professions/alchemy.md)<br>
-    [:octicons-arrow-right-24: Armorsmithing](./professions/armorsmithing.md)<br>
-    [:octicons-arrow-right-24: Enchanting](./professions/enchanting.md)<br>
-    [:octicons-arrow-right-24: Jewelcrafting](./professions/jewelcrafting.md)<br>
-    [:octicons-arrow-right-24: Tailoring](./professions/tailoring.md)<br>
-    [:octicons-arrow-right-24: Weaponsmithing](./professions/weaponsmithing.md)<br>
+    [:octicons-arrow-right-24: Alchemy](./professions/types/primary/alchemy.md)<br>
+    [:octicons-arrow-right-24: Armorsmithing](./professions/types/primary/armorsmithing.md)<br>
+    [:octicons-arrow-right-24: Enchanting](./professions/types/primary/enchanting.md)<br>
+    [:octicons-arrow-right-24: Jewelcrafting](./professions/types/primary/jewelcrafting.md)<br>
+    [:octicons-arrow-right-24: Tailoring](./professions/types/primary/tailoring.md)<br>
+    [:octicons-arrow-right-24: Weaponsmithing](./professions/types/primary/weaponsmithing.md)<br>
 
     __Secondary__
 
-    [:octicons-arrow-right-24: Cooking](./professions/cooking.md)<br>
-    [:octicons-arrow-right-24: Fishing](./professions/fishing.md)<br>
-    [:octicons-arrow-right-24: Foraging](./professions/foraging.md)<br>
+    [:octicons-arrow-right-24: Cooking](./professions/types/secondary/cooking.md)<br>
+    [:octicons-arrow-right-24: Fishing](./professions/types/secondary/fishing.md)<br>
+    [:octicons-arrow-right-24: Foraging](./professions/types/secondary/foraging.md)<br>
 
 -   __Equipment__
 
