@@ -1,6 +1,6 @@
 # Warrior
 
-Your enemies will fall to your blades with the fury of a thousand suns. Fighting is your forte and you let everyone know it. Dedicate yourself to damaging enemies.
+> Your enemies will fall to your blades with the fury of a thousand suns. Fighting is your forte and you let everyone know it. Dedicate yourself to damaging enemies.
 
 ## Mastering
 

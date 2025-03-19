@@ -1,6 +1,6 @@
 # Monk
 
-Your body will be a shield for others to gather near you. Attempt to grab the attention of your foes to aid others in battle. While your heart is strong, so will your fists and legs.
+> Your body will be a shield for others to gather near you. Attempt to grab the attention of your foes to aid others in battle. While your heart is strong, so will your fists and legs.
 
 ## Mastering
 

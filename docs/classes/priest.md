@@ -1,6 +1,6 @@
 # Priest
 
-Using magic to protect other sparks, you will grant blessing and heal wounds. Nothing will conquer your allies with you by their side.
+> Using magic to protect other sparks, you will grant blessing and heal wounds. Nothing will conquer your allies with you by their side.
 
 ## Mastering
 
