@@ -38,4 +38,12 @@ This quest has a 22 hour cooldown.
 
 ### If you selected "I will rescue them."
 
-TBD.
+!!! warning
+
+    This quest has the potential to be _very_ time consuming. Each map in Astrid has one child that can be rescued. As of right now, there seems to be only one tile per map that will trigger a child being found. It's unknown if this is intended or if it will be modified at a later date to add a higher chance of finding a child on a map.
+
+- Select "I will."
+- You tell Chloe you are going to rescue the children that were kidnapped in Astrid
+- Head to Astrid
+- Wander around aimlessly on any map you choose to find a child. There is one child on each map in Astrid
+- Return to Chloe once you've found at least one child to complete the quest
