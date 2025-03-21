@@ -4,7 +4,7 @@ Quest list as seen in-game.
 
 ## What is a circle?
 
-A "circle" in Unora is simply  a level range (i.e. levels 1-10).
+A "circle" in Unora is simply a level range (i.e. levels 1-10).
 
 ## Circle 1
 
