@@ -12,7 +12,7 @@ hide:
 
 <center>
 An unofficial wiki for Unora: Elemental Harmony.<br>
-[How to contribute](./contributing.md)
+[Discord](https://discord.gg/uB4uMkUTWU) | [Download](https://github.com/Jinori/UnoraLaunchpad/releases/tag/BetaNew) | [Contributing](./contributing.md)
 </center>
 
 <div class="grid cards" markdown>
@@ -51,7 +51,7 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Skandara](./religion/gods/skandara.md)<br>
     [:octicons-arrow-right-24: Theselene](./religion/gods/theselene.md)<br>
 
--   __Professions__
+-   __[Professions](./professions/overview.md)__
 
     ---
 
