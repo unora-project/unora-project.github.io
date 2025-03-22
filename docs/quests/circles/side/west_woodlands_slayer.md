@@ -1,5 +1,9 @@
 # West Woodlands Slayer
 
+## Restrictions
+
+- Must be between level ? - 70
+
 ## Rewards
 
 - Experience that scales with your level

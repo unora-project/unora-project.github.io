@@ -5,7 +5,9 @@
 - 125,000 Experience (total)
 - 20,000 Gold
 - 5 Game Points
-- Legend mark: Cured the Sick Child of Loures
+- Legend mark
+    - White Rose method: Cured the Sick Child of Loures
+    - Black Rose method: Killed the Sick Child of Loures (dark orange)
 
 ## Walkthrough
 
@@ -20,11 +22,17 @@
 
 !!! tip
 
-    This quest will require 2 White Roses and a Gold Rose. While you're out in the Wilderness, you can grab these ahead of time at the following coordinates:
+    The "right" way to complete this quest will require 2 White Roses and a Gold Rose. While you're out in the Wilderness, you can grab these ahead of time at the following coordinates:
 
     - 14,131 (White Rose)
     - 143,172 (White Rose)
+    - 248,76 (White Rose)
     - 144,171 (Gold Rose)
+    - 247,74 (Black Rose)
+
+!!! warning
+
+    Returning to Paulin with a Black Rose will alter the way this quest plays out. No particular walkthrough for the Black Rose method, but returning with a Black Rose will kill the sick child, giving you a different legend mark.
 
 - Return to Paulin with the White Rose
 - Select "Yes. Here you go."

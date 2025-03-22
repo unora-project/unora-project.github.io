@@ -44,9 +44,9 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
 - [Find the Mysterious Artifact](./circles/circle_1/find_the_mysterious_artifact.md)
 - Queen Octopus
-- Dragon Scale
+- [Dragon Scale](./circles/circle_3/dragon_scale.md)
 - Louegie's Ghost Problem
-- Supply Loures Army
+- [Supply Loures Army](./circles/circle_3/supply_loures_army.md)
 - Pentagram
 
 ## Circle 4
