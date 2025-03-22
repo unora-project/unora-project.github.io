@@ -1,0 +1,4 @@
+Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
+Cursed Shield,Chaos,Master,18,-18,-4000,-2000,22,-20,-2,-2,-2,-2,-2,22,-10,-
+Captain Shield,-,Master,18,-15,2000,-,-10,15,-,-,-,-,-,-5,-,-
+Cathonic Shield,Chaos,Master,20,-19,5000,-,-16,20,-,-,-,-,-,-8,-,-

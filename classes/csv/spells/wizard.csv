@@ -1,0 +1,61 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Beag Athar,3,3/5/3/3/3,800,-,-,Mileth Special Spells Master,Attacks the enemy with weak wind.
+Beag Srad,3,3/5/3/3/3,800,-,-,Mileth Special Spells Master,Attacks the enemy with weak fire.
+Arcane Bolt,3,3/3/3/3/3,"1,000",-,-,Mileth Special Spells Master,Attacks the enemy with base non-elemental damage.
+Beag Creag,3,3/5/3/3/3,800,-,-,Mileth Special Spells Master,Attacks the enemy with weak earth.
+Beag Sal,3,3/5/3/3/3,800,-,-,Mileth Special Spells Master,Attacks the enemy with weak water.
+Beag Creag Lamh,10,3/10/7/3/3,"2,500","Raw Beryl (1), Wolf Teeth (2)",Beag Creag (100),Mileth Special Spells Master,Attacks enemies on all sides of you with earth.
+Beag Sal Lamh,10,3/18/11/3/3,"2,500","Raw Sapphire (1), Wolf Fur (2)",Beag Sal (100),Mileth Special Spells Master,Attacks enemies on all sides of you with water.
+Beag Srad Lamh,10,3/18/11/3/3,"2,500","Raw Ruby (1), Scorpion's Sting (2)",Beag Srad (100),Mileth Special Spells Master,Attacks the enemy with weak fire in all directions.
+Beag Athar Lamh,10,3/10/7/3/3,"5,000","Bat's Wing (2), Raw Emerald (1)",Beag Athar (100),Mileth Special Spells Master,Attacks enemies on all sides of you with wind.
+Beag Cradh,11,3/11/5/3/3,"2,500",Spider's Eye (3),-,Mileth Special Spells Master,"Curses the enemy, increases their armor class by 10."
+Creag,11,3/14/7/5/3,"5,000",Mantis Eye (3),Beag Creag (100),Mileth Special Spells Master,Attacks the enemy with earth.
+Srad,11,5/14/7/3/3,"2,500",Centipede's Gland (3),Beag Srad (100),Mileth Special Spells Master,Attacks the enemy with fire.
+Athar,11,3/14/7/3/5,"5,000",Mantis Eye (3),Beag Athar (100),Mileth Special Spells Master,Attacks the enemy with wind.
+Sal,11,4/14/7/4/4,"2,500",Mantis Eye (3),Beag Sal (100),Mileth Special Spells Master,Attacks the enemy with water.
+Arcane Missile,21,3/25/17/5/5,"15,000",Exquisite Linen (3),Arcane Bolt (100),Mileth Special Spells Master,Attacks the enemy with base non-elemental damage.
+Athar Lamh,27,3/23/12/3/9,"10,000","Royal Silver Ring (1), Wolf Fur (2)","Athar (100), Beag Athar Lamh (100)",Undine Black Magic Master,Attacks enemies on all sides of you with wind.
+Srad Lamh,27,9/23/12/3/3,"10,000",Goblin's Skull (3),"Beag Srad Lamh (100), Srad (100)",Undine Black Magic Master,Attacks the enemy with weak fire in all directions.
+Sal Lamh,27,6/23/12/6/6,"10,000","Royal Silver Ring (1), Wolf Fur (2)","Beag Sal Lamh (100), Sal (100)",Undine Black Magic Master,Attacks enemies on all sides of you with water.
+Creag Lamh,27,3/23/12/9/3,"10,000","Royal Silver Ring (1), Wolf Fur (2)","Beag Creag Lamh (100), Creag (100)",Undine Black Magic Master,Attacks enemies on all sides of you with earth.
+Cradh,30,3/32/15/5/6,"8,000",Giant Bat's Wing (2),Beag Cradh (100),Mileth Special Spells Master,"Curses the enemy, increasing their armor class by 20 and reducing their magic resistance by 10%."
+Sal Meall,41,7/36/23/7/7,"20,000","Rock Fish (2), Pristine Sapphire (1)","Sal (100), Sal Lamh (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with mild water.
+Home,41,3/42/35/5/5,"25,000","Mimic Teeth (2), Raw Heartstone (2)",-,Piet Priestess,Teleports the caster to their home nation.
+Creag Meall,41,3/36/23/11/3,"20,000","Goblin's Skull (3), Pristine Beryl (1)","Creag (100), Creag Lamh (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with mild earth.
+Athar Meall,41,3/36/23/3/11,"20,000","Giant Bat's Wing (3), Pristine Emerald (1)","Athar (100), Athar Lamh (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with mild wind.
+Mor Sal,41,8/40/27/8/8,"50,000","Hobgoblin's Skull (2), Royal Silver Ring (2)",Sal (100),Undine Black Magic Master,Attacks the enemy with strong water.
+Srad Meall,41,11/36/23/3/3,"20,000","Scorpion's Tail (3), Pristine Ruby (1)","Srad (100), Srad Lamh (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with mild fire.
+Mor Creag,41,3/40/27/12/3,"50,000","Hobgoblin's Skull (2), Royal Silver Ring (2)",Creag (100),Undine Black Magic Master,Attacks the enemy with strong earth.
+Mor Srad,41,12/40/27/3/3,"50,000","Kardi Fur (2), Royal Gold Ring (2)",Srad (100),Undine Black Magic Master,Attacks the enemy with strong fire.
+Mor Athar,41,3/40/27/3/12,"50,000","Ialtag's Eye (1), Royal Silver Ring (2)",Athar (100),Undine Black Magic Master,Attacks the enemy with strong wind.
+Dall,48,3/42/38/10/3,"50,000","Mythril Earrings (1), Mushroom (2)",-,Suomi Dark Magic Master,Blinds enemy for 25 seconds.
+Expose Weakness,58,3/52/30/12/7,"50,000","Magus Zeus (1), Wisp Core (2)",-,Suomi Dark Magic Master,Exposes the enemy's defense element.
+Mor Srad Lamh,60,14/52/30/3/3,"75,000","Royal Silver Ring (3), Hobgoblin's Skull (3)","Srad Lamh (100), Mor Srad (100)",Undine Black Magic Master,Attacks enemies on all sides of you with fire.
+Mor Sal Lamh,60,9/52/30/9/9,"75,000","Royal Silver Ring (2), Hobgoblin's Skull (3)","Sal Lamh (100), Mor Sal (100)",Undine Black Magic Master,Attacks enemies on all sides of you with earth.
+Mor Cradh,60,5/75/38/5/5,"50,000","Marauder's Spine (2), Ialtag's Eye (1)",Cradh (100),Suomi Dark Magic Master,"Curses the enemy, increasing their armor class by 35 and reducing their magic resistance by 20%."
+Mor Athar Lamh,60,3/52/30/3/14,"75,000","Royal Silver Ring (2), Hobgoblin's Skull (3)","Athar Lamh (100), Mor Athar (100)",Undine Black Magic Master,Attacks enemies on all sides of you with wind.
+Mor Creag Lamh,60,3/51/36/14/3,"75,000","Royal Silver Ring (3), Hobgoblin's Skull (3)","Creah Lamh (100), Mor Creag (100)",Undine Black Magic Master,Attacks enemies on all sides of you with earth.
+Mor Athar Meall,71,3/70/41/3/16,"100,000","Kardi Fur (2), Ialtag's Eye (1)","Mor Athar (100), Athar Meall (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with strong wind.
+Arcane Blast,71,5/72/38/5/5,"50,000",Wisp Core (3),Arcane Missile (100),Mileth Special Spells Master,Attacks the enemy with base non-elemental damage.
+Mor Srad Meall,71,16/70/41/3/3,"100,000","Mushroom (3), Ialtag's Eye (1)","Mor Srad (100), Srad Meall (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with strong fire.
+Mor Creag Meall,71,3/70/41/16/3,"100,000","Kardi Fur (2), Ialtag's Eye (1)","Mor Creag (100), Creag Meall (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with strong earth.
+Mor Sall Meall,71,10/70/41/10/10,"100,000","Kardi Fur (2), Ialtag's Eye (1)","Mor Sal (100), Sal Meall (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with strong water.
+Ard Sal,80,12/76/44/12/12,"250,000","Ialtag's Eye (3), Pristine Sapphire (10)",Mor Sal (100),Suomi Dark Magic Master,Attacks the enemy with intense water.
+Ard Creag,80,5/76/44/20/5,"250,000","Ialtag's Eye (3), Pristine Beryl (10)",Mor Creag (100),Suomi Dark Magic Master,Attacks the enemy with intense earth.
+Ard Athar,80,5/76/44/5/20,"250,000","Ialtag's Eye (3), Pristine Emerald (10)",Mor Athar (100),Suomi Dark Magic Master,Attacks the enemy with intense wind.
+Ard Srad,80,20/76/44/5/5,"250,000","Ialtag's Eye (3), Pristine Ruby (10)",Mor Srad (100),Suomi Dark Magic Master,Attacks the enemy with intense fire.
+Ard Cradh,90,10/105/55/10/15,"175,000",Zombie Flesh (3),Mor Cradh (100),Suomi Dark Magic Master,"Curses the enemy, increasing their AC by 50 and reducing their magic resistance by 30%."
+Chain Lightning,Master,3/3/3/3/3,-,-,-,Master Dungeon,"Deals damage, then jumps to nearby enemies."
+Tidal Breeze,Master (Pure),25/140/90/15/15,"500,000","Gold Shocker Piece (5), Blue Shocker Piece (5)",-,Suomi Dark Magic Master,Attacks enemies on all sides of you with wind and water. Pure only.
+Dia Cradh,Master (Pure),3/3/3/3/3,-,-,-,Grand Master,"Curses the enemy, increasing their AC by 65 and reducing their magic resistance by 40%."
+Arcane Explosion,Master,3/120/60/10/10,"250,000",Blue Shocker Piece (2),Arcane Blast (100),Mileth Special Spells Master,"Causes an explosion around the enemy, dealing damage based on mana."
+Tidal Wave,Master,3/3/3/3/3,-,-,-,Master Dungeon,Summons a wave of water in front of the caster.
+Meteor,Master,3/3/3/3/3,-,-,-,Grand Master,Attacks the enemy with a meteor that leaves behind fire.
+Ard Creag Meall,Master,9/130/95/15/18,"500,000",Ruidhtear Toe (2),"Ard Creag (100), Mor Creag Meall (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with strong earth and stuns. Ard Creag and Mor Creag Meall upgrade.
+Ard Sal Meall,Master,15/145/95/10/20,"500,000",Ice Elemental Flame (3),"Ard Sal (100), Mor Sal Meall (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with strong water and splashse. Ard Sal and Mor Sal Meall upgrade.
+Ard Srad Meall,Master,22/125/80/15/15,"500,000",Gold Beetalic Head (5),"Ard Srad (100), Mor Srad Meall (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with strong fire and burns. Ard Srad and Mor Srad Meall upgrade.
+Magma Surge,Master (Pure),25/140/90/15/15,"500,000","Red Shocker Piece (5), Black Shocker Piece (5)",-,Suomi Dark Magic Master,Attacks enemies on all sides of you with earth and fire. Pure only.
+Seismic Shift,Master,19/180/110/15/35,"500,000",Ice Skeleton Skull (5),-,Undine Black Magic Master,"Shifts the ground out in front of you in a cone, pushing enemies away."
+Fas Spiorad,Master,3/3/3/3/3,-,-,-,Master,Replenishes mana using health. Replaces Rumination.
+Ard Athar Meall,Master,7/155/98/5/9,"500,000",Direwolf Lock (3),"Ard Athar (100), Mor Athar Meall (100)",Suomi Dark Magic Master,Attacks the enemy and surrounding enemies with strong wind and a chance to crit. Ard Athar and Mor Athar Meall upgrade.
+Sight of Frailty,Master (Pure),3/3/3/3/3,-,-,-,Master,Reveals the weakness of all monsters in your view. Pure only.

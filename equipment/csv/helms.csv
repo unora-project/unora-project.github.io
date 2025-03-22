@@ -1,0 +1,4 @@
+Name,Class,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
+Kopfloser Hood,Rogue,Quest: Pentagram,60,1,-1,150,-,-,5,-,-,-,-,-,-,-,-
+Scarlet Chitin Helmet,Warrior,Quest: Pentagram,60,1,-1,200,-,-,5,1,-,-,-,-,-,-,-
+Lich Hood,Wizard,Quest: Pentagram,60,1,-1,-,200,-,-,-,1,-,-,-1,-,-,-

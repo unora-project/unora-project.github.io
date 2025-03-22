@@ -1,0 +1,8 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Assail,1,3/3/3/3/3,-,-,-,-,A basic attack that deals a small amount of damage to an enemy immediately in front of you.
+Blessed Bolt,1,3/3/3/3/3,-,-,-,-,A bolt of blessed energy.
+nis,3,3/5/5/3/3,"2,000",-,-,Rucesion Special Skills Master,Allows an aisling to check on Unora's current time.
+Inspect,3,3/5/5/3/3,"2,000",-,-,Mileth Special Skills Master,Allows an aisling to study an item's attributes.
+Summon Pet,10,3/6/12/5/5,"5,000",Spider's Silk (2),-,Tagor Pet Master,Allows the priest to summon a pet.
+Transfer Blood,11,3/7/12/4/3,"5,000",Raw Honey (1),-,Rucesion Special Skills Master,Transfers blood from the caster to the target.
+Throw,50,5/9/5/3/3,"25,000",-,-,Abel Combat Skills Master,Allows an aisling to throw an entity away from them.
