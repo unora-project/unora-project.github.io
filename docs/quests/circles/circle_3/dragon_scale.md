@@ -88,7 +88,7 @@ What we know so far is that there's a dragon that exists in an area with bright 
 We'll need to collect these items to attract the dragon:
 
 - Cook a Sweet Buns dish
-    - To cook this dish yourself, you must first learn the recipe, which is rewarded from the [Supply Loures Army](./supply_loures_army.md) quest
+    - To cook this dish yourself, you must first learn the recipe. There's a chance of obtaining it as a reward from completing the [Supply Loures Army](./supply_loures_army.md) quest, or getting the recipe by other means (random monster drop). Otherwise, you can ask someone to craft you one.
     - Ingredients: 15 Fruit, 5 Vegetables, 1 Flour
         - You can use Acorns on the floor as fruit
         - Vegetables can be purchased from most restaurants
