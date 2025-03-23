@@ -6,7 +6,7 @@
 
 ## Rewards
 
-- Sweet Buns cooking recipe
+- Chance of learning Sweet Buns cooking recipe
 - Legend mark
     - During Sick Child, if you cured the princess: Supplied the Loures Army
     - During Sick Child, if you killed the princess: Thrown out of Loures Castle by the Knights (dark orange)
