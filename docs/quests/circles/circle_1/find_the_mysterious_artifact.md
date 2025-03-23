@@ -1,5 +1,9 @@
 # Find the Mysterious Artifact
 
+!!! info
+
+    This questline is split into multiple quests in the in-game quest log. As this quest is considered the main story quest, the entire questline will be listed here and split up into sections based on the quest log entries.
+
 ## Requirements
 
 - This quest is available at various levels
@@ -10,7 +14,7 @@
 
 ## Walkthrough
 
-### Part 1: Finding the Mysterious Artifact
+### Part 1: Find the Mysterious Artifact
 
 To start this quest, you must come across an item called a "Mysterious Artifact". This item is found randomly, but can be found  walking around in the Mileth Crypt floors. It's been reported this can be found on floors 3 and 4.
 
@@ -32,13 +36,17 @@ Once you have the Mysterious Artifact, to proceed, you must join a [religion](./
 - Select "Thank you Goddess"
 - You can choose to stay here or chat with the other Goddesses, although they have nothing useful to say at the moment
 
-#### Summary
+##### Summary
 
 Miraelis explains that the summoner that helped Ignatar is pinned up on the 3rd floor of Eingren Manor and has protected the floor with a barrier. To get around the barrier, you must assemble the True Elemental Artifact. To do this, you must collect four artifacts and bring them to the Goddesses, which, with the other Goddess's help, Miraelis would be able to assemble.
 
 The first artifact, the Earth Artifact, is held by the Earth Guardian in West Woodlands. She asks you to find this artifact first. Once found, the other Goddesses will assist with the other artifacts. You give Miraelis the Mysterious Artifact that you found so she can have it studied for anomalies.
 
-### Part 2: Earth Artifact
+### Part 2: Elemental Guardians
+
+!!! info
+
+    This quest is titled "Find the Mysterious Artifact" in game within the 41-70 section. As this quest has the exact same title as the first quest, I've opted to call this "Elemental Guardians" to differentiate the two.
 
 !!! note
 
@@ -58,7 +66,7 @@ The first artifact, the Earth Artifact, is held by the Earth Guardian in West Wo
 
 Miraelis mentions you should speak with Goddess Theselene about the fire artifact.
 
-### Part 3: Fire Artifact
+#### Fire Artifact
 
 !!! note
 
@@ -85,7 +93,7 @@ Theselene says she noticed some strange lighting in the Mileth Crypt and that it
 
 Miraelis mentions you should speak with Goddess Serendael about the wind artifact.
 
-### Part 4: Wind Artifact
+#### Wind Artifact
 
 !!! note
 
@@ -111,7 +119,7 @@ Serendael tells you that the Wind Artifact can be found in Astrid North.
 
 Miraelis mentions you should speak with Goddess Skandara about the Sea Guardian (sea artifact).
 
-### Part 5: Sea Artifact
+#### Sea Artifact
 
 !!! note
 
@@ -138,7 +146,7 @@ Skandara found the Sea Guardian wandering around the shores of Kalopos.
 
 Skandara thanks you and mentions that the last part is to assemble the True Elemental Artifact. Miraelis will know more about this.
 
-### Part 6: True Elemental Artifact
+#### True Elemental Artifact
 
 !!! note
 
@@ -160,7 +168,7 @@ Miraelis explains that in order to assemble the True Elemental Artifact, she wil
 
 Miraelis requires you to be at least level 71 before proceeding further. If you are 71 or higher, speak with her again.
 
-### Part 7: The Four Trials
+### Part 3: The Goddess' Trials
 
 !!! note
 
@@ -199,5 +207,17 @@ TBD.
 TBD.
 
 #### Trial of Sacrifice
+
+TBD.
+
+### Part 4: Search for the Summoner
+
+TBD.
+
+### Part 5: Find the Summoner again
+
+TBD.
+
+### Part 6: Defeat the Dark Army
 
 TBD.
