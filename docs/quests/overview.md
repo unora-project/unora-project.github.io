@@ -42,7 +42,7 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
     Level range: 41-70
 
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
-- [Find the Mysterious Artifact](./circles/circle_1/find_the_mysterious_artifact.md)
+- [Find the Mysterious Artifact](./circles/circle_1/find_the_mysterious_artifact.md#part-2-elemental-guardians)
 - Queen Octopus
 - [Dragon Scale](./circles/circle_3/dragon_scale.md)
 - Louegie's Ghost Problem
@@ -55,12 +55,12 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
 
     Level range: 71-98
 
-- Goddess' Trials
+- [Goddess' Trials](./circles/circle_1/find_the_mysterious_artifact.md#part-3-the-goddess-trials)
 - Werewolf of Piet
 - Protect Lynith Pirate Shop
 - Challenge the Carnun
 - Nightmare
-- Search for the Summoner
+- [Search for the Summoner](./circles/circle_1/find_the_mysterious_artifact.md#part-4-search-for-the-summoner)
 
 ## Circle 5
 
@@ -69,7 +69,7 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
     Level range: 99+
 
 - Bounty Board
-- Find the Summoner again
+- [Find the Summoner again](./circles/circle_1/find_the_mysterious_artifact.md#part-5-find-the-summoner-again)
 
 ## Circle 6
 
@@ -77,7 +77,7 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
 
     Level range: Master
 
-- Defeat the Dark Army
+- [Defeat the Dark Army](./circles/circle_1/find_the_mysterious_artifact.md#part-6-defeat-the-dark-army)
 - Medusa
 - Shamensyth
 - Lady Phoenix
