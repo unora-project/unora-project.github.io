@@ -56,7 +56,7 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
     Level range: 71-98
 
 - [Goddess' Trials](./circles/circle_1/find_the_mysterious_artifact.md#part-3-the-goddess-trials)
-- Werewolf of Piet
+- [Werewolf of Piet](./circles/circle_4/werewolf_of_piet.md)
 - Protect Lynith Pirate Shop
 - Challenge the Carnun
 - Nightmare
