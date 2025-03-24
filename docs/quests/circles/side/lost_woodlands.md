@@ -33,9 +33,9 @@ This quest has a 24 hour cooldown.
 
     You have two options here:
 
-    - "New set of armor"
+    - "Oh, some new armor please."
         - Rewards armor
-    - "Whatever ya got!"
+    - "Whatever you got!"
         - Rewards a random piece of equipment, with one of the items being a faster mount
 
 - Selecting a reward completes the quest
