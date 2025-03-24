@@ -4,6 +4,7 @@
 
 - 600,000 Experience
 - Legend mark: Learned to control the Werewolf Curse
+- Spell: Werewolf Form
 
 ## Walkthrough
 
