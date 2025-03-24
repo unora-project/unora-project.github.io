@@ -1,5 +1,10 @@
 Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
-Spiked Greaves,41-70 Bosses,56,-,-7,200,-400,-,5,-,-,-,-,-,-,-,-
+Leather Greaves,Mileth Armor Shop,6,3,-1,50,-100,-,-,-,-,-,-,-,-,-,-
+Reinforced Leather Greaves,Mythic,21,3,-3,0,-200,-,3,-,-,-,-,-,1,-,-
+Iron Greaves,Mileth Armor Shop,26,5,-3,100,-500,-,3,-,-,-,-,-,-,-,-
+Spiked Greaves,41-70 Bosses / Mythic,56,7,-5,300,-400,-,5,-,-,-,-,-,2,-,-
+Fiery Greaves,Mythic,90,7,-,-,-,-,-,-,-,-,-,-,-,-,-
+Glace Greaves,Mythic,90,7,-,-,-,-,-,-,-,-,-,-,-,-,-
 Dark Aisling Greaves,Arena events / Cthonic Demise,96,7,-8,500,500,-,5,-,-,-,-,-,5,-,Dark Aisling
 Sacred Greaves,Limbo,Master,8,-7,500,1000,-,10,-2,2,2,-,-,-,7,Sacred
 Scurvy Greaves,,Master,8,-8,800,400,-,10,-,-,-,-,-,2,4,Sacred

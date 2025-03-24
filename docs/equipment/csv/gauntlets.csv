@@ -1,7 +1,11 @@
 Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
-Chainmail Gauntlets,41-70 Bosses,41,-,-3,250,-100,-,3,-,-,-,-,-,-,-,-
+Leather Gauntlet,Mileth Armor Shop,9,1,-,25,-,-,-,-,-,-,-,-,-,-,-
+Padded Gauntlet,Mythic,17,1,-1,100,50,-,2,-,-,-,-,-,-,-,-
+Iron Gauntlet,Mileth Armor Shop,33,3,-1,50,-500,-,-,-,-,-,-,-,-,-,-
+Chainmail Gauntlets,41-70 Bosses / Mythic,41,1,-2,250,-100,-,3,-,-,-,-,-,-,-,-
 Dragon Scale Gauntlet,Quest: Dragon Scale,41,1,-4,250,200,-,8,-,-,-,-,-,-,-,Dragon Scale
-Hy-Brasyl Gauntlet,-,95,4,-4,-,-1000,-,-,-,-,-,-,-,-,-,-
+Strap Gauntlet,Mythic,81,4,-3,300,100,-,6,-,-,-,-,-,-,-,-
+Hy-Brasyl Gauntlet,CR10,95,4,-3,200,-1000,-,-,-,-,-,-,-,-,-,-
 Forsaken Gauntlet,Chaos,Master,4,-4,1000,-,5,-5,1,-2,-2,1,1,5,-,Forsaken
 Scurvy Gauntlet,-,Master,4,-4,800,200,-,10,-,-,-,-,-,4,1,Forsaken
 Amorphous Gauntlet,-,Master,4,-3,200,600,-,10,-,-,-,-,-,2,8,-
