@@ -1,5 +1,7 @@
 # Mileth
 
+![Mileth](./assets/mileth.png){ width="750"; }
+
 ## Mundanes
 
 {{ read_csv('./csv/mileth/npcs.csv') }}

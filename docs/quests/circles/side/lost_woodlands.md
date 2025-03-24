@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- Level 50+
+- Minimum level 50+, although 71+ is probably more recommended
 
 ## Rewards
 
@@ -19,5 +19,23 @@ This quest has a 24 hour cooldown.
 - Select "Lost Woodlands"
 - Select "What can I do to help?"
 - Select "I think I can."
-- Maxwell will teleport you to an area where you must kill bosses to push back the monsters trying to enter the area
-- Kill the targeted monsters and report back to Maxwell to complete the quest
+- Select "I have a group ready to help."
+- Select "We are ready!"
+- Maxwell will teleport you to an area where you must kill 4 bosses to push back the monsters trying to enter the area:
+    - Elder Mage (80,55)
+    - Grunk (119, 14)
+    - Twink (18,80)
+    - Fire Draco (21,25)
+- Once the final boss has been defeated, a red portal will spawn to teleport you back to Maxwell
+- Speak to Maxwell and select "Lost Woodlands"
+
+!!! info
+
+    You have two options here:
+
+    - "Oh, some new armor please."
+        - Rewards armor
+    - "Whatever you got!"
+        - Rewards a random piece of equipment, with one of the items being a faster mount
+
+- Selecting a reward completes the quest

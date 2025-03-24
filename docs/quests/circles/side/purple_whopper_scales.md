@@ -7,7 +7,7 @@
 
 ## Cooldown
 
-This quest has a ? hour cooldown.
+This quest has a 22 hour cooldown.
 
 ## Walkthrough
 
@@ -15,5 +15,6 @@ This quest has a ? hour cooldown.
 - Speak with Ayumi and select "Purple Whopper Scales"
 - Select "Always am! What medication?"
 - Select "I'll catch a Purple Whopper for you."
-- Go fish up a Purple Whopper
+- With the fishing profession, fish up a Purple Whopper
+    - This is a rare fish! It could take many hours before you catch one
 - Return to Ayumi with the Purple Whopper to complete the quest

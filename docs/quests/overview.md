@@ -4,7 +4,7 @@ Quest list as seen in-game.
 
 ## What is a circle?
 
-A "circle" in Unora is simply  a level range (i.e. levels 1-10).
+A "circle" in Unora is simply a level range (i.e. levels 1-10).
 
 ## Circle 1
 
@@ -42,12 +42,12 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
     Level range: 41-70
 
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
-- [Find the Mysterious Artifact](./circles/circle_1/find_the_mysterious_artifact.md)
+- [Find the Mysterious Artifact](./circles/circle_1/find_the_mysterious_artifact.md#part-2-elemental-guardians)
 - Queen Octopus
-- Dragon Scale
-- Louegie's Ghost Problem
-- Supply Loures Army
-- Pentagram
+- [Dragon Scale](./circles/circle_3/dragon_scale.md)
+- [Louegie's Ghost Problem](./circles/circle_3/louegies_ghost_problem.md)
+- [Supply Loures Army](./circles/circle_3/supply_loures_army.md)
+- [Pentagram](./circles/circle_3/pentagram.md)
 
 ## Circle 4
 
@@ -55,12 +55,12 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
 
     Level range: 71-98
 
-- Goddess' Trials
-- Werewolf of Piet
-- Protect Lynith Pirate Shop
-- Challenge the Carnun
-- Nightmare
-- Search for the Summoner
+- [Goddess' Trials](./circles/circle_1/find_the_mysterious_artifact.md#part-3-the-goddess-trials)
+- [Werewolf of Piet](./circles/circle_4/werewolf_of_piet.md)
+- [Protect Lynith Pirate Shop](./circles/circle_4/protect_lynith_pirate_shop.md)
+- [Challenge the Carnun](./circles/circle_4/challenge_the_carnun.md)
+- [Nightmare](./circles/circle_4/nightmare.md)
+- [Search for the Summoner](./circles/circle_1/find_the_mysterious_artifact.md#part-4-search-for-the-summoner)
 
 ## Circle 5
 
@@ -69,7 +69,7 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
     Level range: 99+
 
 - Bounty Board
-- Find the Summoner again
+- [Find the Summoner again](./circles/circle_1/find_the_mysterious_artifact.md#part-5-find-the-summoner-again)
 
 ## Circle 6
 
@@ -77,7 +77,7 @@ A "circle" in Unora is simply  a level range (i.e. levels 1-10).
 
     Level range: Master
 
-- Defeat the Dark Army
+- [Defeat the Dark Army](./circles/circle_1/find_the_mysterious_artifact.md#part-6-defeat-the-dark-army)
 - Medusa
 - Shamensyth
 - Lady Phoenix
@@ -107,6 +107,7 @@ Quests which can be completed more than once (with a cooldown).
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
 - [Holy Research](./circles/circle_1/holy_research.md)
 - [Ice Wall](./circles/circle_2/ice_wall.md)
+- [Karlopos Slayer](./circles/side/karlopos_slayer.md)
 - [Lost Woodlands](./circles/side/lost_woodlands.md)
 - [Piet Sewer Slayer](./circles/side/piet_sewer_slayer.md)
 - [Pretty Flower](./circles/side/pretty_flower.md)

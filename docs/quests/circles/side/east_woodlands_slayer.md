@@ -21,4 +21,4 @@ This quest has a 22 hour cooldown.
 - Speak to Ghislain in East Woodlands (10,13)
 - Select "Eastwoodlands Slayer"
 - Skarn will give you a task to kill 10 of a random monster within the Eastern Woodlands
-- Kill the targeted monsters and report back to Ghislain
+- Kill the targeted monsters and report back to Ghislain to complete the quest

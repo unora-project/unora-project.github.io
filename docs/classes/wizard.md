@@ -4,7 +4,7 @@
 
 ## Overview
 
-Wizards cast spells from a distance, have strong single target and AOE damage with the added ability to curse the target with debilitating Cradh curses. Their spells are restricted to the usage of a single element when they first start on their path. At level 50, they are given the opportunity to learn a second element from Dar, the Mileth dark spell master. Once mastered, they have access to all available element's spells.
+Wizards cast spells from a distance, have strong single target and AOE damage with the added ability to inflict  debilitating curses. Their spells are restricted to the usage of a single element when they first start on their path. At level 50, they are given the opportunity to learn a second element from Dar, the Mileth dark spell master. Once mastered, they have access to all available element's spells.
 
 ## Elements
 
