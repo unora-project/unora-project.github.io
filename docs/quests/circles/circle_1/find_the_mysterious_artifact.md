@@ -12,6 +12,7 @@
 
 - Experience
 - (Part 4): Unlocks the ability to Ascend
+- (Part 4): Unlocks level 97 armor
 
 ## Walkthrough
 
