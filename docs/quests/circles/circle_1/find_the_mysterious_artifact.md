@@ -50,6 +50,8 @@ The first artifact, the Earth Artifact, is held by the Earth Guardian in West Wo
 
     This quest is titled "Find the Mysterious Artifact" in game within the 41-70 section. As this quest has the exact same title as the first quest, I've opted to call this "Elemental Guardians" to differentiate the two.
 
+#### Earth Artifact
+
 !!! note
 
     This portion of the quest will require a party.
@@ -335,7 +337,72 @@ _To start the next part of the quest, you will need at least 25,000 vitality bef
 
 ### Part 5: Find the Summoner again
 
-TBD.
+!!! warning
+
+    You will need a party (with a Priest!) for this part.
+
+#### To Cthonic Remains
+
+- (Optional) Once you have 25,000 vitality, return to Miraelis in the God's Realm and speak to her
+- (Optional) She will request for you to investigate the Cthonic Remains and find the summoner
+- Head to Cthonic Remains 11
+
+!!! tip
+
+    Here's a quick guide on where to go inside:
+
+    - CR1 -> CR2: 74,45
+    - CR2 -> CR3: 51,38
+    - CR3 -> CR4: 38,64
+    - CR4 -> CR5: 27,23
+    - CR5 -> CR6: 4,31
+    - CR6 -> CR7: 14,29
+    - CR7 -> CR8: 47,53
+    - CR8 -> CR9: 75,45
+    - CR9 -> CR10: 60,15
+    - CR10 -> CR11: 84,6
+
+- Once inside, enter the broken wall at 1,39
+- Select "We are ready."
+- You will be teleported to the Cthonic Domain, where Summoner Kades resides
+
+#### Second battle with the Summoner
+
+Summoner Kades will cast magic on your party to cage you in place. He'll start muttering in another language:
+
+> Ta se deas duit teacht chun feachaint. Glacfaimid Unora le cheile, na Creants agus me fein. Is anois ar n-am! Lean mise isteach sa dorchadas. Eirigh, a chara dhil, Tauren, Eilimint an Domhain. Tar anuas go Unora, Lady Phoenix, Eilimint an Ghao... Rugadh as na lasracha, Shamensyth, Eilimint an Doi... Ri na Farraige, Medusa, Eilimint an Uisce. Teigh abhaile. Caithfidh me na triobloidi seo a mh...
+
+If you check the yellow chat log, you'll see a translated version of what Summoner Kades is saying (I missed some of this due to the messages being too long, but here is a truncated version):
+
+> It is nice of you to come watch. The Creants and I will take Unora together. Now is our time! Follow me into the darkness. Now is our time! Follow me into the darkness. Rise, my dear friend, Tauren. [truncated] Come down to Unora, Lady Phoenix. [truncated] Born of the flames, Shamensyth. [truncated] Queen of the Sea, Medusa. Return home. I must kill these [truncated]. My friends have returned to the world. You have been following me, it is time to perish.
+
+Summoner Kades will then turn hostile, remove your cage and start attacking your party.
+
+- After some damage, he will portal away. Chase him into the portal
+- You will arrive in Terra Guardian's Domain. Attack him
+- After some more damage, he will summon two Terra Guardians and run off. Defeat the guardians and follow him into the portal
+- You will arrive in the Gale Guardian's Domain. Attack him
+- After some more damage, he will summon two Gale Guardians and run off. Defeat the guardians and follow him into the portal
+- You will arrive in the Tide Guardian's Domain. Attack him
+- After some more damage, he will summon two Tide Guardians and run off. Defeat the guardians and follow him into the portal
+- You will arrive in Ignis Guardian's Domain. Attack him
+- After some more damage, he will summon two Ignis Guardians and run off. Defeat the guardians and follow him into the portal
+- Attack Kades. He will summon one of each guardian's element in a final fight for his life. Defeat the guardians and Kades to finish the battle
+
+Return to the God's Realm.
+
+#### Back to the God's Realm
+
+- Speak to Miraelis
+- Select "No, Kades ported them away."
+- Select "We fought Summoner Kades."
+- Select "He just vanished at the end."
+- Select "What can I do?"
+- Select "Yes Goddess Miraelis."
+
+You brief Miraelis on the fight with Summoner Kades and the Creants taking portals into Unora. Miraelis is worried and found it too soon to send you out on this journey. She asks you to continue your training and see her again once you master.
+
+_To start the next part of the quest, you will need to be a Master of your class._
 
 ### Part 6: Defeat the Dark Army
 
