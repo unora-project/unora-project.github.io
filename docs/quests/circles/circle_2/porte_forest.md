@@ -29,21 +29,27 @@
 - Go to the Suomi Weapon Shop (11,55)
 - In front of Torbjorn, say "Porte Forest". He will request to bring back 4 Trent Roots
     - Everyone in your party will need 4 Trent Roots
+- Go to Porte Forest 3-R (3-C has them too)
+    - From the entrance, right, up, up
+- Kill Tree Demons to collect 4 Trent Roots for everyone in the party
+
+!!! info
+
+    For this part, we are working ahead and collecting Silver Wolf Mane Hairs, which we will turn into Bertil. This saves some time farming them now versus having to go back to town to come right back here.
+
+- Head to Porte Forest 4-R
+    - In 3-R, go to 27,1 to get to 4-R
+- Kill Silver Wolves to collect 5 Silver Wolf Mane Hairs for everyone in the party
+- Head back to Torbjorn in Suomi (11,55) and say "Porte Forest" to turn in the Trent Roots
 - While still in Suomi, head to Bertil, the Suomi White Magic Master (16,86). She will request 5 Silver Wolf Mane Hairs
     - Everyone in your party will need 5 Silver Wolf Mane Hairs
+    - If you followed this guide, you should already have them as we just hunted them. If not, look at the info blob above
 - Head to Porte Forest from the main world map
 
 !!! tip
 
     Porte Forest is split up into three paths: "L" (Left), "C" (Center), and "R" (Right)
 
-- Go to Porte Forest 3-R (3-C has them too)
-    - From the entrance, right, up, up
-- Kill Tree Demons to collect 4 Trent Roots for everyone in the party
-- Head to Porte Forest 4-R
-    - In 3-R, go to 27,1 to get to 4-R
-- Kill Silver Wolves to collect 5 Silver Wolf Mane Hairs for everyone in the party
-- Head back to Torbjorn in Suomi (11,55) and say "Porte Forest" to turn in the Trent Roots
 - He'll ask you to find a pendant in Porte Forest 4-R (11,25)
     - In 3-R, go to 27,1 to get to 4-R
 - Go back to Bertil, the Suomi White Magic Master (16,86) to turn in the Silver Wolf Mane Hairs
