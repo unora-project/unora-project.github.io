@@ -1,4 +1,8 @@
-# Stat Calculator
+---
+title: Stats
+---
+
+# Stats
 
 Enter your current stat allocation (starting stat) and the number you want to arrive at (ending stat).<br>
 Click "Calculate" to show the cumulative amount of experience needed in order to achieve your stat goal.
