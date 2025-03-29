@@ -1,0 +1,23 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Taunt,3,3/3/3/3/3,-,-,-,-,Taunt the enemy to attack you.
+Dodge,5,5/3/3/8/3,"1,000",Spider's Eye (2),-,Sapphire Stream,Gives an armor improvement and degrades magic resistance.
+Inner Fire,11,3/3/8/9/3,"5,000",Bat's Wing (2),-,Sapphire Stream,Increase health regeneration by 8%.
+Goad,15,7/3/8/15/8,"5,000",Kobold's Skull (1),-,Sapphire Stream,Taunt the enemy to attack you (small tile range).
+Ao Poison,21,3/8/9/15/3,"3,000","Apple (3), Spider's Eye (2)",-,Mileth Special Skills,Cleanses the target and restored them to a healthy state.
+Gentle Touch,22,3/3/13/19/4,"10,000",Goblin's Skull (2),-,Sapphire Stream,Heals players surrounding you.
+Last Stand,40,23/5/8/36/17,"20,000","Goblin's Skull (2), Reinforced Leather Greaves (1)",-,Sapphire Stream,Survive through any offensive for 8 seconds.
+Howl,41,23/3/12/38/10,"20,000","Frog's Leg (1), Turtle's Shell (1)",Goad (100),Sapphire Stream,Taunt the enemy to attack you (medium tile range).
+Ao Dall,41,3/10/12/25/5,"5,000",Bat Wing (1),-,Mileth Special Skills,Allows target to see again.
+Earthen Stance,60,25/5/5/44/16,"25,000",Rockcobbler's Scale (2),-,Sapphire Stream,Reflects damage back to the target at a 20% chance.
+Smoke Stance,60,24/6/6/38/24,"25,000",Liver (3),-,Sapphire Stream,"The smoke is so thick around the monk's body, things may go blind while attempting to attack."
+Thunder Stance,60,24/5/5/51/15,"25,000",Wisp's Core (3),-,Sapphire Stream,"After taking damage, increases aggro from a monster by 3000%. Has a chance to stun enemies."
+Mist Stance,60,19/8/15/40/15,"25,000",Crab's Claw (3),-,Sapphire Stream,Heals 15% of your damage taken back to the group.
+Lightning Stance,Master,95/40/31/160/55,"500,000",Ruidhtear's Toe (3),Thunder Stance (100),Sapphire Stream,"After taking damage, increases aggro from a monster by 3000%. Has a chance to stun enemies. Upgrades Thunder Stance."
+Rock Stance,Master,115/25/30/180/65,"500,000",Gold Shocker Piece (5),Earthen Stance (100),Sapphire Stream,Has a 70% chance of reflecting damage and some status effects. Upgrades Earthen Stance.
+Flame Stance,Master,24/6/6/38/24,"500,000",Ice Elemental Flame (3),Smoke Stance (100),Sapphire Stream,"The smoke is so thick around the monk's body, things may go blind while attempting to attack. Upgrades Smoke Stance."
+Adaptive Skin,Master,3/3/3/3/3,-,-,-,Master,Reduces AC and Magic Resistance based on hostile creatures nearby.
+Cure Ailments,Master,3/3/3/3/3,-,-,-,Master Dungeon,"Cures Poison, Blind, and Suain. Self only."
+Tide Stance,Master,100/50/50/175/75,"250,000",Ice Elemental Flame (3),Mist Stance (100),Sapphire Stream,"15% damage taken recouped as life to your group, 8% damage taken recouped as mana to your group. Upgrades Mist Stance."
+Evasion,Master (Pure),75/40/40/120/95,"75,000",Gold Shocker Piece (2),-,Sapphire Stream,Gives an armor improvement and degrades magic resistance. Upgrades to Dodge. Pure only.
+Phoenix Grasp,Master,3/3/3/3/3,-,-,-,Master,Pull the enemy to you.
+Roar,Master,3/3/3/3/3,-,-,-,Master,Taunt the enemy to attack you (medium tile range).

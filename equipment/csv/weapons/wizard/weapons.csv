@@ -1,0 +1,5 @@
+Name,Location,Level,Weight,AC,Skill Dmg,Spell Dmg,Skill % Dmg, Spell % Dmg,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Heal Bonus %,Heal Bonus Flat,Cooldown Reduction %,Cooldown Reduction Flat,Set Bonus
+Grand Staff of Geolith,Crafted,Master,3,-3,30,180,-,60,4000,500,-,10,-,1,4,-,-,-,15,20,1000,25,-,-
+Staff of Ignatar,Crafted,Master,3,-,30,150,-,70,250,750,-,10,-,1,-,-,-,-,8,-,-,10,-,-
+Grand Staff of Ignatar,Crafted,Master,3,-,30,250,-,100,1000,2000,-,10,-,4,3,-,-,-,14,-,-,10,-,-
+Staff of Geolith,Crafted,Master,3,-1,30,120,-,45,1000,500,-,10,-,-,1,-,-,-,8,10,-,10,-,-
