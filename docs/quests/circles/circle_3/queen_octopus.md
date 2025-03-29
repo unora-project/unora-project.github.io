@@ -3,7 +3,7 @@
 ## Rewards
 
 - 700,000 Experience
-- Legend mark
+- Legend mark: Killed the Queen Octopus of Karlopos Island
 
 ## Walkthrough
 
