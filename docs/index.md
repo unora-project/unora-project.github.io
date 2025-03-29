@@ -114,6 +114,6 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
 
     [:octicons-arrow-right-24: Unora Lore](./lore/overview.md)<br>
     [:octicons-arrow-right-24: See all patch notes](./patch_notes/overview.md)<br>
-    [:octicons-arrow-right-24: Calculators](./calculators/hpmp.md)
+    [:octicons-arrow-right-24: Calculators](./calculators/stats.md)
 
 </div>
