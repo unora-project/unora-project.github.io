@@ -11,6 +11,8 @@
 
 ## Walkthrough
 
+### Sick Princess
+
 - Head to Loures and walk into the castle
 - Take the right path up the stairs and walk all the way down the corridor
 - In Loures 2 Floor Hall, take an immediate right
@@ -18,9 +20,12 @@
 - Select "Where can I find this flower?"
 - Select "Yes, I'll help."
 - Paulin is looking for a White Rose to heal the sick princess
+
+### Obtaining the Cure
+
 - Head to the Wilderness through whichever means you prefer
 
-!!! tip
+??? tip "Rose locations"
 
     The "right" way to complete this quest will require 2 White Roses and a Gold Rose. While you're out in the Wilderness, you can grab these ahead of time at the following coordinates:
 
@@ -30,9 +35,11 @@
     - 144,171 (Gold Rose)
     - 247,74 (Black Rose)
 
-!!! warning
+??? warning "The bad ending"
 
     Returning to Paulin with a Black Rose will alter the way this quest plays out. No particular walkthrough for the Black Rose method, but returning with a Black Rose will kill the sick child, giving you a different legend mark.
+
+### Delivering the Cure
 
 - Return to Paulin with the White Rose
 - Select "Yes. Here you go."

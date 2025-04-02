@@ -1,14 +1,14 @@
 # Dragon Scale
 
+??? example ":fontawesome-solid-repeat: Repeatable every 72 hours"
+
+    Only the final part of this quest (where you kill the dragon) is repeatable.
+
 ## Rewards
 
 - 150,000 Experience
 - Legend Mark: Harnessed the power of the Dragon Scale
 - Dragon-themed item
-
-## Cooldown
-
-The final part of this quest (where you kill the dragon) is repeatable and has a 3 day cooldown.
 
 ## Walkthrough
 
@@ -21,7 +21,9 @@ The final part of this quest (where you kill the dragon) is repeatable and has a
 
 !!! info ""
 
-    Callo mentions an environment with bright green grass, walking trees and a stone. He asks you to speak with the other weaponsmiths to see if they know anything about the Dragon Scale.
+Callo mentions an environment with bright green grass, walking trees and a stone. He asks you to speak with the other weaponsmiths to see if they know anything about the Dragon Scale.
+
+!!! info ""
 
 ### Abel Weapon Shop
 
@@ -32,7 +34,9 @@ The final part of this quest (where you kill the dragon) is repeatable and has a
 
 !!! info ""
 
-    Vidar explains someone that reeked of fish came by and said they had to do a lot of fishing to find the perfect fish to lure out the dragon. Vidar thinks it was a Lionfish, but mentions that the other weaponsmiths may have seen him too.
+Vidar explains someone that reeked of fish came by and said they had to do a lot of fishing to find the perfect fish to lure out the dragon. Vidar thinks it was a Lionfish, but mentions that the other weaponsmiths may have seen him too.
+
+!!! info ""
 
 ### Rucesion Weapon Shop
 
@@ -43,7 +47,9 @@ The final part of this quest (where you kill the dragon) is repeatable and has a
 
 !!! info ""
 
-    Marcelo saw the Dragon Scale once. The person with it was trying to get a dragon to appear, but got frustrated. They sat down to eat some Sweet Buns when a massive dragon appeared. Marcelo advises you to ask the other weaponsmiths about it.
+Marcelo saw the Dragon Scale once. The person with it was trying to get a dragon to appear, but got frustrated. They sat down to eat some Sweet Buns when a massive dragon appeared. Marcelo advises you to ask the other weaponsmiths about it.
+
+!!! info ""
 
 ### Piet Weapon Shop
 
@@ -54,7 +60,9 @@ The final part of this quest (where you kill the dragon) is repeatable and has a
 
 !!! info ""
 
-    Turns out that Gunnar knows nothing of the Dragon Scale and tells us to go speak with the other weaponsmiths.
+Turns out that Gunnar knows nothing of the Dragon Scale and tells us to go speak with the other weaponsmiths.
+
+!!! info ""
 
 ### Suomi Weapon Shop
 
@@ -65,7 +73,9 @@ The final part of this quest (where you kill the dragon) is repeatable and has a
 
 !!! info ""
 
-    Torbjorn mentions that the person that saw the dragon said you should run when you first encounter it; the dragon is fast. He then tells us to speak with the other weaponsmiths.
+Torbjorn mentions that the person that saw the dragon said you should run when you first encounter it; the dragon is fast. He then tells us to speak with the other weaponsmiths.
+
+!!! info ""
 
 ### Undine Weapon Shop
 
@@ -76,8 +86,10 @@ The final part of this quest (where you kill the dragon) is repeatable and has a
 
 
 !!! info ""
-    Avel remembers that the Dragon must be lured out with food. Leaving it will attract the dragon.
 
+Avel remembers that the Dragon must be lured out with food. Leaving it will attract the dragon.
+
+!!! info ""
 
 ### Recap
 
@@ -97,17 +109,15 @@ We'll need to collect these items to attract the dragon:
 
 ### The Dragon
 
-!!! tip
+- Once you have the items, head to the Wilderness (19,17)
+
+??? danger ":material-emoticon-devil-outline: Boss ahead!"
 
     You are going to be put up against a boss here. The dragon has huge AoE spells that reach several tiles outwards. As a ranged class, you should be okay if you can dodge, but melee may have some difficulty here without a party. I was able to solo the dragon as a 72 Wizard without any trouble.
 
-    Once you've completed this quest, you can start here after the cooldown period has ended.
-
-- Once you have the items, head to the Wilderness (19,17)
-
-!!! warning
-
     Make sure none of your party is in the square when you start this process. Once the dragon spawns, it will charge into the square and cast a large AoE, killing anyone it hits (even level 99's)!
+
+    Once you've completed this quest, you can start here after the cooldown period has ended.
 
 - While inside of the square, eat the Sweet Buns
 - Drop the Lion Fish in the direct middle of the square (18,16)
@@ -130,10 +140,5 @@ Choose the item you want to craft and visit the appropriate weaponsmith.
 
 - Select "You have a deal!"
 - Select "Yes! Forge my (item)!"
-
-!!! bug
-
-    There's a visual bug here where even if you have the 75,000 gold and dragon scale on you, the weaponsmith may tell you that you don't have the required items, but still take your dragon scale and gold away. This appears to just be a dialogue bug as speaking to the weaponsmith again shows the proper wait timer.
-
 - From here, the quest is completed, but you must wait 1 real life hour for the weaponsmith to craft your dragon item
 - Return to the weaponsmith after 1 real life hour to receive your item

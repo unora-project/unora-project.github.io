@@ -1,13 +1,13 @@
 # Holy Research
 
+??? example ":fontawesome-solid-repeat: Repeatable every 3 hours"
+
+    This quest doesn't appear to be repeatable once you're 99 (possibly sooner?)
+
 ## Rewards
 
 - 2,000 Experience
 - 5 Game Points
-
-## Cooldown
-
-This quest is repeatable and has a 3 hour cooldown. This quest doesn't appear to be repeatable once you're 99.
 
 ## Walkthrough
 

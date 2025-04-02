@@ -16,7 +16,11 @@
 - Select "Harsh. I will make alliances."
 - Select "I will be ready."
 
+!!! info ""
+
 Fabrizio explains that there are 10 leaders in Mythic; they all sit outside of their respective enemies' zones. Each leader has one enemy. They're hardheaded and have been fighting longer than either of us have been alive. You need to make up to 5 alliances with the leaders. You need to choose who will come out victorious and who will be forced to retreat.
+
+!!! info ""
 
 Each leader has 3 quests for you, which are all "kill X number of enemy" or "return X number of item" quests. For the maximum amount of experience, complete all 3 quests for all 10 leaders before selecting which leaders to form an alliance with. There is no "meta" or "best" leader to choose here, so pick your favorites.
 
@@ -32,7 +36,7 @@ Each leader has 3 quests for you, which are all "kill X number of enemy" or "ret
 
 Once you have completed a leader's 3 quests, they will ask to form an alliance with you. Speak to them again and they will request you to kill the named boss of the area 3 times. Do this for 5 leaders, but remember, once you ally with a leader and complete their quest, you are no longer eligible to ally with their enemy.
 
-!!! tip
+??? tip ""Optimal" leaders to ally with"
 
     The leaders considered "easiest" are the lower ones:
 
@@ -46,4 +50,8 @@ Once you have chosen 5 leaders to ally with, speak to Fabrizio.
 
 - Select "Mythic?"
 
+!!! info ""
+
 Fabrizio congratulates you, noting that these leaders have been feuding forever. Whichever alliances you made will be victorious, while the others will perish. It was the only way.
+
+!!! info ""

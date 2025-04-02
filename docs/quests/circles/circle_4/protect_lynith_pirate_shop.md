@@ -8,7 +8,7 @@
 
 ## Walkthrough
 
-You will need a party
+??? warning ":octicons-people-16: Party required!"
 
 - Head to Lynith Beach
 - Go to Lynith Beach South (44,19) to board the Pirate Ship Deck

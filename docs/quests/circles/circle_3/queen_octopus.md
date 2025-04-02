@@ -17,24 +17,26 @@
 - Select "Sure, where can I find them?"
 - Select "I'll be back with the livers."
 
+!!! info ""
+
 Maria asked you to get her 5 livers, which can be found from Octopus in Karlopos Island.
+
+!!! info ""
 
 - Return to Maria with 5 livers and speak with her
 - Select "Queen Octopus"
 - Select "I have the livers you asked for."
 - Click "Next"
 
+!!! info ""
+
 Maria hands you a Red Pearl and a clue, which she mentions a secret entrance to Karlopos Island North (BUG).
 
-!!! bug
-
-    The dialogue here says that there is a secret entrance in Karlopos Island North to find her brother, but the zone is actually in Karlopos Island East.
+!!! info ""
 
 ### Finding Maria's Brother
 
-!!! info
-
-    You will need a group for this section.
+!!! warning ":octicons-people-16: Party required!"
 
 - Head to Karlopos Island
 - Go north 2 maps to arrive on Karlopos Island East
@@ -47,7 +49,11 @@ Maria hands you a Red Pearl and a clue, which she mentions a secret entrance to 
 - Select "Thank you. Will you be joining us?"
 - Select "Sounds good. Thank you."
 
+!!! info ""
+
 Bret warns you that the path ahead is full of traps and almost cost him his life. If you're looking for the queen, you will need a pendant found at the end of the path ahead, along with the Red Pearl given to you by his sister.
+
+!!! info ""
 
 ### Trap Room and Trials
 
@@ -60,6 +66,9 @@ Bret warns you that the path ahead is full of traps and almost cost him his life
 - Walk north one map and select "Yes, we are ready." to be teleported to Karlopos Island Long Beach
 - Walk forward very slowly. In a party, it's best to be in a line. If you have a Rogue, ask them to cast Detect Traps
 - Once you make it to the end, rest up
+
+??? danger ":material-sword-cross: Combat incoming!"
+
 - Walk into the next map and select "Yes, we are ready."
 - You have entered the first trial and must slay all 5 Spores
 - Proceed forward and select "Yes, we are ready."
@@ -75,7 +84,11 @@ Bret warns you that the path ahead is full of traps and almost cost him his life
 - Select "No problem."
 - Select "Sweet! I'll be on my way."
 
+!!! info ""
+
 Maria says that Bret left a message for you; to summon the queen, you need to bring the Coral Pendant and the Red Pearl to the coastline in Karlopos Island North.
+
+!!! info ""
 
 ### The Queen's Lair
 
@@ -83,6 +96,9 @@ Maria says that Bret left a message for you; to summon the queen, you need to br
 - From Karlopos Island South, go up 2 maps and left 2 maps
 - Head to 21,5
 - Rest up
+
+!!! danger ":material-emoticon-devil-outline: Boss room ahead!"
+
 - Walk forward into the coastline and select "We are ready."
 - Enter the Queen Octopus's Lair and defeat the Queen Octopus. Note that she summons other Octopus to fight alongside her
 - Once defeated, head back to Maria in the Rucesion Inn

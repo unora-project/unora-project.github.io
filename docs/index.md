@@ -12,7 +12,7 @@ hide:
 
 <center>
 An unofficial wiki for Unora: Elemental Harmony.<br>
-[Discord](https://discord.gg/uB4uMkUTWU) | [Download](https://github.com/Jinori/UnoraLaunchpad/releases/tag/BetaNew) | [Contributing](./contributing.md)
+[Discord](https://discord.gg/uB4uMkUTWU) | [Download](https://github.com/Jinori/UnoraLaunchpad/releases/tag/BetaNew) | [Contributing](./contributing/contributing.md)
 </center>
 
 <div class="grid cards" markdown>

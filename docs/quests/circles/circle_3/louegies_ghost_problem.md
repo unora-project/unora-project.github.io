@@ -16,11 +16,13 @@
 - Click "Next"
 - Click "I'll handle those Banshees."
 
+!!! info ""
+
 Louegie is the mansion's plumber and mentions that there's a ghost infestation he needs help with as it's stopping him from finishing up some plumbing repairs. He asks you to slay 100 ghosts on the 2nd floor.
 
-!!! info
+!!! info ""
 
-    Make sure your party is present before walking through the door next to Louegie.
+!!! warning ":octicons-people-16: Party required!"
 
 - Enter the door next to Louegie (22,1)
 - Slay 100 Banshees in waves of around 10~ in each room

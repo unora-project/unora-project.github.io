@@ -1,12 +1,10 @@
 # Ice Wall
 
+!!! example ":fontawesome-solid-repeat: Repeatable every 22 hours"
+
 ## Rewards
 
 - 200,000 Experience (total)
-
-## Cooldown
-
-The final part of this quest has a 22 hour cooldown.
 
 ## Walkthrough
 
@@ -22,9 +20,11 @@ The final part of this quest has a 22 hour cooldown.
     - Ice Sample 2: 245,53
     - Ice Sample 3: 248,20
 
-!!! note
+!!! note ""
 
-    "Ice" isn't an ice sample. The item will be called "Ice Sample X".
+"Ice" isn't an ice sample. The item will be called "Ice Sample X".
+
+!!! note ""
 
 - Return to Lilia to complete the **first** part of the quest and receive 25,000 experience.
 
@@ -33,9 +33,11 @@ The final part of this quest has a 22 hour cooldown.
 - Speak to Lilia again and select "Sure."
 - She will ask you to hunt 10 Snow Wolves inside of the ice wall
 
-!!! note
+!!! note ""
 
-    There are different colored Snow Wolves in the area. Both give credit for the quest.
+There are different colored Snow Wolves in the area. Both give credit for the quest.
+
+!!! note ""
 
 - Return to Lilia to complete the **second** part of the quest and receive 25,000 experience.
 
@@ -57,8 +59,10 @@ The final part of this quest has a 22 hour cooldown.
 - Inside of the cave, walk to 8,5 to spawn the Abomination and slay it
     - I was able to slay it as a solo 46 Wizard very easily
 
-!!! note
+!!! note ""
 
-    You'll be notified that the spawn is on cooldown if you attempt to spawn it within the 22 hour cooldown period.
+You'll be notified that the spawn is on cooldown if you attempt to spawn it within the 22 hour cooldown period.
+
+!!! note ""
 
 - Return to Lilia and select "It is dead." to complete the **final** part of the quest and receive the final 100,000 experience

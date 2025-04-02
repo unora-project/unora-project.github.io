@@ -9,7 +9,7 @@
 ## Rewards
 
 - 150,000 Experience
-- Legend Mark
+- Legend Mark (varies)
 - 20 Game Points
 - _Potential_ necklace
 
@@ -51,9 +51,12 @@
 
 ### Boss Room
 
+!!! danger ":material-emoticon-devil-outline: Boss room ahead!"
+!!! warning ":octicons-people-16: Party required!"
+
 - With the clues in hand, head to Manor Room 8 (11,1)
-- At 2,2, in the corner of the room, is the mentioned orange cushion from clue 4
-- Make sure you're in a party and walk towards the cushion
+- At 2,2 in the corner of the room is the mentioned orange cushion from clue 4
+- Make sure your entire party is present and walk towards the cushion
 - This will summon 4 ghosts that must be defeated
 
 ### Return to Zulera

@@ -1,5 +1,7 @@
 # Feeding the Beggar
 
+!!! example ":fontawesome-solid-repeat: Repeatable every 24 hours"
+
 ## Requirements
 
 - Must be level 41+
@@ -8,10 +10,6 @@
 
 - 25,000 experience
 - New mount: Kelberoth
-
-## Cooldown
-
-This quest is repeatable and has a 24 hour cooldown.
 
 ## Walkthrough
 
@@ -22,13 +20,15 @@ This quest is repeatable and has a 24 hour cooldown.
 - The Beggar will request for a dinner plate
 - Head to the kitchen in Mileth (54,33)
 
-!!! note
+!!! note ""
 
-    If you haven't picked up cooking yet, you will need to learn it from Gendusa first.
+If you haven't picked up cooking yet, you will need to [learn](../../../professions/types/secondary/cooking.md) it from Gendusa first.
+
+!!! note ""
 
 - To cook a dinner plate, you will need 1 meat, 10 fruit and 5 vegetables of any type. Each ingredient must be all of the same type
 
-!!! tip
+??? tip "Cheap crafting"
 
     A cheap way to do this is to go to the Mileth Restaurant at 34,12 and buy 5 vegetables from Oona. You can pick up 10 acorns for free around Mileth and other areas; these count as fruit. For meat, you can get beef slices from Wolves.
 
@@ -40,6 +40,8 @@ This quest is repeatable and has a 24 hour cooldown.
 
 - With the dinner plate in hand, head back to the Beggar and select "I brought you a dinner plate." to complete the quest
 
-!!! note
+!!! note ""
 
-    Your new mount will show up in the Terminus menu (F1) under "Mounts".
+Your new mount will show up in the Terminus menu (F1) under "Mounts".
+
+!!! note ""
