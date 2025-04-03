@@ -1,0 +1,6 @@
+Potion,Ingredients,Learned From,Effects
+Small Health Potion,1 Lesser Extract,Basic Alchemy Recipe,+800 HP
+Small Mana Potion,1 Lesser Extract,Basic Alchemy Recipe,+500 MP
+Small Haste Brew,1 Sparkflower,Basic Alchemy Recipe,+6% Attack Speed for 5 minutes
+Small Power Brew,1 Cactus Flower,Basic Alchemy Recipe,+3 DMG for 5 minutes
+Small Accuracy Potion,1 Kabine Blossom,Basic Alchemy Recipe,+5 Hit for 5 minutes
