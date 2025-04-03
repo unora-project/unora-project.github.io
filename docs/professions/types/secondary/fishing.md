@@ -10,6 +10,13 @@ Head to the Fishing Market in Abel (27,46) and speak to Kamel.
 
 Upon learning fishing, purchase a Basic Fishing Pole for 1,000 gold and some Fishing Bait for 100 gold each. Each fishing attempt uses up 1 bait regardless of if you caught a fish or not. Fishing Poles do not have durability, so you do not need to worry about them breaking on you. With your fishing pole equipped, stand next to a fishing area until you see a blinking question mark over your head. Wait a few seconds to make sure it stays there, and then you're fishing!
 
+The chance to catch a fish happens every 10 seconds. You have an X% chance to catch a fish on each 10 second "tick" (for a total of 6 attempts per minute). The percent chance of catching a fish increases with each upgraded fishing pole. Here are the known chances:
+
+- 2% (Basic fishing pole)
+- 3% (Next fishing pole tier)
+- 4% (Next fishing pole tier)
+- 6% (Next fishing pole tier)
+
 Fishing is an idle profession where you're expected to set it up and step away from Unora.
 
 ## Where to fish
@@ -27,7 +34,7 @@ Here are some reasons why you would want to fish:
 - Used for various quests
 - Can be traded to the Piet alchemist for monster extracts
     - Aislings that know the Alchemy profession can use these extracts to craft all kinds of potions
-- Gives you a legend mark: Caught a fish (<number_of_fish>)
+- Gives you a legend mark: Caught a fish ([number_of_fish])
 - Each fish you catch provides a bit of experience (so, passive AFK leveling)
     - Useless boots you catch do not provide experience
 

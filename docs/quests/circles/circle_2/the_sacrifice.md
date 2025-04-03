@@ -1,12 +1,14 @@
 # The Sacrifice
 
+!!! example ":fontawesome-solid-repeat: Repeatable every 22 hours"
+
+## Requirements
+
+- Under Lv99 (not sure on exact level it stops being available)
+
 ## Rewards
 
 - Varied experience depending on the effort you put in
-
-## Cooldown
-
-This quest has a 22 hour cooldown.
 
 ## Walkthrough
 
@@ -23,7 +25,7 @@ This quest has a 22 hour cooldown.
 - Head to Astrid
 - Search the area at the tips of the star. Every scouted area will award you experience. Scout _at least_ three areas (though it's worth scouting all 5 for the maximum experience) and then return to Chloe.
 
-!!! tip
+??? tip "Scouting"
 
     Astrid maps draw a star across several maps. If you follow the path hugging the outside path, you'll find 45 degree angle roads that are the "tip" of the star. You'll receive a notice in your yellow chat log window when you correctly trigger the area.
 
@@ -38,7 +40,7 @@ This quest has a 22 hour cooldown.
 
 ### If you selected "I will rescue them."
 
-!!! warning
+!!! warning ""
 
     This quest has the potential to be _very_ time consuming. Each map in Astrid has one child that can be rescued. There is one tile on each map that has a 75% chance to trigger the child being rescued, meaning you could still walk on every tile on the map and not find the child as when you find the trigger tile, you have a 25% chance for it not to trigger.
 

@@ -19,9 +19,13 @@
 - Select "Open the book"
 - Click "Next"
 
+!!! info ""
+
 From here, each class will have their own unique dialogue and responsibilities for the ritual. The dialogue indicates you must head to the summoning room, where the Macabre Pentagram lies. Each member must stand in a specific spot on the outside of the Pentagram, which has been told to you (and can be found within this walkthrough). To start, each party member must sign a pact by entering their character name.
 
-!!! note
+!!! info ""
+
+??? note "Special note for Wizards"
 
     Wizards are special and have an additional responsibility the other classes don't. You must collect 2 Zombie Flesh and place them two spaces north of where you stand in the ritual. Zombie Flesh can be found on your way to House Macabre. Anyone in the party can help you collect these, but the Wizard will need them when you get to your destination.
 
@@ -39,7 +43,7 @@ From here, each class will have their own unique dialogue and responsibilities f
     - Priest: 13,10
     - Wizard: 10,13
 
-!!! tip
+!!! tip "Class coordinates"
 
     Here is a copy/pastable message you can send to your party for coordinates:
 
@@ -54,7 +58,7 @@ From here, each class will have their own unique dialogue and responsibilities f
     - Priest: 6,11
     - Wizard: 7,7
 
-!!! tip
+!!! tip "Shifted class coordinates"
 
     Here is a copy/pastable message you can send to your party for the second set of coordinates:
 
@@ -65,7 +69,7 @@ From here, each class will have their own unique dialogue and responsibilities f
 
 From here, each class will receive a different message pertaining to a clue where you can find a piece of the pentagram to collect. The clue you are given is for the class that _originally_ stood in the spot prior to you shifting two spaces clockwise.
 
-!!! tip
+!!! tip "Who gets each clue?"
 
     - Monks will receive the Rogue's clue
     - Warriors will recieve the Priest's clue
@@ -97,7 +101,7 @@ Head to Cthonic Remains (CR) 2 @ 59,26. Directly in front of the coordinates is 
 
 Head to West Graveyard Macabre and enter the house at 60,52. Inside of Macabre Cellar 2-3, walk to 5,1.
 
-!!! tip
+!!! tip "Coordinates for each class"
 
     Here are some quick messages you can send your group:
 
@@ -128,16 +132,26 @@ Once everyone has their Pristine gem and Pentagram piece:
 - Select "I have to do this."
 - Select "What gem should I empower this with?"
 
+!!! info ""
+
 Celestia will explain what gem each class needs, although we've already organized this above.
+
+!!! info ""
 
 - Speak to Celestia again
 - Select "I have the Pristine Gem."
 
+!!! info ""
+
 Celestia will then add the gem to your Pentagram piece. She tells you to visit the forge in Tagor and speak to Thorin (28,77)
 
-!!! note
+!!! info ""
 
-    Wizard should be the last person to speak to Thorin as they will receive the finished Pentagram.
+!!! note ""
+
+Wizard should be the last person to speak to Thorin as they will receive the finished Pentagram.
+
+!!! note ""
 
 - Head to Tagor and speak to Thorin at the Forge (28,77)
 - Select "Will you help us craft the Pentagram?"
@@ -145,9 +159,15 @@ Celestia will then add the gem to your Pentagram piece. She tells you to visit t
 - Select "They spoke to us, we must do this."
 - Select "Here are all the pieces."
 
+!!! info ""
+
 Thorin crafts us the finished Pentagram and hands it to the Wizard in the group.
 
+!!! info ""
+
 ### Performing the Ritual
+
+!!! danger ":material-emoticon-devil-outline: Boss ahead!"
 
 - Head back to House Macabre East Graveyard (93,11)
 - Go down at 1,13

@@ -18,7 +18,7 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
 - [Dark Research](./circles/circle_1/dark_research.md)
 - [Wolf Problem](./circles/circle_1/wolf_problem.md)
 - [Bee Problem](./circles/circle_1/bee_problem.md)
-- Leaders of Mythic
+- [Leaders of Mythic](./circles/circle_1/leaders_of_mythic.md)
 - [Terror of the Crypt](./circles/circle_1/terror_of_the_crypt.md)
 
 ## Circle 2
@@ -43,7 +43,7 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
 
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
 - [Find the Mysterious Artifact](./circles/circle_1/find_the_mysterious_artifact.md#part-2-elemental-guardians)
-- Queen Octopus
+- [Queen Octopus](./circles/circle_3/queen_octopus.md)
 - [Dragon Scale](./circles/circle_3/dragon_scale.md)
 - [Louegie's Ghost Problem](./circles/circle_3/louegies_ghost_problem.md)
 - [Supply Loures Army](./circles/circle_3/supply_loures_army.md)

@@ -1,8 +1,6 @@
 # Terror of the Crypt
 
-!!! info
-
-    The monster to slay scales according to your current level.
+!!! example ":fontawesome-solid-repeat: Repeatable every 22 hours"
 
 ## Requirements
 
@@ -16,10 +14,6 @@
 - Legend mark: Vanquished Terror of the Crypt
     - This legend mark increments each time you complete it
 - 10 Game points
-
-## Cooldown
-
-This quest is repeatable and has a 22 hour cooldown.
 
 ## Walkthrough
 

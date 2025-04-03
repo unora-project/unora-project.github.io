@@ -26,7 +26,14 @@ Prior to mastering Wizard, if you aren't happy with the element you chose, you c
 
 ## Mastering
 
+### Base HP/MP
+
 You need 10,000 base HP and 12,000 base MP to master.
+
+### Items
+
+- Magic Ink
+- Magic Scroll
 
 ## Skills
 
