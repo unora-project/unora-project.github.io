@@ -500,3 +500,74 @@ You brief Miraelis on the fight with Summoner Kades and the Creants taking porta
 _To start the next part of the quest, you will need to be a Master of your class._
 
 ### Part 6: Defeat the Dark Army
+
+- Return to Miraelis and speak to her
+
+!!! info ""
+
+Miraelis mentions that Summoner Kade left a dark army behind and you must defeat them all.
+
+!!! info ""
+
+!!! warning ":octicons-people-16: Party required!"
+
+This section is what is commonly referred to as "Master Dungeon". This quest feels poorly put together in game and doesn't offer much guidance on what to do, but this guide will cover all of the Master Dungeon aspects.
+
+- To start, head to House Macabre
+- If you have never completed Master Dungeon before, you must run all the way down to CR-21
+    - You will not be able to take the shortcut portal to CR-21 until you complete it once
+    - You _can_ open a portal to CR11 by speaking to Hazel at 1,4 for 250,000 gold
+- If you have completed Master Dungeon before, you can opt to teleport directly to CR-21
+    - To do this, speak to Hazel at 1,4
+    - Select "Open Portal CR21"
+    - For 400,000 gold, you can open a portal that will teleport your entire party
+- Once at CR-21, walk through the crack in the wall to enter the Cthonic Demise [need coordinates]
+
+Master Dungeon is set up to where there are two fixed bosses: a hydra and a dinosaur. Defeating these bosses drops a summoning bell. You want to collect both summoning bells from each boss first. **Do not double-click the bells until you are ready!**
+
+There are specific spots to use the summoning bell with each spot summoning a boss of a specific class. In order to obtain your Master Dungeon skills/spells, **you must defeat both summoned class bosses that are the same class as you.** Defeating two class bosses will complete your Master Dungeon run and open a portal to teleport you back to CR-11.
+
+Here's a helpful map to show where everything is:
+
+![Master Dungeon Map](./assets/master_dungeon.png)
+
+To interpret this, "BOSS 1" and "BOSS 2" hold the summoning bells you need to summon the class bosses and each class boss is listed on the map. Use the summoning bells on the class boss spots to summon them.
+
+Each class boss has a name:
+
+- Warriors: John, Jane
+- Monks: Mike, Mary
+- Rogues: Roy, Ray
+- Priest: Phil, Pam
+- Wizard: William, Wanda
+
+Once you have defeated both class bosses, take the portal to complete Master Dungeon. Master Dungeon has a 4 hour cooldown period before you can run it again. In order to complete the quest, you must defeat all 10 class bosses. If you aren't sure which bosses you've yet defeated, return to the God Realm and speak to Miraelis. She will tell you which ones you've defeated by name. Use the list above to figure out which bosses you have left.
+
+- Once you've defeated all 10, return to Miraelis and speak to her
+- Select "Thank you, they are very useful."
+
+!!! info ""
+
+Miraelis compliments your new master skills and tells you that you're a true master. She tells you to come back once you are ready to face the Creants.
+
+!!! info ""
+
+_To start the next part of the quest, you will need to have 60,000 total raw vitality._
+
+### Part 7: The Creants
+
+#### Medusa
+
+TBD.
+
+#### Shamensyth
+
+TBD.
+
+#### Lady Phoenix
+
+TBD.
+
+#### Tauren
+
+TBD.
