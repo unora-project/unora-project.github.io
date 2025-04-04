@@ -1,6 +1,30 @@
 Potion,Ingredients,Learned From,Effects
-Small Health Potion,1 Lesser Extract,Basic Alchemy Recipe,+800 HP
-Small Mana Potion,1 Lesser Extract,Basic Alchemy Recipe,+500 MP
-Small Haste Brew,1 Sparkflower,Basic Alchemy Recipe,+6% Attack Speed for 5 minutes
-Small Power Brew,1 Cactus Flower,Basic Alchemy Recipe,+3 DMG for 5 minutes
-Small Accuracy Potion,1 Kabine Blossom,Basic Alchemy Recipe,+5 Hit for 5 minutes
+Small Health Potion,1 Lesser Extract,Default Alchemy Recipe,+800 HP
+Small Mana Potion,1 Lesser Extract,Default Alchemy Recipe,+500 MP
+Small Haste Brew,1 Sparkflower,Default Alchemy Recipe,+6% Attack Speed for 5 minutes
+Small Power Brew,1 Cactus Flower,Default Alchemy Recipe,+3 DMG for 5 minutes
+Small Accuracy Potion,1 Kabine Blossom,Default Alchemy Recipe,+5 Hit for 5 minutes
+Juggernaut Brew,2 Lesser Extract & 1 Kobold Tail,Basic Alchemy Book,+1000 Max HP for 10 minutes
+Astral Brew,2 Lesser Extract & 1 Kobold Tail,Basic Alchemy Book,+800 Max MP for 5 minutes
+Antidote Potion,2 Lesser Extract,Loures Library,Removes Poison
+Small Firestorm Tonic,2 Lesser Extract & 1 Cactus Flower,Basic Alchemy Book,Applies burn to target monster for 8 seconds
+Small Stun Tonic,2 Lesser Extract & 1 Dochas Bloom,Basic Alchemy Book,Stuns target monster for 3 seconds
+Health Potion,3 Lesser Extract,Initiate Alchemy Book,+2000 HP + 10% Max HP
+Mana Potion,3 Lesser Extract,Initiate Alchemy Book,+1000 MP + 10% Max MP
+Rejuvenation Potion,3 Lesser Extract,Initiate Alchemy Book,+1500 HP + 750 MP
+Haste Brew,1 Basic Extract & 1 Spark Flower,Initiate Alchemy Book,+12% Attack Speed for 10 minutes
+Power Brew,1 Basic Extract & 1 Cactus Flower,Initiate Alchemy Book,+6 DMG for 10 minutes
+Accuracy Potion,1 Basic Extract & 2 Kabine Blossom,Initiate Alchemy Book,+10 Hit for 10 minutes
+Revive Potion,1 Greater Extract & 1 Blossom of Betrayal,Revive Potion Recipe,Revives user with 15 minute cooldown
+Strong Juggernaut Brew,1 Greater Extract & 1 Kobold Tail,Strong Vitality Book,+5000 Max HP for 15 minutes
+Strong Astral Brew,1 Greater Extract & 1 Kobold Tail,Strong Vitality Book,+3000 Max MP for 15 minutes
+Cleansing Brew,1 Greater Extract & 1 Water Lily,Cleansing Brew Recipe,Removes poison/blind/burn
+Warmth Potion,1 Greater Extract & 1 Bocan Bough,Warmth Potion Recipe,Removes suain
+Amnesia Brew,1 Greater Extract & 1 Blossom of Betrayal,Amnesia Brew Recipe,Makes target monster non-hostile for 15 seconds or until attacked
+Strong Health Potion,5 Lesser Extract,Strong Health Potion Recipe,+5000 HP + 20% Max HP
+Strong Mana Potion,5 Lesser Extract,Strong Mana Potion Recipe,+3000 MP + 20% Max MP
+Strong Haste Brew,1 Superior Extract & 1 Spark Flower,Attack Tonics Recipe?,+18% Attack Speed for 15 minutes
+Stat Boost Elixir,1 Superior Extract & 1 Marauder's Spine & 1 Satyr's Hoof & 1 Polyp Sac,??,Increase all stats by 1 for ?? minutes
+Potent Rejuvenation Potion,8 Lesser Extract,??,+6000 HP + 25% Max HP + 3000 MP + 15% Max MP
+Potent Haste Brew,2 Superior Extract & 1 Spark Flower,??,+24% Attack Speed for 20 minutes
+Potent Accuracty Potion,??,??,+20 Hit for 20 minutes

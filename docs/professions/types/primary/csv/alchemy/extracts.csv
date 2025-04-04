@@ -1,4 +1,69 @@
-Monster Part,Area,Extract,Amount
-Spider's Eye,Mileth Crypt,Lesser,1
-Spider's Silk,Mileth Crypt,Lesser,1
-Centipede's Gland,Mileth Crypt,Lesser,1
+Monster Part,Area,Level,Extract,Amount
+Trout,Fishing,11,Lesser,1
+Bass,Fishing,11,Lesser,1
+Lion Fish,Fishing,11,Lesser,2
+Rock Fish,Fishing,11,Lesser,2
+Pike,Fishing,11,Lesser,3
+Perch,Fishing,11,Lesser,3
+Purple Whopper,Fishing,11,Lesser,8
+Spider's Eye,Mileth Crypt - Spider,3,Lesser,1
+Spider's Silk,Mileth Crypt - Spider,3,Lesser,1
+Centipede's Gland,Mileth Crypt - Centipede,6,Lesser,1
+Bat's Wing,Mileth Crypt - Bat,10,Lesser,1
+Scorpion's Sting,Mileth Crypt - Scorpion,16,Lesser,1
+Scorpion's Tail,Mileth Crypt - Scorpion,16,Lesser,1
+Giant Bat's Wing,Mileth Crypt - Giant Bat,27,Lesser,2
+Mimic Teeth,Mileth Crypt - Mimic,36,Lesser,4
+White Bat's Wing,Mileth Crypt - White Bat,48,Basic,1
+Kardi Fur,Mileth Crypt - Kardi,50,Basic,1
+Marauder's Spine,Mileth Crypt - Marauder,55,Basic,2
+Succubus's Hair,Mileth Crypt - Succubus,65,Basic,3
+Viper's Gland,East Woodlands - Viper,2,Lesser,1
+Bee's Sting,East Woodlands - Bee,3,Lesser,1
+Mantis Eye,East Woodlands - Mantis,4,Lesser,1
+Wolf's Fur,East Woodlands - Wolf,11,Lesser,1
+Wolf's Lock,East Woodlands - Wolf,18,Lesser,1
+Wolf's Teeth,East Woodlands - Wolf,18,Lesser,1
+Kobold's Skull,East Woodlands/Wilderness - Kobold,18,Lesser,1
+Goblin's Skull,East Woodlands - Goblin,34,Lesser,3
+Hobgoblin's Skull,East Woodlands - Hobgoblin,37,Lesser,4
+Wisp's Core,East Woodlands - Wisp,45,Basic,1
+Mushroom,East Woodlands - Shrieker,50,Basic,2
+Faerie's Wing,East Woodlands - Faerie,65,Basic,3
+Zombie Flesh,House Macabre/Wilderness - Zombie,42,Basic,1
+Wisp's Flame,House Macabre - Dark Flame,47,Basic,1
+Black Cat's Tail,House Macabre - Black Cat,48,Basic,1
+Black Widow's Silk,House Macabre - Black Widow,53,Basic,2
+Ghast's Skull,Dubhaim Castle - Ghast,18,Lesser,1
+Gargoyle's Skull,Dubhaim Castle - Gargoyle,30,Lesser,3
+Gargoyle Fiend's Skull,Dubhaim Castle - Gargoyle Fiend,72,Greater,1
+Crab's Claw,Piet Crypt - Crab,42,Basic,1
+Frog's Leg,Piet Crypt - Frog,44,Basic,1
+Turtle's Shell,Piet Crypt/Wilderness - Turtle,45,Basic,1
+Brawlfish's Scale,Piet Crypt - Brawlfish,46,Basic,1
+Anemone's Antenna,Piet Crypt - Anemone,46,Basic,1
+Rockcobbler's Scale,Piet Crypt - Rockcobbler,41,Basic,1
+Gog's Maw,Piet Crypt - Gog,50,Basic,2
+Gremlin's Ear,Piet Crypt - Gremlin,61,Basic,2
+Red Tentacle,Piet Crypt - Kraken?,63,Basic,3
+Spore Sac,Abel Crypt - Spore,51,Basic,2
+Polyp Sac,Abel Crypt - Polyp,72,Greater,1
+Goo,Abel Crypt - Blob,74,Greater,1
+Leech's Tail,Abel Crypt/Mehadi - Leech,72,Greater,1
+Viper's Venom,Mehadi - Viper,72,Greater,1
+Viper's Fang,Mehadi - Viper,72,Greater,1
+Viper's Eggs,Mehadi - Viper,72,Greater,1
+Frog's Tongue,Mehadi - Frog,90,Greater,3
+Gruesomefly's Antenna,Mehadi - Gruesomefly,95,Greater,4
+Gruesomefly's Wing,Mehadi - Gruesomefly,95,Greater,4
+Flesh,Cthonic Remains - Flesh Golem,42,Basic,1
+Scarlet Beetle's Antennae - Scarlet Beetle,Cthonic Remains,63,Basic,3
+Nagetier's Talon,Cthonic Remains - Nagetier,65,Basic,3
+Ancient Bone,Cthonic Remains - Bone Collector,68,Basic,3
+Qualgeist's Head,Cthonic Remains - Qualgeist,72,Greater,1
+Mummy Bandage,Cthonic Remains - Mummy,84,Greater,2
+Direwolf Lock,Mount Giragan - Direwolf,99,Superior,1
+Ice Spore Sac,Mount Giragan - Ice Sport,99,Superior,1
+Losgann Tail,Nobis - Losgann,99,Superior,1
+Ruidhtear Toe,Nobis - Ruidhtear,99,Superior,1
+Skeleton Bones,Chaos - ??,100,Superior,2
