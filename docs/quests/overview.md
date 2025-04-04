@@ -78,10 +78,10 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
     Level range: Master
 
 - [Defeat the Dark Army](./circles/circle_1/find_the_mysterious_artifact.md#part-6-defeat-the-dark-army)
-- Medusa
-- Shamensyth
-- Lady Phoenix
-- Tauren
+- [Medusa](./circles/circle_1/find_the_mysterious_artifact.md#medusa)
+- [Shamensyth](./circles/circle_1/find_the_mysterious_artifact.md#shamensyth)
+- [Lady Phoenix](./circles/circle_1/find_the_mysterious_artifact.md#lady-phoenix)
+- [Tauren](./circles/circle_1/find_the_mysterious_artifact.md#tauren)
 
 ## Circle 7
 

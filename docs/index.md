@@ -103,6 +103,7 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     ---
 
     [:octicons-arrow-right-24: Kasmanium Mines](./dungeons/kasmanium_mines.md)<br>
+    [:octicons-arrow-right-24: Master Dungeon](./quests/circles/circle_1/find_the_mysterious_artifact.md#part-6-defeat-the-dark-army)<br>
     [:octicons-arrow-right-24: Mileth Crypt](./dungeons/mileth_crypt.md)<br>
     [:octicons-arrow-right-24: Piet Dungeon](./dungeons/piet_dungeon.md)<br>
     [:octicons-arrow-right-24: Cthonic Remains (CR)](./dungeons/cthonic_remains.md)<br>
