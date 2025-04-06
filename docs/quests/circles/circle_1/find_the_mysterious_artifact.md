@@ -15,6 +15,7 @@
 - (Part 4): Unlocks level 97 armor
 - (Part 5): Unlocks the ability to be a master
 - (Part 6): Unlocks Master Dungeon skills/spells for your class
+- (Part 7): Grand Master gear, Grand Master spells/skills
 
 ## Walkthrough
 
@@ -641,6 +642,8 @@ Defeating each creant rewards you with either a piece of your Grand Master gear 
 - In the back of the caves is where Tauren resides
 
 ??? tip "Tauren strategy"
+
+    **Belt:** Earth; **Necklace:** Wind
 
     When the fight starts, the tank will pick up the boss and DPS will focus damage. Tauren will constantly summon ice crystals at the furthest person from him, dealing damage. This is typically the healer's role to kite these around the room so DPS can focus on damage.
 
