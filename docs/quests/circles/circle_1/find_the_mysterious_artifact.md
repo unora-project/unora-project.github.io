@@ -556,18 +556,147 @@ _To start the next part of the quest, you will need to have 60,000 total raw vit
 
 ### Part 7: The Creants
 
-#### Medusa
+To get started, speak to Miraelis. She will tell you that she thinks you're ready to challenge the Creants and seal them away with your newfound abilities. She shares the location of each of the Creants with you:
 
-TBD.
+- Lady Phoenix: Shinewood Forest
+- Medusa: Oren Ruins
+- Tauren: Mount Giragan
+- Shamensyth: Nobis Sewers
 
-#### Shamensyth
+There is no order in which you need to challenge the Creants, however, you may find one easier than the others. You tell Miraelis that you understand and are also notified that in order to survive the Creants, you need at least 25,000 HP. ((This isn't a requirement, but a note that this will make the fights more comfortable for both you and your healer.))
 
-TBD.
+Personally, from easiest to most difficult, I would put them in this order: Tauren > Lady Phoenix > Medusa > Shamensyth.
+
+Defeating each creant rewards you with either a piece of your Grand Master gear or your Grand Master spells/skills.
+
+??? tip "Offenses and Defenses!"
+
+    Each creant has a different defense and attack element. It is _required_ that you grab a belt that counters each Creant's element and that you wear them when fighting them. For the maximum damage, you should also wear the appropriate elemental necklace for damage. The appropriate counter element will deal more damage than a dark necklace, so don't be lazy.
+
+    Belts:
+
+    - Mileth armorsmith: Fire belt
+    - Undine armorsmith: Sea belt
+    - Rucesion armorsmith: Wind belt
+    - Piet armorsmith: Earth belt
+
+    Necklaces:
+
+    - Carlos, the Rucesion armorsmith, sells Wind, Sea, Fire and Earth necklaces
 
 #### Lady Phoenix
 
-TBD.
+- To find Lady Phoenix, head to the back of Shinewood Forest in Shinewood Forest 18
+
+??? tip "Lady Phoenix strategy"
+
+    **Belt:** Wind; **Necklace:** Fire
+
+    Lady Phoenix's mechanic is that she summons dangerous tornadoes that must be avoided at all costs. Standing in them will deal massive draining damage to you. Additionally, she is very fast and will constantly switch targets. You cannot outrun her and must stand still facing her if you're targeted to reduce the amount of damage taken. This is a very healing-intensive fight - especially when a target with low HP is chosen.
+
+    The group should try to stay close together and find safe spots away from the tornadoes in order to avoid being hit by them. It is not worth dealing damage to the tornadoes; simply run away from them.
+
+    Lady Phoenix will frequently cast Hail of Feathers for group-wide AoE damage, which must be healed through. She will also teleport away for a few seconds, giving the party a little break (to relocate from the tornadoes maybe?) before re-appearing and picking a new target.
+
+    Rinse and repeat these mechanics to defeat Lady Phoenix.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gPOHzXWGem4?si=crSazyo0AGar_4RS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Once your party is ready, approach the altar and select "We are ready."
+- Defeat Lady Phoenix
+
+
+#### Medusa
+
+- To find Medusa, head to Nobis (28,1) and enter the Oren Ruins
+- Go through the right door in the ruins maze and get to 3-5 (named: Oren Ruins Altar)
+
+??? tip "Medusa strategy"
+
+    **Belt:** Sea; **Necklace:** Earth
+
+    Medusa has a mechanic where if anyone (but the tank) faces her front, they will turned to stone. Before getting started, turn group loot off for this fight. This fight drops Warmth Potions, which will be needed in case someone turns to stone.
+
+    When the fight starts, your healer and Wizard should be positioned at the south-easternmost portion of the altar. This is to avoid the water waves that are summoned frequently throughout the fight that will likely kill them in one hit. This also gives the Wizard added visibility to the arena, which will be explained later. The tank will tank the boss at the northernmost part of the arena by the altar/candles. Melee DPS will initially be at her rear and sides.
+
+    When the fight starts and Medusa spawns, make sure that only the tank is facing Medusa directly. All DPS classes will focus the boss. As the fight progresses, snake nests will spawn on the outsides of the altar. It is up to either 1 or 2 bashers to hunt these nests down as they will constantly summon snakes. It's primarily the Wizard's job to kill the snakes throughout the fight so they do not make their way to the altar and kill your healer. They can be dall'd to stop them from moving so you have time to kill them.
+
+    During combat, Medusa will transition frequently between the altar and the middle of the room. While she's in the middle of the room, you should stay on the altar as she will summon geysers that deal heavy damage if you step on them. This is especially important for the people killing the snake nests.
+
+    Snakes will occasionally drop Warmth Potions, which should be picked up and used on anyone that has turned to stone. You should call out if you have been turned to stone. A member of your party will need to loot the potion, walk next to you and physically use the potion while facing you to remove the stone effect from you.
+
+    At a certain phase of the fight (seems like 50%?), she will teleport to the middle of the room and several tiles will start blinking light blue on the altar. The entire party has about 12~ seconds to move onto the blinking tiles. All other tiles will explode after the time limit, killing anyone that wasn't on the blinking ones.
+
+    Rinse and repeat these mechanics to defeat Medusa.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ona4UBDi1Rw?si=mg2FstnRlPOi3hpl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Once your party is ready, approach the altar and select "We are ready."
+- Defeat Medusa
 
 #### Tauren
 
-TBD.
+- To find Tauren, head to Mount Giragan and go to Mount Giragan 3
+- In the top-left corner of the map is the entrance to the Giragan Caves
+- In the back of the caves is where Tauren resides
+
+??? tip "Tauren strategy"
+
+    When the fight starts, the tank will pick up the boss and DPS will focus damage. Tauren will constantly summon ice crystals at the furthest person from him, dealing damage. This is typically the healer's role to kite these around the room so DPS can focus on damage.
+
+    As the fight progresses, blinking light blue tiles will become visible. Everyone in the group must stand on a blinking tile in order to avoid room wide damage that will one shot you otherwise.
+
+    As Tauren gets weaker, he will start slamming his axe into the ground in front of him, dealing high damage in a 4x4 grid. Only the tank should be taking this damage while others should steer clear.
+
+    Rinse and repeat these mechanics to defeat Tauren.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Wld8O9wa8xE?si=vss7XTlB33nNcB14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Once your party is ready, approach Tauren and select "We are ready."
+- Defeat Tauren
+
+#### Shamensyth
+
+- To find Shamensyth, head to Nobis Storage (44,26)
+- Walk down into the basement at 3,15 to enter the Nobis Maze
+- Make your way to the end of the maze
+
+??? tip "Shamensyth strategy"
+
+    **Belt:** Fire; **Necklace:** Water
+
+    Shamensyth's main mechanic lies on the Wizard(s) in your party to put out flames that spawn throughout the arena with their Sal spells (Mor Sal Lamh, Tidal Wave and Tidal Breeze if pure). The flames to put out are not targetable and must have AoE applied to them. They deal massive damage while standing in them and if Shamensyth, or his illusions stand in them, he is healed health. The Wizard will spend almost the entire time running around the arena trying to make sure the arena is not covered in flames.
+
+    Before starting the fight, the healer and three other DPS must stand at each pillar. Drop a coin by the pillar as this will help aid you in where the illusions will drop. The Wizard should prioritize making sure the flames are never on these coins. Once the fight starts, the coins will be despawned and the DPS will need to drop a coin in the exact spot it was before. The first coin drop is just to aid the party where they will need to drop theirs. The tank will stand around the middle of the arena, tanking Shamensyth.
+
+    DPS will stay put at their respective pillars the entire fight. When an illusion spawns at a coin, it is up to the DPS at the pillar to quickly defeat the illusion.
+
+    Throughout the fight, small fire elementals will spawn that must be killed. The tank will primarily be responsible for killing them. The DPS can quickly step away from their coin to come help if the fire elementals are close enough to their coin, but they must quickly return to their coin once they have been dealt with. Adds should be prioritized over the boss as if the adds get out of control, your party will surely wipe due to the amount of damage going out.
+
+    Shamensyth will teleport to the middle of the room occasionally and blinking light blue tiles will be visible. Your party will need to quickly stand on any of the blinking tiles. You have about 12~ seconds before the cast goes off, performing a room-wide AoE that will instantly kill anyone that isn't on a safe tile. The pattern for these safe tiles will change towards the end of the fight, having the blinking tiles connected inwards to each pillar, creating a plus sign.
+
+    Rinse and repeat these mechanics to defeat Shamensyth.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yMjs75fe0wA?si=jXYV23xtSGw3WT41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Once your party is ready, approach the altar and select "We are ready."
+- Defeat Shamensyth
+
+
+
+#### Return to the God's Realm
+
+Once all 4 Creants have been sealed, you will receive a notice that says "You've sealed away all Creants. Speak to Miraelis.".
+
+- Head back to the God's Realm and speak to Miraelis
+- Select "Thank you Goddess Miraelis"
+- Select "I sure will!"
+- Select "I will."
+
+!!! info ""
+
+Miraelis tells you that you have defended Unora and restored the harmony that sustains all life. She tells you the world is safe for now and to enjoy the peace while it lasts.
+
+!!! info ""
+
+_You will recieve 100,000,000 experience and a "God's Star" accessory._
