@@ -1,3 +1,3 @@
 # Dubhaim Castle
 
-TBD.
+![img](./assets/dubhaim_castle.png){ width="900"; }

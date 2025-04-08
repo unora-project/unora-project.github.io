@@ -1,3 +1,3 @@
 # Kasmanium Mines
 
-TBD.
+![img](./assets/kasmanium_mines.png){ width="1200"; }

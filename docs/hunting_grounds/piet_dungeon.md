@@ -1,3 +1,0 @@
-# Piet Dungeon
-
-TBD.

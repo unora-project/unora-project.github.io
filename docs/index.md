@@ -98,7 +98,7 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Suomi](./towns/suomi.md)<br>
     [:octicons-arrow-right-24: Undine](./towns/undine.md)<br>
 
--   __Hunting Grounds__
+-   __Hunting Grounds (A-K)__
 
     ---
 
@@ -113,19 +113,25 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Grassy Fields](./hunting_grounds/grassy_fields.md)<br>
     [:octicons-arrow-right-24: House Macabre](./hunting_grounds/house_macabre.md)<br>
     [:octicons-arrow-right-24: Karlopos Island](./hunting_grounds/karlopos_island.md)<br>
-    [:octicons-arrow-right-24: Kasmanium Mines](./hunting_grounds/kasmanium_mines.md)<br>
-    [:octicons-arrow-right-24: Kasmanium Mines](./hunting_grounds/kasmanium_mines.md)<br>
+    [:octicons-arrow-right-24: Kasmanium Mines](./hunting_grounds/kasmanium_mines.md)
+
+-   __Hunting Grounds (L-Z)__
+
+    ---
+
     [:octicons-arrow-right-24: Limbo](./hunting_grounds/limbo.md)<br>
-    [:octicons-arrow-right-24: Master Dungeon](./quests/circles/circle_1/find_the_mysterious_artifact.md#part-6-defeat-the-dark-army)<br>
+    [:octicons-arrow-right-24: Loures Sewer](./hunting_grounds/loures_sewer.md)<br>
+    [:octicons-arrow-right-24: Master Dungeon](./hunting_grounds/master_dungeon.md)<br>
     [:octicons-arrow-right-24: Mehadi](./hunting_grounds/mehadi.md)<br>
     [:octicons-arrow-right-24: Mileth Crypt](./hunting_grounds/mileth_crypt.md)<br>
     [:octicons-arrow-right-24: Mythic](./hunting_grounds/mythic.md)<br>
     [:octicons-arrow-right-24: Nobis Maze](./hunting_grounds/nobis_maze.md)<br>
     [:octicons-arrow-right-24: Oren Ruins](./hunting_grounds/oren_ruins.md)<br>
-    [:octicons-arrow-right-24: Piet Dungeon](./hunting_grounds/piet_dungeon.md)<br>
+    [:octicons-arrow-right-24: Piet Sewers](./hunting_grounds/piet_sewers.md)<br>
     [:octicons-arrow-right-24: Porte Forest](./hunting_grounds/porte_forest.md)<br>
     [:octicons-arrow-right-24: Shinewood Forest](./hunting_grounds/shinewood_forest.md)<br>
     [:octicons-arrow-right-24: West Woodlands](./hunting_grounds/west_woodlands.md)<br>
+    [:octicons-arrow-right-24: Wilderness](./hunting_grounds/wilderness.md)<br>
 
 -   __Miscellaneous__
 

@@ -1,3 +1,3 @@
 # Mehadi
 
-![img](./assets/mehadi.png)
+![img](./assets/mehadi.png){ width="1200"; }
