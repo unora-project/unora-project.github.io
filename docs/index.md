@@ -98,23 +98,39 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Suomi](./towns/suomi.md)<br>
     [:octicons-arrow-right-24: Undine](./towns/undine.md)<br>
 
--   __Dungeons__
+-   __Hunting Grounds__
 
     ---
 
-    [:octicons-arrow-right-24: Kasmanium Mines](./dungeons/kasmanium_mines.md)<br>
+    [:octicons-arrow-right-24: Abel Dungeon](./hunting_grounds/abel_dungeon.md)<br>
+    [:octicons-arrow-right-24: Astrid](./hunting_grounds/astrid.md)<br>
+    [:octicons-arrow-right-24: Chaos](./hunting_grounds/chaos.md)<br>
+    [:octicons-arrow-right-24: Cthonic Remains (CR)](./hunting_grounds/cthonic_remains.md)<br>
+    [:octicons-arrow-right-24: Deep Crypt](./hunting_grounds/deep_crypt.md)<br>
+    [:octicons-arrow-right-24: East Woodlands](./hunting_grounds/east_woodlands.md)<br>
+    [:octicons-arrow-right-24: Giragan Caves](./hunting_grounds/giragan_caves.md)<br>
+    [:octicons-arrow-right-24: Grassy Fields](./hunting_grounds/grassy_fields.md)<br>
+    [:octicons-arrow-right-24: House Macabre](./hunting_grounds/house_macabre.md)<br>
+    [:octicons-arrow-right-24: Karlopos Island](./hunting_grounds/karlopos_island.md)<br>
+    [:octicons-arrow-right-24: Kasmanium Mines](./hunting_grounds/kasmanium_mines.md)<br>
+    [:octicons-arrow-right-24: Kasmanium Mines](./hunting_grounds/kasmanium_mines.md)<br>
+    [:octicons-arrow-right-24: Limbo](./hunting_grounds/limbo.md)<br>
     [:octicons-arrow-right-24: Master Dungeon](./quests/circles/circle_1/find_the_mysterious_artifact.md#part-6-defeat-the-dark-army)<br>
-    [:octicons-arrow-right-24: Mileth Crypt](./dungeons/mileth_crypt.md)<br>
-    [:octicons-arrow-right-24: Piet Dungeon](./dungeons/piet_dungeon.md)<br>
-    [:octicons-arrow-right-24: Cthonic Remains (CR)](./dungeons/cthonic_remains.md)<br>
-    [:octicons-arrow-right-24: Mythic](./dungeons/mythic.md)<br>
+    [:octicons-arrow-right-24: Mehadi](./hunting_grounds/mehadi.md)<br>
+    [:octicons-arrow-right-24: Mileth Crypt](./hunting_grounds/mileth_crypt.md)<br>
+    [:octicons-arrow-right-24: Mythic](./hunting_grounds/mythic.md)<br>
+    [:octicons-arrow-right-24: Nobis Maze](./hunting_grounds/nobis_maze.md)<br>
+    [:octicons-arrow-right-24: Oren Ruins](./hunting_grounds/oren_ruins.md)<br>
+    [:octicons-arrow-right-24: Piet Dungeon](./hunting_grounds/piet_dungeon.md)<br>
+    [:octicons-arrow-right-24: Porte Forest](./hunting_grounds/porte_forest.md)<br>
+    [:octicons-arrow-right-24: Shinewood Forest](./hunting_grounds/shinewood_forest.md)<br>
+    [:octicons-arrow-right-24: West Woodlands](./hunting_grounds/west_woodlands.md)<br>
 
 -   __Miscellaneous__
 
     ---
 
     [:octicons-arrow-right-24: Unora Lore](./lore/overview.md)<br>
-    [:octicons-arrow-right-24: See all patch notes](./patch_notes/overview.md)<br>
     [:octicons-arrow-right-24: Calculators](./calculators/stats.md)
 
 </div>
