@@ -1,12 +1,12 @@
 /* stretch the page to the full width */
 .md-grid {
-    max-width: 80%;
+    max-width: 95%;
 }
 
 /* customize tables to look like github */
 th,
 td {
-    border: 3px solid var(--md-typeset-table-color);
+    border: 1px solid var(--md-typeset-table-color);
     border-spacing: 0;
     border-bottom: none;
     border-left: none;
@@ -38,3 +38,13 @@ td {
 }
 
 /* END customize tables to look like github */
+
+.md-typeset__table {
+    width: 100%;
+    height: auto;
+    border-collapse: collapse;
+}
+
+.md-typeset__table table:not([class]) {
+    display: table
+}

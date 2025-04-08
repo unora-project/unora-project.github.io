@@ -4,3 +4,12 @@
 *[MP]: Mana Points
 *[GP]: Game Points
 *[TBD]: To Be Determined
+*[MR]: Magic Resistance
+*[AS]: Attack Speed
+*[AC]: Armor Class
+*[DMG]: Damage
+*[STR]: Strength
+*[INT]: Intelligence
+*[WIS]: Wisdom
+*[CON]: Constitution
+*[DEX]: Dexterity
