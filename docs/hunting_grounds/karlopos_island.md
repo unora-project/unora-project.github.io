@@ -1,3 +1,3 @@
 # Karlopos Island
 
-TBD.
+![img](./assets/karlopos_island.png)

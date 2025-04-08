@@ -107,6 +107,7 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Chaos](./hunting_grounds/chaos.md)<br>
     [:octicons-arrow-right-24: Cthonic Remains (CR)](./hunting_grounds/cthonic_remains.md)<br>
     [:octicons-arrow-right-24: Deep Crypt](./hunting_grounds/deep_crypt.md)<br>
+    [:octicons-arrow-right-24: Dubhaim Castle](./hunting_grounds/dubhaim_castle.md)<br>
     [:octicons-arrow-right-24: East Woodlands](./hunting_grounds/east_woodlands.md)<br>
     [:octicons-arrow-right-24: Giragan Caves](./hunting_grounds/giragan_caves.md)<br>
     [:octicons-arrow-right-24: Grassy Fields](./hunting_grounds/grassy_fields.md)<br>
