@@ -1,0 +1,5 @@
+Name,Location,Level,Weight,AC,Skill Dmg,Spell Dmg,Skill % Dmg, Spell % Dmg,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Heal Bonus %,Heal Bonus Flat,Cooldown Reduction %,Cooldown Reduction Flat,Set Bonus
+Dragon Scale Dagger,Quest: Dragon Scale,41,7,-,50,-,12%,-,-,-,25%,-,-,-,-,-,-,3,-,-,-,-,-,Dragon Scale
+Light Dagger,41-70 Bosses,42,13,-,40,-,8%,-,-,-,25%,-,-,-,-,-,-,3,-,-,-,-,-,-
+Sun Dagger,-,62,-,-,66,-,9%,-,-,-,25%,-,-,-,-,-,-,3,-,-,-,-,-,-
+Lotus Dagger,-,75,-,-,80,-,11%,-,-,-,25%,-,-,-,-,-,-,4,-,-,-,-,-,-
