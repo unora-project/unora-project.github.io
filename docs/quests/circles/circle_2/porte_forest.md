@@ -17,7 +17,7 @@
 ## Rewards
 
 - Legend mark: Saved the Daughter of Porte Forest
-- Legend mark: Eased the suffering of Porte Forest
+- (Missable) Legend mark: Eased the suffering of Porte Forest
 - Cosmetic: Change the color of your mount cloak to purple
 
 ## Walkthrough
@@ -82,7 +82,8 @@ Make sure everyone in your party has the Silver Wolf Leather item in their inven
 - Head back to Porte Forest 4-C
     - From the entrance, go straight up and follow the path
 - Make sure your entire group is in 4-C before proceeding!
-- Once in 4-C, you will want to fend off the enemies while walking with your party in a straight line to the end, dropping Giant Ant Wings in front of the leader to pad the traps. If they trigger, they hurt!
+- Once in 4-C, go north one map to enter the "trap room"
+- You will want to fend off the enemies while walking with your party in a straight line to the end, dropping Giant Ant Wings in front of the leader to pad the traps. If they trigger, they hurt!
 
 ??? tip "Rogues: Detect Traps"
 
@@ -97,6 +98,18 @@ Make sure everyone in your party has the Silver Wolf Leather item in their inven
 - Someone must now use the Turuc Pendant, which will teleport you to the boss room
 - Defeat the boss, Trevor
 - Once defeated, speak to Rennie. She'll mention that Trevor was her pet mantis and that he kept her safe
-- She'll give you a ring that you need to give to her father, which will calm him down
-- You're teleported straight to her father, Lureca, in the Porte Forest Shop. Speak to him and select "Rennie" > "She gave me this ring to give to you"
-- Quest complete!
+- At this point, you will have received "Eased the suffering of Porte Forest"
+- She'll give you a ring that you need to give to her father, which is intended to calm him down
+- You're teleported straight to her father, Lureca, in the Porte Forest Shop
+- You have two options here:
+    - Speak to him and select "Rennie" > "She gave me this ring to give to you". This will remove the ring from your inventory and you will be rewarded with the legend mark "Saved the Daughter of Porte Forest"
+    - Don't speak to him, which will not give you the legend mark, but you get to keep the ring
+
+Tristar Ring stats:
+
+- Level: 11
+- Class: Peasant
+- Weight: 1
+- Health: 350
+- Mana: 250
+- Magic Resistance: 10
