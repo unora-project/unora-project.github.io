@@ -80,12 +80,12 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
     [:octicons-arrow-right-24: Earrings](./equipment/earrings.md)<br>
     [:octicons-arrow-right-24: Gauntlets](./equipment/gauntlets.md)<br>
     [:octicons-arrow-right-24: Greaves](./equipment/greaves.md)<br>
-    [:octicons-arrow-right-24: Helmets](./equipment/helmets.md)<br>
+    [:octicons-arrow-right-24: Helmets](./equipment/helmets/monk/female.md)<br>
     [:octicons-arrow-right-24: Necklaces](./equipment/necklaces.md)<br>
-    [:octicons-arrow-right-24: Overarmor](./equipment/overarmor.md)<br>
+    [:octicons-arrow-right-24: Overarmor](./equipment/overarmor/female.md)<br>
     [:octicons-arrow-right-24: Rings](./equipment/rings.md)<br>
     [:octicons-arrow-right-24: Shields](./equipment/shields.md)<br>
-    [:octicons-arrow-right-24: Weapons](./equipment/weapons.md)<br>
+    [:octicons-arrow-right-24: Weapons](./equipment/weapons/monk.md)<br>
 
 -   __Towns__
 
