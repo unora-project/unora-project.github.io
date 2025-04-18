@@ -41,3 +41,13 @@ td {
     padding: 0.8em 0.6em !important;
         font-size: .70rem;
 }
+
+table.dataTable {
+    width: 100% !important;
+    table-layout: fixed;
+}
+
+table.dataTable,
+table.dataTable * {
+    transition: none !important;
+}
