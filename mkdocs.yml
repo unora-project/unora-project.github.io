@@ -21,7 +21,6 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
     - navigation.path
     - navigation.indexes
     - toc.follow
@@ -78,3 +77,9 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - https://cdn.datatables.net/v/dt/dt-2.2.2/fh-4.0.1/sc-2.4.3/datatables.min.css
+
+extra_javascript:
+  - https://code.jquery.com/jquery-3.7.1.js
+  - https://cdn.datatables.net/v/dt/dt-2.2.2/fh-4.0.1/sc-2.4.3/datatables.min.js
+  - scripts/extra.js

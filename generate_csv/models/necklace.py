@@ -9,8 +9,8 @@ class Necklace:
         self.row = [
             data.get('name'),
             data.get('location', '-'),
-            level,
             data.get('offenseelement', '-').capitalize(),
+            level,
             data.get('weight', '-'),
             data.get('modifiers', {}).get('ac', '-'),
             data.get('modifiers', {}).get('maximumHp', '-'),

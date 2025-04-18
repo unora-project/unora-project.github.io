@@ -1,6 +1,6 @@
 /* stretch the page to the full width */
 .md-grid {
-    max-width: 95%;
+    max-width: 100%;
 }
 
 /* customize tables to look like github */
@@ -22,37 +22,22 @@ td {
     border-right: none;
 }
 
-.md-typeset__table table:not([class]) td,
-.md-typeset__table table:not([class]) th {
-    padding: 7px;
-    }
-    
-    /* set a minimum width for table cells */
-    .md-typeset table:not([class]) th {
-        min-width: 3rem;
-}
-
 /* light mode alternating table bg colors */
 .md-typeset__table tr:nth-child(2n) {
-    background-color: #ccc0bb;
+    background-color: #b7a69e;
 }
 
 /* dark mode alternating table bg colors */
 [data-md-color-scheme="slate"] .md-typeset__table tr:nth-child(2n) {
-    background-color: hsla(var(--md-hue), 20%, 25%, 1)
+    background-color: #9e75628a;
 }
 
 /* END customize tables to look like github */
 
-.md-typeset table {
-    table-layout: auto !important;
-    width: auto !important;
-    min-width: 3.5rem;
-}
 
 /* Prevent wrapping so cells stay compact */
 .md-typeset th,
 .md-typeset td {
-    padding: 0.7em 0.6em !important;
-    /* Reduce padding too */
+    padding: 0.8em 0.6em !important;
+        font-size: .70rem;
 }

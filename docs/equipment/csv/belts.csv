@@ -1,61 +1,61 @@
 Name,LOC,ELE,LVL,WGT,AC,HP,MP,AS%,MR,STR,INT,WIS,CON,DEX,DMG,HIT,SKD,SKD%,SPD,SPD%,FHB,HB%,CDR%
-Earth Belt,-,4,Earth,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Fire Belt,-,4,Fire,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Leather Belt,-,4,-,1,-,50,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Sea Belt,-,4,Water,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Wind Belt,-,4,Wind,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Jeweled Earth Belt,-,11,Earth,1,-,100,50,-,-,1,1,1,1,1,-,-,-,-,-,-,-,-,-
-Jeweled Fire Belt,-,11,Fire,1,-1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
-Jeweled Sea Belt,-,11,Water,1,-1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
-Jeweled Wind Belt,-,11,Wind,1,-1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
-Mythril Belt,-,20,-,1,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-
-Earth Bronze Belt,-,20,Earth,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
-Fire Bronze Belt,-,20,Fire,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
-Sea Bronze Belt,-,20,Water,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
-Wind Bronze Belt,-,20,Wind,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
-Dark Belt,-,30,Darkness,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Hy-Brasyl Belt,-,30,-,1,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
-Light Belt,-,30,Holy,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Dark Bronze Belt,-,30,Darkness,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
-Light Bronze Belt,-,30,Holy,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
-Dark Iron Belt,-,41,Darkness,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
-Earth Iron Belt,-,41,Darkness,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
-Fire Iron Belt,-,41,Fire,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
-Light Iron Belt,-,41,Holy,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
-Sea Iron Belt,-,41,Water,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
-Wind Iron Belt,-,41,Wind,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
-Jeweled Metal Belt,-,41,Metal,1,-1,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
-Jeweled Nature Belt,-,41,Wood,1,-1,100,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-
-Mythril Braid Belt,-,71,-,1,-,-,75,-,10,-,2,2,-,-,-,-,-,-,-,-,-,-,-
-Jeweled Dark Belt,-,71,Darkness,1,-1,100,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Jeweled Light Belt,-,71,Holy,1,-1,100,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Dark Mythril Braid Belt,-,71,Darkness,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
-Earth Mythril Braid Belt,-,71,Earth,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
-Fire Mythril Braid Belt,-,71,Fire,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
-Light Mythril Braid Belt,-,71,Holy,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
-Metal Mythril Braid Belt,-,71,Metal,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
-Nature Mythril Braid Belt,-,71,Wood,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
-Sea Mythril Braid Belt,-,71,Water,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
-Wind Mythril Braid Belt,-,71,Wind,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
-Hy-Brasyl Braid Belt,-,97,-,1,-,150,-,-,10,2,-,-,2,-,-,-,-,-,-,-,-,-,-
-Dark Hy-Brasyl Braid Belt,-,97,Darkness,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
-Earth Hy-Brasyl Braid Belt,-,97,Earth,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
-Fire Hy-Brasyl Braid Belt,-,97,Fire,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
-Light Hy-Brasyl Braid Belt,-,97,Holy,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
-Metal Hy-Brasyl Braid Belt,-,97,Metal,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
-Nature Hy-Brasyl Braid Belt,-,97,Wood,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
-Sea Hy-Brasyl Braid Belt,-,97,Water,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
-Wind Hy-Brasyl Braid Belt,-,97,Wind,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
-Forsaken Belt,-,Master,Darkness,1,-3,800,400,-,15,-3,-,-,-3,-3,8,-,-,-,-,-,-,-,2
-Dark Azurium Belt,-,Master,Darkness,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
-Earth Azurium Belt,-,Master,Earth,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
-Fire Azurium Belt,-,Master,Fire,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
-Light Azurium Belt,-,Master,Holy,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
-Sea Azurium Belt,-,Master,Water,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
-Wind Azurium Belt,-,Master,Wind,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
-Dark Crimsonite Belt,-,Master,Darkness,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
-Earth Crimsonite Belt,-,Master,Earth,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
-Fire Crimsonite Belt,-,Master,Fire,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
-Light Crimsonite Belt,-,Master,Holy,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
-Sea Crimsonite Belt,-,Master,Water,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
-Wind Crimsonite Belt,-,Master,Wind,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
+Earth Belt,-,Earth,4,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fire Belt,-,Fire,4,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Leather Belt,-,-,4,1,-,50,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sea Belt,-,Water,4,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wind Belt,-,Wind,4,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jeweled Earth Belt,-,Earth,11,1,-,100,50,-,-,1,1,1,1,1,-,-,-,-,-,-,-,-,-
+Jeweled Fire Belt,-,Fire,11,1,-1,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jeweled Sea Belt,-,Water,11,1,-1,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Jeweled Wind Belt,-,Wind,11,1,-1,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-,-
+Mythril Belt,-,-,20,1,-,-,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-
+Earth Bronze Belt,-,Earth,20,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Fire Bronze Belt,-,Fire,20,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Sea Bronze Belt,-,Water,20,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Wind Bronze Belt,-,Wind,20,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Dark Belt,-,Darkness,30,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hy-Brasyl Belt,-,-,30,1,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Light Belt,-,Holy,30,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dark Bronze Belt,-,Darkness,30,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Light Bronze Belt,-,Holy,30,1,-,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Dark Iron Belt,-,Darkness,41,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Earth Iron Belt,-,Darkness,41,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Fire Iron Belt,-,Fire,41,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Light Iron Belt,-,Holy,41,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Sea Iron Belt,-,Water,41,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Wind Iron Belt,-,Wind,41,1,-,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Jeweled Metal Belt,-,Metal,41,1,-1,100,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Jeweled Nature Belt,-,Wood,41,1,-1,100,-,-,-,-,1,1,-,-,-,-,-,-,-,-,-,-,-
+Mythril Braid Belt,-,-,71,1,-,-,75,-,10,-,2,2,-,-,-,-,-,-,-,-,-,-,-
+Jeweled Dark Belt,-,Darkness,71,1,-1,100,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jeweled Light Belt,-,Holy,71,1,-1,100,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dark Mythril Braid Belt,-,Darkness,71,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
+Earth Mythril Braid Belt,-,Earth,71,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
+Fire Mythril Braid Belt,-,Fire,71,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
+Light Mythril Braid Belt,-,Holy,71,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
+Metal Mythril Braid Belt,-,Metal,71,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
+Nature Mythril Braid Belt,-,Wood,71,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
+Sea Mythril Braid Belt,-,Water,71,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
+Wind Mythril Braid Belt,-,Wind,71,1,-,-,100,-,-,-,2,1,-,-,-,-,-,-,-,-,-,-,-
+Hy-Brasyl Braid Belt,-,-,97,1,-,150,-,-,10,2,-,-,2,-,-,-,-,-,-,-,-,-,-
+Dark Hy-Brasyl Braid Belt,-,Darkness,97,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
+Earth Hy-Brasyl Braid Belt,-,Earth,97,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
+Fire Hy-Brasyl Braid Belt,-,Fire,97,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
+Light Hy-Brasyl Braid Belt,-,Holy,97,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
+Metal Hy-Brasyl Braid Belt,-,Metal,97,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
+Nature Hy-Brasyl Braid Belt,-,Wood,97,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
+Sea Hy-Brasyl Braid Belt,-,Water,97,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
+Wind Hy-Brasyl Braid Belt,-,Wind,97,1,-,200,-,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-
+Forsaken Belt,-,Darkness,Master,1,-3,800,400,-,15,-3,-,-,-3,-3,8,-,-,-,-,-,-,-,2
+Dark Azurium Belt,-,Darkness,Master,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+Earth Azurium Belt,-,Earth,Master,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+Fire Azurium Belt,-,Fire,Master,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+Light Azurium Belt,-,Holy,Master,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+Sea Azurium Belt,-,Water,Master,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+Wind Azurium Belt,-,Wind,Master,1,-2,-,300,-,10,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+Dark Crimsonite Belt,-,Darkness,Master,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
+Earth Crimsonite Belt,-,Earth,Master,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
+Fire Crimsonite Belt,-,Fire,Master,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
+Light Crimsonite Belt,-,Holy,Master,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
+Sea Crimsonite Belt,-,Water,Master,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
+Wind Crimsonite Belt,-,Wind,Master,1,-2,600,-,-,10,1,-,-,1,1,5,-,-,-,-,-,-,-,-
