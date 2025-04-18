@@ -3,9 +3,13 @@ Viper's Gland,East Woodlands - Viper,2,Lesser,1
 Spider's Eye,Mileth Crypt - Spider,3,Lesser,1
 Spider's Silk,Mileth Crypt - Spider,3,Lesser,1
 Bee's Sting,East Woodlands - Bee,3,Lesser,1
+Raw Wax,East Woodlands - Bee,3,Lesser,1
+Royal Wax,East Woodlands - Bee,3,Lesser,1
+Raw Honey,East Woodlands - Bee,3,Lesser,1
 Mantis Eye,East Woodlands - Mantis,4,Lesser,1
 Centipede's Gland,Mileth Crypt - Centipede,6,Lesser,1
 Bat's Wing,Mileth Crypt - Bat,10,Lesser,1
+Trent Wood,Porte Forest - Trent,10,Lesser,1
 Trout,Fishing,11,Lesser,1
 Bass,Fishing,11,Lesser,1
 Lion Fish,Fishing,11,Lesser,2
@@ -23,12 +27,15 @@ Ghast's Skull,Dubhaim Castle - Ghast,18,Lesser,1
 Giant Bat's Wing,Mileth Crypt - Giant Bat,27,Lesser,2
 Gargoyle's Skull,Dubhaim Castle - Gargoyle,30,Lesser,3
 Goblin's Skull,East Woodlands - Goblin,34,Lesser,3
+Giant Ant Wing,Porte Forest - Giant Ant,35,Lesser,3
 Mimic Teeth,Mileth Crypt - Mimic,36,Lesser,4
 Hobgoblin's Skull,East Woodlands - Hobgoblin,37,Lesser,4
+Silver Wolf Mane,Porte Forest - Silver Wolf,37,Lesser,3
 Rockcobbler's Scale,Piet Crypt - Rockcobbler,41,Basic,1
 Zombie Flesh,House Macabre/Wilderness - Zombie,42,Basic,1
 Crab's Claw,Piet Crypt - Crab,42,Basic,1
 Flesh,Cthonic Remains - Flesh Golem,42,Basic,1
+Crab's Shell,Piet - Crab,42,Basic,1
 Frog's Leg,Piet Crypt - Frog,44,Basic,1
 Wisp's Core,East Woodlands - Wisp,45,Basic,1
 Turtle's Shell,Piet Crypt/Wilderness - Turtle,45,Basic,1
@@ -66,4 +73,5 @@ Direwolf Lock,Mount Giragan - Direwolf,99,Superior,1
 Ice Spore Sac,Mount Giragan - Ice Sport,99,Superior,1
 Losgann Tail,Nobis - Losgann,99,Superior,1
 Ruidhtear Toe,Nobis - Ruidhtear,99,Superior,1
+Gold Beetalic Head,Shinewood - Gold Beetalic,99,Superior,1
 Skeleton Bones,Chaos - ??,100,Superior,2
