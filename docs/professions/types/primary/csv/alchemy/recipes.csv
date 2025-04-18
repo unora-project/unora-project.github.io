@@ -24,7 +24,12 @@ Amnesia Brew,1 Greater Extract & 1 Blossom of Betrayal,Amnesia Brew Recipe,Makes
 Strong Health Potion,5 Lesser Extract,Strong Health Potion Recipe,+5000 HP + 20% Max HP
 Strong Mana Potion,5 Lesser Extract,Strong Mana Potion Recipe,+3000 MP + 20% Max MP
 Strong Haste Brew,1 Superior Extract & 1 Spark Flower,Attack Tonics Recipe?,+18% Attack Speed for 15 minutes
+Strong Power Brew,1 Superior Extract & 1 Cactus Flower,Attack Tonics Recipe?,+10 DMG for 15 minutes?
+Strong Accuracy Potion,1 Superior Extract & 1 Kabine Blossom,Attack Tonics Recipe?,+15 Hit for 15 minutes
 Stat Boost Elixir,1 Superior Extract & 1 Marauder's Spine & 1 Satyr's Hoof & 1 Polyp Sac,??,Increase all stats by 1 for ?? minutes
-Potent Rejuvenation Potion,8 Lesser Extract,??,+6000 HP + 25% Max HP + 3000 MP + 15% Max MP
-Potent Haste Brew,2 Superior Extract & 1 Spark Flower,??,+24% Attack Speed for 20 minutes
-Potent Accuracty Potion,??,??,+20 Hit for 20 minutes
+Potent Health Potion,8 Lesser Extract,Potent Health Potion Recipe,+8000 HP + 25% Max HP
+Potent Mana Potion,8 Lesser Extract,Potent Mana Potion Recipe,+5000 MP + 25% Max MP
+Potent Rejuvenation Potion,8 Lesser Extract,Potent Vitality Recipe,+6000 HP + 25% Max HP + 3000 MP + 15% Max MP
+Potent Haste Brew,2 Superior Extract & 1 Spark Flower,Potent Haste Brew Recipe,+24% Attack Speed for 20 minutes
+Potent Power Brew,2 Superior Extract & 1 Cactus Flower,Potent Power Brew Recipe,+15 DMG for 20 minutes
+Potent Accuracty Potion,2 Superior Extract & 1 Kabine Blossom,Potent Accuracy Brew Recipe,+20 Hit for 20 minutes
