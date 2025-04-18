@@ -1,23 +1,48 @@
-Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
-Fire Necklace,Rucesion Armor Shop / Jewelcrafting,6,1,-,-,-,-,-,-,-,-,-,-,-,-,-
-Wind Necklace,Rucesion Armor Shop / Jewelcrafting,6,1,-,-,-,-,-,-,-,-,-,-,-,-,-
-Earth Necklace,Rucesion Armor Shop / Jewelcrafting,6,1,-,-,-,-,-,-,-,-,-,-,-,-,-
-Sea Necklace,Rucesion Armor Shop / Jewelcrafting,6,1,-,-,-,-,-,-,-,-,-,-,-,-,-
-Pearl Necklace,Mileth Crypt Monsters,9,1,-,-,200,-,-,-,-,1,-,-,-,-,-
-Bone Fire Necklace,Jewelcrafting,11,1,-,50,-,8,-,-,-,-,-,-,-,-,-
-Bone Wind Necklace,Jewelcrafting,11,1,-,-,-,8,-,-,-,-,-,-,1,-,-
-Bone Earth Necklace,Jewelcrafting,11,1,-,-,-,8,-,-,-,-,-,-,-,1,-
-Bone Sea Necklace,Jewelcrafting,11,1,-,-,50,8,-,-,-,-,-,-,-,-,-
-Bone Necklace,Mileth Crypt Monsters,15,1,-,-,-,8,-,-,-,-,-,-,1,-,-
-Light Diamond Necklace,Mythic,15,1,-,-,-,8,-,-,-,-,-,-,-,1,-
-Dark Bone Necklace,Mythic,15,1,-,-,-,8,-,-,-,-,-,-,1,-,-
-Pearl Chain Necklace,Mythic,41,1,-,-,250,-,6,-,-,1,-,-,-,-,-
-Phoenix Necklace,Mythic,41,1,-,-,100,-,-,-,1,-,-,-,-,4,-
-Kanna Fire Necklace,Jewelcrafting,41,1,-,100,-,12,-,-,-,-,-,-,-,-,-
-Kanna Wind Necklace,Jewelcrafting,41,1,-,-,-,12,-,-,-,-,-,-,2,-,-
-Kanna Earth Necklace,Jewelcrafting,41,1,-,-,-,12,-,-,-,-,-,-,-,2,-
-Kanna Sea Necklace,Jewelcrafting,41,1,-,-,100,12,-,-,-,-,-,-,-,-,-
-Sea Coral Necklace,Karlopos Quest,60,1,-1,-,300,-,-,-,-,-,-,-,-,8,-
-Dark Skull Necklace,Mythic,80,1,-,-,-,-,-,-,-,-,-,-,-,-,-
-Forsaken Necklace,Chaos,Master,1,-,1500,500,25,-,-,-,-1,-1,-1,8,-,Sacred
-Sacred Necklace,Limbo,Master,1,-,1000,1000,25,-,-,-,-1,-1,-1,-,10,-
+Name,LOC,ELE,LVL,WGT,AC,HP,MP,AS%,MR,STR,INT,WIS,CON,DEX,DMG,HIT,SKD,SKD%,SPD,SPD%,FHB,HB%,CDR%
+Earth Necklace,-,6,Earth,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fire Necklace,-,6,Fire,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Sea Necklace,-,6,Water,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Wind Necklace,-,6,Wind,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Jade Necklace,-,9,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Pearl Necklace,-,9,-,1,-,-,200,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Bone Earth Necklace,-,11,Earth,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bone Fire Necklace,-,11,Fire,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bone Sea Necklace,-,11,Water,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bone Wind Necklace,-,11,Wind,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Amber Necklace,-,14,-,1,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Bone Necklace,-,15,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dark Bone Necklace,-,15,-,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Light Diamond Necklace,-,15,-,1,-1,-,-,8,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+Pearl Chain Necklace,-,41,-,1,-,-,250,-,6,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Phoenix Necklace,-,41,-,1,-,-,100,-,-,-,1,-,-,-,-,4,-,-,-,-,-,-,-
+Kanna Earth Necklace,-,41,Earth,1,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Kanna Fire Necklace,-,41,Fire,1,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Kanna Sea Necklace,-,41,Water,1,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Kanna Wind Necklace,-,41,Wind,1,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Sea Coral Necklace,-,60,Water,1,-,-,300,-,-,-,-,-,-,-,-,4,-,-,25,-,-,-,-
+Fire Molten Necklace,-,70,Fire,1,-,500,-,-,-,-,-,-,-,-,-,-,25,-,-,-,-,-,-
+Sand Necklace,-,70,Earth,1,-1,400,200,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Polished Earth Necklace,-,71,Earth,1,-,-,-,-,-,-,-,-,-,-,-,4,-,-,-,-,-,-,-
+Polished Fire Necklace,-,71,Fire,1,-,-,-,-,-,-,-,-,-,-,-,4,-,-,-,-,-,-,-
+Polished Sea Necklace,-,71,Water,1,-,-,-,-,-,-,-,-,-,-,-,4,-,-,-,-,-,-,-
+Polished Wind Necklace,-,71,Wind,1,-,-,-,-,-,-,-,-,-,-,-,4,-,-,-,-,-,-,-
+Dark Skull Necklace,-,80,-,1,-,-500,250,-,-,-,-,-,-,-,-,8,-,-,-,-,-,-,-
+Leaf Necklace,-,80,Wind,1,-,200,400,-,-,-,-,-,-,-,-,5,-,-,-,-,25,-,-
+Star Earth Necklace,-,97,Earth,1,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
+Star Fire Necklace,-,97,Fire,1,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
+Star Sea Necklace,-,97,Water,1,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
+Star Wind Necklace,-,97,Wind,1,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
+Forsaken Dark Necklace,-,Master,-,1,-,1500,-,-,-,-1,-,-,-1,-1,-,-,-,5,-,-,-,-,2
+Sacred Light Necklace,-,Master,-,1,-,500,500,-,-,-,-1,-1,-1,-,-,12,-,-,-,5,-,5,2
+Azurium Dark Necklace,-,Master,Darkness,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,3,-,3,-
+Azurium Earth Necklace,-,Master,Earth,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,3,-,3,-
+Azurium Fire Necklace,-,Master,Fire,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,3,-,3,-
+Azurium Light Necklace,-,Master,Holy,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,3,-,3,-
+Azurium Sea Necklace,-,Master,Water,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,3,-,3,-
+Azurium Wind Necklace,-,Master,Wind,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,3,-,3,-
+Crimsonite Dark Necklace,-,Master,Darkness,1,-,1000,-,-,-,1,-,-,1,1,-,-,-,3,-,-,-,-,-
+Crimsonite Earth Necklace,-,Master,Earth,1,-,1000,-,-,-,1,-,-,1,1,-,-,-,3,-,-,-,-,-
+Crimsonite Fire Necklace,-,Master,Fire,1,-,1000,-,-,-,1,-,-,1,1,-,-,-,3,-,-,-,-,-
+Crimsonite Light Necklace,-,Master,Holy,1,-,1000,-,-,-,1,-,-,1,1,-,-,-,3,-,-,-,-,-
+Crimsonite Sea Necklace,-,Master,Water,1,-,1000,-,-,-,1,-,-,1,1,-,-,-,3,-,-,-,-,-
+Crimsonite Wind Necklace,-,Master,Wind,1,-,1000,-,-,-,1,-,-,1,1,-,-,-,3,-,-,-,-,-

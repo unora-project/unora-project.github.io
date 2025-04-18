@@ -13,3 +13,11 @@
 *[WIS]: Wisdom
 *[CON]: Constitution
 *[DEX]: Dexterity
+*[LVL]: Level
+*[LOC]: Location
+*[SPD]: Spell Damage
+*[FHB]: Flat Heal Bonus
+*[HB]: Heal Bonus
+*[CDR]: Cooldown Reduction
+*[SKD]: Skill Damage
+*[WGT]: Weight

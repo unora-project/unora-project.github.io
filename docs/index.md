@@ -74,12 +74,13 @@ An unofficial wiki for Unora: Elemental Harmony.<br>
 
     ---
 
+    [:octicons-arrow-right-24: Accessories](./equipment/accessories.md)<br>
     [:octicons-arrow-right-24: Belts](./equipment/belts.md)<br>
     [:octicons-arrow-right-24: Boots](./equipment/boots.md)<br>
     [:octicons-arrow-right-24: Earrings](./equipment/earrings.md)<br>
     [:octicons-arrow-right-24: Gauntlets](./equipment/gauntlets.md)<br>
     [:octicons-arrow-right-24: Greaves](./equipment/greaves.md)<br>
-    [:octicons-arrow-right-24: Helms](./equipment/helms.md)<br>
+    [:octicons-arrow-right-24: Helmets](./equipment/helmets.md)<br>
     [:octicons-arrow-right-24: Necklaces](./equipment/necklaces.md)<br>
     [:octicons-arrow-right-24: Rings](./equipment/rings.md)<br>
     [:octicons-arrow-right-24: Shields](./equipment/shields.md)<br>

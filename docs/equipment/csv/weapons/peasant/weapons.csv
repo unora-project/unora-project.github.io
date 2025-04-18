@@ -1,1 +1,18 @@
-Name,Location,Level,Weight,AC,Skill Dmg,Spell Dmg,Skill % Dmg, Spell % Dmg,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Heal Bonus %,Heal Bonus Flat,Cooldown Reduction %,Cooldown Reduction Flat,Set Bonus
+Name,LOC,LVL,WGT,AC,HP,MP,AS%,MR,STR,INT,WIS,CON,DEX,DMG,HIT,SKD,SKD%,SPD,SPD%,FHB,HB%,CDR%
+Black Paintball Gun,-,1,7,-,-,-,-,-,-,-,-,-,-,-,-,20,-,-,-,-,-,-
+Dirk,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-
+Grey Paintball Gun,-,1,7,-,-,-,-,-,-,-,-,-,-,-,-,20,-,-,-,-,-,-
+Pick axe,-,1,1,-,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-
+Stick,-,1,1,-,-,-,-,-,-,-,-,-,-,4,-,4,-,-,-,-,-,-
+Eppe,-,2,1,-,-,-,-,-,-,-,-,-,-,-,-,12,-,-,-,-,-,-
+Good Eppe,-,2,1,-,-,-,-,-,-,-,-,-,-,-,-,14,-,-,-,-,-,-
+Grand Eppe,-,2,1,-,-,-,-,-,-,-,-,-,-,-,-,18,-,-,-,-,-,-
+Great Eppe,-,2,1,-,-,-,-,-,-,-,-,-,-,-,-,16,-,-,-,-,-,-
+Good Saber,-,7,7,-,-,-,-,-,-,-,-,-,-,-,-,22,-,-,-,-,-,-
+Grand Saber,-,7,6,-,-,-,-,-,-,-,-,-,-,-,-,26,-,-,-,-,-,-
+Great Saber,-,7,6,-,-,-,-,-,-,-,-,-,-,-,-,24,-,-,-,-,-,-
+Saber,-,7,7,-,-,-,-,-,-,-,-,-,-,-,-,20,-,-,-,-,-,-
+Dragon Slayer,-,99,18,-,200,-,-,10,-,-,-,-,-,3,-,180,15,-,-,-,-,-
+Good Dragon Slayer,-,99,18,-,150,-,-,10,-,-,-,-,-,-,2,185,16,-,-,-,-,-
+Grand Dragon Slayer,-,99,16,-,400,-,-,10,-,-,-,-,-,5,-,215,18,-,-,-,-,-
+Great Dragon Slayer,-,99,17,-,300,-,-,10,-,-,-,-,-,4,-,200,17,-,-,-,-,-

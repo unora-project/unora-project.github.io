@@ -1,20 +1,25 @@
-Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
-Boots,Mileth Armor Shop,1,2,-,25,-,-,2,-,-,-,-,-,-,-,-
-Grey Boots,Mileth Armor Shop,11,2,-,50,-,-,3,-,-,-,-,-,-,-,-
-Green Boots,Mileth Armor Shop,30,2,-,100,-,-,4,-,-,-,-,2,-,-,-
-Pure Boots,WW Wisps / Mythic,41,2,-,-,-,-,5,3,1,-,-,3,-,-,-
-Grace Boots,WW Wisps / Mythic,41,2,-,-,-,-,5,-,1,-,1,3,-,-,-
-Peace Boots,WW Wisps / Mythic,41,2,-,-,-,-,5,-,2,1,-,3,-,-,-
-Fabulous Boots,WW Wisps / Mythic,41,2,-,-,-,-,5,3,-,1,-,3,-,-,-
-Star Boots,WW Wisps / Mythic,41,2,-,-,-,-,5,-,-,1,1,3,-,-,-
-Dust Boots,Mythic,41,2,-,-,-,-,-,-,-,-,-,-,-,-,-
-Grim Boots,Mythic,41,2,-,-,-,-,-,-,-,-,-,-,-,-,-
-Tract Boots,Mythic,41,2,-,-,-,-,-,-,-,-,-,-,-,-,-
-Shion Boots,Mythic,41,2,-,-,-,-,-,-,-,-,-,-,-,-,-
-Lapis Boots,Mythic,56,2,-,200,-,-,5,,,,,,,,
-Silk Boots,Piet/Loures Sewer Bosses,41,2,-,-,-,-,5,-,-,-,-,8,-,-,-
-Magma Boots,Mythic,82,2,-,-,-,-,-,-,-,-,-,-,-,-,-
-Enchanted Boots,CR10 / Mythic,91,2,-,250,-,-,7,-,-,-,-,6,-,-,-
-Mythril Boots,-,Master,2,-,-,1000,-,8,-,3,-,-,8,-,-,-
-Hy-Brasyl Boots,-,Master,2,-,1000,-,-,8,3,-,-,-,8,-,-,-
-Shinguards,-,Master,2,-3,800,600,-,10,-,-,3,3,5,-,-,Forsaken
+Name,LOC,LVL,WGT,AC,HP,MP,AS%,MR,STR,INT,WIS,CON,DEX,DMG,HIT,SKD,SKD%,SPD,SPD%,FHB,HB%,CDR%
+Boots,-,1,2,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+Chi Anklet,-,9,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Grey Boots,-,11,2,-,-,-,-,5,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+Cured Boots,-,24,2,-,-,-,-,5,-,-,-,-,2,-,-,-,-,-,-,-,-,-
+Green Boots,-,30,2,-,-,-,-,5,-,-,-,-,2,-,-,-,-,-,-,-,-,-
+Dust Boots,-,41,2,-,-,-,-,5,-,1,1,-,3,-,-,-,-,-,-,-,-,-
+Fabulous Boots,-,41,2,-,-,-,-,5,3,-,1,-,3,-,-,-,-,-,-,-,-,-
+Grace Boots,-,41,2,-,-,-,-,5,-,1,-,1,3,-,-,-,-,-,-,-,-,-
+Grim Boots,-,41,2,-,-,-,-,5,3,-,-,1,1,-,-,-,-,-,-,-,-,-
+Peace Boots,-,41,2,-,-,-,-,5,-,2,1,-,3,-,-,-,-,-,-,-,-,-
+Pure Boots,-,41,2,-,-,-,-,5,3,1,-,-,3,-,-,-,-,-,-,-,-,-
+Shion Boots,-,41,2,-,-,-,-,5,-,1,1,1,3,-,-,-,-,-,-,-,-,-
+Silk Boots,-,41,2,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-,-,-
+Star Boots,-,41,2,-,-,-,-,5,-,-,1,1,3,-,-,-,-,-,-,-,-,-
+Tract Boots,-,41,2,-,-,-,-,5,1,-,-,1,3,-,-,-,-,-,-,-,-,-
+Cordovan Boots,-,50,2,-,-,-,-,5,-,-,-,-,3,-,-,-,-,-,-,-,-,-
+Lapis Boots,-,56,2,-,-,200,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Saffian Boots,-,66,2,-,-,-,-,10,-,-,-,-,4,-,-,-,-,-,-,-,-,-
+Magma Boots,-,82,2,-,-,-,-,10,-,-,-,-,4,-,-,-,-,-,-,-,-,-
+Enchanted Boots,-,91,2,-,-,-,-,10,-,-,-,-,5,-,-,-,-,-,-,-,-,-
+Hy-Brasyl Boots,-,Master,2,-1,1000,-,-,10,2,-,-,2,2,-,-,-,-,-,-,-,-,-
+Mythril Boots,-,Master,2,-,-,500,-,10,-,2,2,-,2,-,-,-,-,-,-,-,-,-
+Shinguards,-,Master,2,-2,800,400,-,10,2,2,2,2,2,-,-,-,-,-,-,-,-,-
+Voidwalkers,-,Master,2,-3,1000,500,-,10,2,2,2,2,2,-,-,-,-,-,-,-,-,-

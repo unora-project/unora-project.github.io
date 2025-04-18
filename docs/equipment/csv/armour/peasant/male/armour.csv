@@ -1,1 +1,2 @@
-Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT
+Name,LOC,LVL,WGT,AC,HP,MP,AS%,MR,STR,INT,WIS,CON,DEX,DMG,HIT,SKD,SKD%,SPD,SPD%,FHB,HB%,CDR%
+Shirt,-,-,1,-2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-

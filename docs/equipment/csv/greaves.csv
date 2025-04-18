@@ -1,11 +1,16 @@
-Name,Location,Level,Weight,AC,Health,Mana,Attack Speed %,Magic Resist,STR,INT,WIS,CON,DEX,DMG,HIT,Set Bonus
-Leather Greaves,Mileth Armor Shop,6,3,-1,50,-100,-,-,-,-,-,-,-,-,-,-
-Reinforced Leather Greaves,Mythic,21,3,-3,0,-200,-,3,-,-,-,-,-,1,-,-
-Iron Greaves,Mileth Armor Shop,26,5,-3,100,-500,-,3,-,-,-,-,-,-,-,-
-Spiked Greaves,41-70 Bosses / Mythic,56,7,-5,300,-400,-,5,-,-,-,-,-,2,-,-
-Fiery Greaves,Mythic,90,7,-,-,-,-,-,-,-,-,-,-,-,-,-
-Glace Greaves,Mythic,90,7,-,-,-,-,-,-,-,-,-,-,-,-,-
-Dark Aisling Greaves,Arena events / Cthonic Demise,96,7,-8,500,500,-,5,-,-,-,-,-,5,-,Dark Aisling
-Sacred Greaves,Limbo,Master,8,-7,500,1000,-,10,-2,2,2,-,-,-,7,Sacred
-Scurvy Greaves,,Master,8,-8,800,400,-,10,-,-,-,-,-,2,4,Sacred
-Reinforced Spiked Greaves,,Master,8,-8,1200,-,-,10,-,-,-,-,-,5,-,Sacred
+Name,LOC,LVL,WGT,AC,HP,MP,AS%,MR,STR,INT,WIS,CON,DEX,DMG,HIT,SKD,SKD%,SPD,SPD%,FHB,HB%,CDR%
+Leather Greaves,-,6,3,-1,-,-100,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Bronze Greaves,-,14,3,-2,-,-300,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Reinforced Leather Greaves,-,21,3,-2,150,-150,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Iron Greaves,-,26,5,-3,-,-500,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Spiked Greaves,-,56,7,-4,500,-500,-,5,-,-,-,-,-,3,-,-,-,-,-,-,-,-
+Mythril Greaves,-,59,7,-3,250,-250,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Fiery Greaves,-,90,7,-4,600,-200,-,5,-,-,-,-,-,4,-,-,-,-,-,-,-,-
+Glace Greaves,-,90,7,-3,-,250,-,5,-,-,-,-,-,-,2,-,-,-,-,-,-,-
+Hy-Brasyl Greaves,-,93,9,-4,500,-500,-,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Dark Aisling Greaves,-,96,7,-3,500,500,-,5,-,-,-,-,-,4,2,-,-,-,-,-,-,-
+Mystic Greaves,-,Master,8,-6,-,4000,-,20,-,-,-,-,-,-,8,-,-,-,10,-,-,10
+Reinforced Spiked Greaves,-,Master,8,-5,1200,-,-,10,-,-,-,-,-,5,-,-,-,-,-,-,-,-
+Sacred Greaves,-,Master,8,-5,500,1000,-,10,-2,2,2,-,-,-,6,-,-,-,-,-,-,-
+Scurvy Greaves,-,Master,8,-4,500,500,-,10,-,-,-,-,-,8,4,-,-,-,-,-,-,-
+Slatespire Legplates,-,Master,8,-6,1800,-,-,10,-,-,-,-,-,6,-,-,-,-,-,-,-,-
