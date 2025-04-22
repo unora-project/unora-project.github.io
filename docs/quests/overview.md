@@ -78,6 +78,7 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
     Level range: Master
 
 - [Defeat the Dark Army](./circles/circle_1/find_the_mysterious_artifact.md#part-6-defeat-the-dark-army)
+- [Help Daltoo Escape](./circles/side/help_daltoo_escape.md)
 - [Medusa](./circles/circle_1/find_the_mysterious_artifact.md#medusa)
 - [Shamensyth](./circles/circle_1/find_the_mysterious_artifact.md#shamensyth)
 - [Lady Phoenix](./circles/circle_1/find_the_mysterious_artifact.md#lady-phoenix)
@@ -105,7 +106,6 @@ Quests which can be completed more than once (with a cooldown).
 - [Decorating the Inn](./circles/side/decorating_the_inn.md)
 - [East Woodlands Slayer](./circles/side/east_woodlands_slayer.md)
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
-- [Help Daltoo Escape](./circles/side/help_daltoo_escape.md)
 - [Holy Research](./circles/circle_1/holy_research.md)
 - [Ice Wall](./circles/circle_2/ice_wall.md)
 - [Karlopos Slayer](./circles/side/karlopos_slayer.md)
