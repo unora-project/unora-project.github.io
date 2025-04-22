@@ -105,6 +105,7 @@ Quests which can be completed more than once (with a cooldown).
 - [Decorating the Inn](./circles/side/decorating_the_inn.md)
 - [East Woodlands Slayer](./circles/side/east_woodlands_slayer.md)
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
+- [Help Daltoo Escape](./circles/side/help_daltoo_escape.md)
 - [Holy Research](./circles/circle_1/holy_research.md)
 - [Ice Wall](./circles/circle_2/ice_wall.md)
 - [Karlopos Slayer](./circles/side/karlopos_slayer.md)
