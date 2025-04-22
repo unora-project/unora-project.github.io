@@ -4,7 +4,13 @@
 
 ## Mastering
 
-You need 15,000 base HP and 7,500 base MP to master.
+You need 12,500 base HP and 6,250 base MP to master.
+
+## Class Dedication (subbing)
+
+You need 8,400 base HP, 2,500 base MP, 60,000,000 experience and 10 Strong Health Potions to dedicate to your class (sub).
+
+19 stat points will carry over into the class you dedicate into.
 
 ## Skills
 

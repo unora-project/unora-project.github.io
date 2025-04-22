@@ -28,12 +28,18 @@ Prior to mastering Wizard, if you aren't happy with the element you chose, you c
 
 ### Base HP/MP
 
-You need 10,000 base HP and 12,000 base MP to master.
+You need 7,000 base HP and 9,000 base MP to master.
 
 ### Items
 
 - Magic Ink
 - Magic Scroll
+
+## Class Dedication (subbing)
+
+You need 6,000 base HP, 6,000 base MP, 60,000,000 experience and 10 Strong Health Potions to dedicate to your class (sub).
+
+19 stat points will carry over into the class you dedicate into.
 
 ## Skills
 
