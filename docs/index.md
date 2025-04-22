@@ -48,10 +48,10 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Miraelis](./religion/gods/miraelis.md)<br>
-    [:octicons-arrow-right-24: Serendael](./religion/gods/serendael.md)<br>
-    [:octicons-arrow-right-24: Skandara](./religion/gods/skandara.md)<br>
-    [:octicons-arrow-right-24: Theselene](./religion/gods/theselene.md)<br>
+    [:octicons-arrow-right-24: Miraelis](./religion/miraelis.md)<br>
+    [:octicons-arrow-right-24: Serendael](./religion/serendael.md)<br>
+    [:octicons-arrow-right-24: Skandara](./religion/skandara.md)<br>
+    [:octicons-arrow-right-24: Theselene](./religion/theselene.md)<br>
 
 -   __[Professions](./professions/overview.md)__
 
@@ -59,18 +59,18 @@ hide:
 
     __Primary__
 
-    [:octicons-arrow-right-24: Alchemy](./professions/types/primary/alchemy.md)<br>
-    [:octicons-arrow-right-24: Armorsmithing](./professions/types/primary/armorsmithing.md)<br>
-    [:octicons-arrow-right-24: Enchanting](./professions/types/primary/enchanting.md)<br>
-    [:octicons-arrow-right-24: Jewelcrafting](./professions/types/primary/jewelcrafting.md)<br>
-    [:octicons-arrow-right-24: Tailoring](./professions/types/primary/tailoring.md)<br>
-    [:octicons-arrow-right-24: Weaponsmithing](./professions/types/primary/weaponsmithing.md)<br>
+    [:octicons-arrow-right-24: Alchemy](./professions/alchemy.md)<br>
+    [:octicons-arrow-right-24: Armorsmithing](./professions/armorsmithing.md)<br>
+    [:octicons-arrow-right-24: Enchanting](./professions/enchanting.md)<br>
+    [:octicons-arrow-right-24: Jewelcrafting](./professions/jewelcrafting.md)<br>
+    [:octicons-arrow-right-24: Tailoring](./professions/tailoring.md)<br>
+    [:octicons-arrow-right-24: Weaponsmithing](./professions/weaponsmithing.md)<br>
 
     __Secondary__
 
-    [:octicons-arrow-right-24: Cooking](./professions/types/secondary/cooking.md)<br>
-    [:octicons-arrow-right-24: Fishing](./professions/types/secondary/fishing.md)<br>
-    [:octicons-arrow-right-24: Foraging](./professions/types/secondary/foraging.md)<br>
+    [:octicons-arrow-right-24: Cooking](./professions/cooking.md)<br>
+    [:octicons-arrow-right-24: Fishing](./professions/fishing.md)<br>
+    [:octicons-arrow-right-24: Foraging](./professions/foraging.md)<br>
 
 -   __Equipment__
 
@@ -141,6 +141,7 @@ hide:
 
     ---
 
+    [:octicons-arrow-right-24: Mounts](./mounts.md)<br>
     [:octicons-arrow-right-24: Unora Lore](./lore/overview.md)<br>
     [:octicons-arrow-right-24: Calculators](./calculators/stats.md)
 

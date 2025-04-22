@@ -1,11 +1,11 @@
 NPC,Area,Minimum Level
-Horse Leader,Floppy Farms,9
-King Mantis,Garden,14
-Bee Queen,Woodlands,21
-Frog King,Wolf,30
-Lord Gargoyle,Zombies,41
-Wolf Pack Leader,Frogs,50
-Grimlock Queen,Kobolds,60
-Kobold Pack Leader,Grimlocks,71
-Big Bunny,Horses,80
-Superior Zombie,Gargoyles,93
+Horse Leader,Floppy Farms,"Bunny 1: 9+<br>Bunny 2: 41+<br>Bunny 3: 71+"
+King Mantis,Garden,"Bee 1: 14+<br>Bee 2: 46+<br>Bee 3: 76+"
+Bee Queen,Woodlands,"Mantis 1: 21+<br>Mantis 2: 51+<br>Mantis 3: 80+"
+Frog King,Wolf,"Wolf 1: 30+<br>Wolf 2: 60+<br>Wolf 3: 90+"
+Lord Gargoyle,Zombies,"Zombie 1: 41+<br>Zombie 2: 71+<br>Zombie 3: 97+"
+Wolf Pack Leader,Frogs,"Frog 1: 50+<br>Frog 2: 80+<br>Frog 3: 99+"
+Grimlock Queen,Kobolds,"Kobold 1: 60+<br>Kobold 2: 90+<br>Kobold 3: 99+ & 25,000 Vitality"
+Kobold Pack Leader,Grimlocks,"Grimlock 1: 71+<br>Grimlock 2: 97+<br>Grimlock 3: 99+ & 30,000 Vitality"
+Big Bunny,Horses,"Horse 1: 80+<br>Horse 2: 80+ & 20,000 Vitality<br>Horse 3: 99+ & 50,000 Vitality"
+Superior Zombie,Gargoyles,"Gargoyle 1: 93+<br>Gargoyle 2: 99+ & 40,000 Vitality<br>Gargoyle 3: 99+ & 80,000 Vitality"

@@ -2,10 +2,10 @@
 
 Religion is tied closely to the [lore](../lore/overview.md) revolving around Unora. There are currently 4 goddesses in which you can devote yourself to that provide various buffs when enough faith is used to perform a divine blessing:
 
-- [Miraelis](./gods/miraelis.md)
-- [Serendael](./gods/serendael.md)
-- [Skandara](./gods/skandara.md)
-- [Theselene](./gods/theselene.md)
+- [Miraelis](./miraelis.md)
+- [Serendael](./serendael.md)
+- [Skandara](./skandara.md)
+- [Theselene](./theselene.md)
 
 ## Joining a religion
 

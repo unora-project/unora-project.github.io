@@ -25,7 +25,7 @@
 
 To start this quest, you must come across an item called a "Mysterious Artifact". This item is found randomly, but can be found walking around in the Mileth Crypt floors. It's been reported this can be found on floors 3 and 4.
 
-Once you have the Mysterious Artifact, to proceed, you must join a [religion](./../../../religion/overview.md). Once you've joined one:
+Once you have the Mysterious Artifact, to proceed, you must join a [religion](../../../religion/overview.md). Once you've joined one:
 
 !!! note ""
 

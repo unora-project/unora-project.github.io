@@ -1,4 +1,4 @@
-# Fishing
+ls# Fishing
 
 Fishing is a secondary profession in Unora that is able to be learned by all aislings.
 
@@ -34,7 +34,7 @@ Here are some reasons why you would want to fish:
 - Used for various quests
 - Can be traded to the Piet alchemist for monster extracts
     - Aislings that know the Alchemy profession can use these extracts to craft all kinds of potions
-- Gives you a legend mark: Caught a fish ([number_of_fish])
+- Gives you a legend mark: Caught a fish (X)
 - Each fish you catch provides a bit of experience (so, passive AFK leveling)
     - Useless boots you catch do not provide experience
 
@@ -44,4 +44,4 @@ As it stands, all fish can be caught at any fishing spot; no fish has an exclusi
 
 This is a non-exhaustive list and will be added to as more fish are known.
 
-{{ read_csv('./csv/fishing.csv') }}
+{{ read_csv('./professions/csv/fishing/fish.csv') }}

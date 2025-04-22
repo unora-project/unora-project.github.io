@@ -4,8 +4,8 @@ The Enchanting profession can be used to add various stats to individual pieces 
 
 Each rank of enchantment requires a specific number of Essence from the same God as the enchant you want to craft:
 
-{{ read_csv('./csv/enchanting/ranks.csv') }}
+{{ read_csv('./professions/csv/enchanting/ranks.csv') }}
 
 Here are the known Enchantments:
 
-{{ read_csv('./csv/enchanting/enchants.csv') }}
+{{ read_csv('./professions/csv/enchanting/enchants.csv') }}

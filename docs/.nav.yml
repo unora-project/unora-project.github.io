@@ -1,2 +1,11 @@
-ignore:
-  - "contributing.md"
+nav:
+  - Home: index.md
+  - Classes: ./classes/
+  - Equipment: ./equipment/
+  - Lore: ./lore/overview.md
+  - Hunting Grounds: ./hunting_grounds/
+  - Mounts: mounts.md
+  - Quests: ./quests/overview.md
+  - Professions: ./professions/overview.md
+  - Religion: ./religion/overview.md
+  - Towns: ./towns/

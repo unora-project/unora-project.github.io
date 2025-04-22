@@ -14,7 +14,7 @@ Within the Kitchen, walk to the stove against the wall (2,9) and a shop window w
 
 This is a non-exhaustive list and will be added to as more recipes are found.
 
-{{ read_csv('./csv/cooking.csv') }}
+{{ read_csv('./professions/csv/cooking/recipes.csv') }}
 
 ## Benefits
 
