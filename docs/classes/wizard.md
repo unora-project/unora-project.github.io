@@ -15,7 +15,7 @@ In Unora, each element has its own advantage:
 - Sal (water): Has a chance to cleave additional targets next to the enemy
     - This effect looks like a blue water ball on the target
 - Creag (earth): Has a chance to stun the enemy
-- Athar (wind): Has a chance for your spells to do double damage
+- Athar (wind): Has a chance for your spells to do 30% more damage
     - This effect looks like sparkles on the target. Casting a second spell while active will guarantee a critical strike
 
 These effects cannot trigger on enemies that are strong against said element.
