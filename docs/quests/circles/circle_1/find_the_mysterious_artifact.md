@@ -419,7 +419,7 @@ Shortly after the Goddesses created elements in Unora, these Creants came and us
 
 !!! info ""
 
-_To start the next part of the quest, you will need at least 25,000 vitality before facing Summoner Kades again._
+_To start the next part of the quest, you will need at least 20,000 vitality before facing Summoner Kades again._
 
 ### Part 5: Find the Summoner again
 
@@ -429,8 +429,8 @@ _To start the next part of the quest, you will need at least 25,000 vitality bef
 
 #### To Cthonic Remains
 
-- (Optional) Once you have 25,000 vitality, return to Miraelis in the God's Realm and speak to her
-- (Optional) She will request for you to investigate the Cthonic Remains and find the summoner
+- Once you have 20,000 vitality, return to Miraelis in the God's Realm and speak to her
+- She will request for you to investigate the Cthonic Remains and find the summoner
 - Head to Cthonic Remains 11
 
 ??? tip "CR Coordinates"
