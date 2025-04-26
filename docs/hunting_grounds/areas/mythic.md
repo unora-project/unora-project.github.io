@@ -2,8 +2,8 @@ Mythic is an area comprised of 10 themed "mini" areas, each with their own leade
 
 ## Leaders
 
-{{ read_csv('./csv/mythic.csv') }}
+{{ read_csv('../csv/mythic.csv') }}
 
 ## Shop: Fabrizio
 
-{{ read_csv('../shops/mythic/fabrizio.csv') }}
+{{ read_csv('shops/mythic/fabrizio.csv') }}
