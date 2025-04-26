@@ -63,7 +63,6 @@ hide:
     [:octicons-arrow-right-24: Armorsmithing](./professions/armorsmithing.md)<br>
     [:octicons-arrow-right-24: Enchanting](./professions/enchanting.md)<br>
     [:octicons-arrow-right-24: Jewelcrafting](./professions/jewelcrafting.md)<br>
-    [:octicons-arrow-right-24: Tailoring](./professions/tailoring.md)<br>
     [:octicons-arrow-right-24: Weaponsmithing](./professions/weaponsmithing.md)<br>
 
     __Secondary__

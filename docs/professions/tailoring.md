@@ -1,3 +1,0 @@
-# Tailoring
-
-TBD.
