@@ -106,7 +106,8 @@ hide:
 
     ---
 
-    test
+    [:octicons-arrow-right-24: 1-99](./hunting_grounds/pre-master.md)<br>
+    [:octicons-arrow-right-24: Master](./hunting_grounds/master.md)<br>
 
 
 -   __Miscellaneous__
