@@ -69,6 +69,14 @@ title: 99+ (Master-GM)
 </div>
 
 <div class="gantt-wrapper">
+  <a href="../areas/shinewood_forest/" style="text-decoration: none;">
+    <div class="area-bar" style="left: 0%; width: 67%; background-color: rgb(0, 161, 150);">
+      Shinewood Forest (99-Master)
+    </div>
+  </a>
+</div>
+
+<div class="gantt-wrapper">
   <a href="../areas/nobis_maze/" style="text-decoration: none;">
     <div class="area-bar" style="left: 0%; width: 67%; background-color: rgb(0, 161, 150);">
       Nobis Maze (99-Master)
