@@ -108,6 +108,11 @@ hide:
     [:octicons-arrow-right-24: 1-99](./hunting_grounds/pre-master.md)<br>
     [:octicons-arrow-right-24: Master](./hunting_grounds/master.md)<br>
 
+-   __Drops__
+
+    ---
+
+    [:octicons-arrow-right-24: Boss Drops](./boss_drops.md)
 
 -   __Miscellaneous__
 
