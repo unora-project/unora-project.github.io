@@ -48,10 +48,10 @@ hide:
 
     ---
 
-    [:octicons-arrow-right-24: Miraelis](./religion/miraelis.md)<br>
-    [:octicons-arrow-right-24: Serendael](./religion/serendael.md)<br>
-    [:octicons-arrow-right-24: Skandara](./religion/skandara.md)<br>
-    [:octicons-arrow-right-24: Theselene](./religion/theselene.md)<br>
+    [:octicons-arrow-right-24: Miraelis](./religion/gods/miraelis.md)<br>
+    [:octicons-arrow-right-24: Serendael](./religion/gods/serendael.md)<br>
+    [:octicons-arrow-right-24: Skandara](./religion/gods/skandara.md)<br>
+    [:octicons-arrow-right-24: Theselene](./religion/gods/theselene.md)<br>
 
 -   __[Professions](./professions/overview.md)__
 

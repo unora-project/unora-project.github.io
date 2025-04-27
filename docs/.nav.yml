@@ -1,11 +1,19 @@
 nav:
   - Home: index.md
-  - Classes: ./classes/
+  - Classes:
+      - Peasant: ./classes/peasant.md
+      - Monk: ./classes/monk.md
+      - Priest: ./classes/priest.md
+      - Rogue: ./classes/rogue.md
+      - Warrior: ./classes/warrior.md
+      - Wizard: ./classes/wizard.md
   - Equipment: ./equipment/
-  - Lore: ./lore/overview.md
+  - Lore: ./lore/
   - Hunting Grounds: ./hunting_grounds/
   - Mounts: mounts.md
-  - Quests: ./quests/overview.md
-  - Professions: ./professions/overview.md
-  - Religion: ./religion/overview.md
+  - Quests:
+      - Quest List: ./quests/
+      - Circles: ./quests/circles/
+  - Professions: ./professions/
+  - Religion: ./religion/
   - Towns: ./towns/

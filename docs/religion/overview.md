@@ -1,19 +1,17 @@
-# Overview
-
 Religion is tied closely to the [lore](../lore/overview.md) revolving around Unora. There are currently 4 goddesses in which you can devote yourself to that provide various buffs when enough faith is used to perform a divine blessing:
 
-- [Miraelis](./miraelis.md)
-- [Serendael](./serendael.md)
-- [Skandara](./skandara.md)
-- [Theselene](./theselene.md)
+- [Miraelis](./gods/miraelis.md)
+- [Serendael](./gods/serendael.md)
+- [Skandara](./gods/skandara.md)
+- [Theselene](./gods/theselene.md)
 
 ## Joining a religion
 
-Speak with the goddess at the temple you're choosing to devote yourself to and select "Join the Temple". The Goddess will request you to bring them 3 Essence of <Goddess Name>. Speak to them again once you have the essence and select "Essence of <Goddess Name>". You are now a worshipper and have received a <Goddess> stone in your inventory.
+Speak with the goddess at the temple you're choosing to devote yourself to and select "Join the Temple". The Goddess will request you to bring them 3 Essence of [Goddess Name]. Speak to them again once you have the essence and select "Essence of [Goddess Name]". You are now a worshipper and have received a [Goddess] stone in your inventory.
 
 !!! tip
 
-    "Essence of ..." items will occasionally drop from monsters while hunting.
+    "Essence of ..." items will frequently drop from monsters while hunting.
 
 ## Praying
 
@@ -21,17 +19,24 @@ You can pray to a goddess up to 6 times per day. Each prayer will give you:
 
 - A small amount of experience
 - A chance to obtain an essence of the goddess you worship
-- Faith points
+- 1 Faith (each time you pray for a total of 6 per day)
 
 Once you've consumed all of your prayer charges for the day, you must wait 22 hours before praying again.
 
 ## Faith
 
-Faith is obtained by praying. You can see how much faith you have by checking your legend under "Worshipper of <Goddess> (X)". Faith is used as a currency for buying passports and asking your goddess to perform a divine blessing. To pray, you can visit your goddess and select "Pray", or use the <Goddess> stone given to you when you joined the temple.
+Faith is obtained by praying. You can see how much faith you have by checking your legend under "Worshipper of [Goddess] (X)". Faith is used as a currency for buying passports and asking your goddess to perform a [divine blessing](#divine-blessings). To pray, you can visit your goddess and select "Pray", or use the [Goddess] stone given to you when you joined the temple.
+
+You can collect additional faith by interacting with statues that share the goddess you've chosen. You can find these statues randomly throughout the following maps:
+
+- [East Woodlands](../hunting_grounds/areas/east_woodlands.md) (all paths except Enchanted Garden)
+- [West Woodlands](../hunting_grounds/areas/west_woodlands.md)
+- [Astrid](../hunting_grounds/areas/astrid.md)
+- [Wilderness](../hunting_grounds/areas/wilderness.md)
 
 ## Passports
 
-Passports can be obtained by either speaking to the goddess you worship or using your <Goddess> stone and selecting "A Path Home". These are "songs" that allow you to teleport back to your home location. They cost 1 faith per passport.
+Passports can be obtained by either speaking to the goddess you worship or using your [Goddess] stone and selecting "A Path Home". These are "songs" that allow you to teleport back to your home location. They cost 1 faith per passport.
 
 ## Divine Blessings
 

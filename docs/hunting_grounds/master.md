@@ -1,5 +1,5 @@
 ---
-title: 99+ (Master-GM)
+title: 99+ (99-GM)
 ---
 
 <style>
