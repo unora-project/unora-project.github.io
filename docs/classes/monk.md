@@ -4,11 +4,23 @@
 
 ## Mastering
 
-You need 14,000 base HP and 5,500 base MP to master.
+Monks must meet the following conditions to master:
+
+- 14,000 base HP
+- 5,500 base MP
+- 250,000,000 experience (which will be sacrificed)
+- Gold Sand (item drop from CR20)
+- Cauldron (item drop from CR20)
+- Skills learned: Wolf Fang Fist, Rapid Punch
 
 ## Class Dedication (subbing)
 
-You need 8,400 base HP, 3,400 base MP, 60,000,000 experience and 10 Strong Health Potions to dedicate to your class (sub).
+Monks must meet the following conditions to sub:
+
+- 8,400 base HP
+- 3,400 base MP
+- 60,000,000 experience (which will be sacrificed)
+- 10 Strong Health Potions
 
 19 stat points will carry over into the class you dedicate into.
 

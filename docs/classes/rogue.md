@@ -4,11 +4,24 @@
 
 ## Mastering
 
-You need 11,000 base HP and 7,000 base MP to master.
+Rogues must meet the following conditions to master:
+
+- 11,000 base HP
+- 7,000 base MP
+- 250,000,000 experience (which will be sacrificed)
+- Copper File (item drop from CR20)
+- Smith's Hammer (item drop from CR20)
+- Skill learned: Skewer
+- Spell learned: Maiden Trap
 
 ## Class Dedication (subbing)
 
-You need 6,600 base HP, 3,300 base MP, 60,000,000 experience and 10 Strong Health Potions to dedicate to your class (sub).
+Rogues must meet the following conditions to sub:
+
+- 6,600 base HP
+- 3,300 base MP
+- 60,000,000 experience (which will be sacrificed)
+- 10 Strong Health Potions
 
 19 stat points will carry over into the class you dedicate into.
 

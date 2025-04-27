@@ -26,18 +26,23 @@ Prior to mastering Wizard, if you aren't happy with the element you chose, you c
 
 ## Mastering
 
-### Base HP/MP
+Warriors must meet the following conditions to master:
 
-You need 7,000 base HP and 9,000 base MP to master.
-
-### Items
-
-- Magic Ink
-- Magic Scroll
+- 7,000 base HP
+- 9,000 base MP
+- 250,000,000 experience (which will be sacrificed)
+- Magic Ink (item drop from CR20)
+- Magic Scroll (item drop from CR20)
+- Spells learned: Ard Cradh, Arcane Blast
 
 ## Class Dedication (subbing)
 
-You need 6,000 base HP, 6,000 base MP, 60,000,000 experience and 10 Strong Health Potions to dedicate to your class (sub).
+Wizards must meet the following conditions to sub:
+
+- 6,000 base HP
+- 6,000 base MP
+- 60,000,000 experience (which will be sacrificed)
+- 10 Strong Health Potions
 
 19 stat points will carry over into the class you dedicate into.
 
