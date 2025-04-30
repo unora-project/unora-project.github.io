@@ -59,17 +59,17 @@ hide:
 
     __Primary__
 
-    [:octicons-arrow-right-24: Alchemy](./professions/alchemy.md)<br>
-    [:octicons-arrow-right-24: Armorsmithing](./professions/armorsmithing.md)<br>
-    [:octicons-arrow-right-24: Enchanting](./professions/enchanting.md)<br>
-    [:octicons-arrow-right-24: Jewelcrafting](./professions/jewelcrafting.md)<br>
-    [:octicons-arrow-right-24: Weaponsmithing](./professions/weaponsmithing.md)<br>
+    [:octicons-arrow-right-24: Alchemy](./professions/types/alchemy.md)<br>
+    [:octicons-arrow-right-24: Armorsmithing](./professions/types/armorsmithing.md)<br>
+    [:octicons-arrow-right-24: Enchanting](./professions/types/enchanting.md)<br>
+    [:octicons-arrow-right-24: Jewelcrafting](./professions/types/jewelcrafting.md)<br>
+    [:octicons-arrow-right-24: Weaponsmithing](./professions/types/weaponsmithing.md)<br>
 
     __Secondary__
 
-    [:octicons-arrow-right-24: Cooking](./professions/cooking.md)<br>
-    [:octicons-arrow-right-24: Fishing](./professions/fishing.md)<br>
-    [:octicons-arrow-right-24: Foraging](./professions/foraging.md)<br>
+    [:octicons-arrow-right-24: Cooking](./professions/types/cooking.md)<br>
+    [:octicons-arrow-right-24: Fishing](./professions/types/fishing.md)<br>
+    [:octicons-arrow-right-24: Foraging](./professions/types/foraging.md)<br>
 
 -   __Equipment__
 

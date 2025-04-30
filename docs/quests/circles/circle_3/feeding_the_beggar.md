@@ -22,7 +22,7 @@
 
 !!! note ""
 
-If you haven't picked up cooking yet, you will need to [learn](../../../professions/cooking.md) it from Gendusa first.
+If you haven't picked up cooking yet, you will need to [learn](../../../professions/types/cooking.md) it from Gendusa first.
 
 !!! note ""
 

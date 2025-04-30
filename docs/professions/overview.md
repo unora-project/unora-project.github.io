@@ -6,14 +6,14 @@ An aisling may only learn 1 primary profession, but all 3 secondary professions 
 
 ## Primary
 
-- [Alchemy](./alchemy.md)
-- [Armorsmithing](./armorsmithing.md)
-- [Enchanting](./enchanting.md)
-- [Jewelcrafting](./jewelcrafting.md)
-- [Weaponsmithing](./weaponsmithing.md)
+- [Alchemy](./types/alchemy.md)
+- [Armorsmithing](./types/armorsmithing.md)
+- [Enchanting](./types/enchanting.md)
+- [Jewelcrafting](./types/jewelcrafting.md)
+- [Weaponsmithing](./types/weaponsmithing.md)
 
 ## Secondary
 
-- [Cooking](./cooking.md)
-- [Foraging](./foraging.md)
-- [Fishing](./fishing.md)
+- [Cooking](./types/cooking.md)
+- [Foraging](./types/foraging.md)
+- [Fishing](./types/fishing.md)

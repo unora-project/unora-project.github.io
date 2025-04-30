@@ -1,6 +1,6 @@
-ls# Fishing
+# Fishing
 
-Fishing is a secondary profession in Unora that is able to be learned by all aislings.
+Fishing is a secondary profession in Unora that is able to be learned by all aislings. It's used for catching fish.
 
 ## Where to learn
 
@@ -25,6 +25,7 @@ There are several popular areas, but people tend to fish within towns. Here's a 
 
 - Abel, down by the boat area (33,62)
 - Mileth, on the bridge to the Wilderness (54,9)
+- Rucesion, along the docks as you enter
 
 ## Benefits
 
@@ -41,7 +42,5 @@ Here are some reasons why you would want to fish:
 ## Fish list
 
 As it stands, all fish can be caught at any fishing spot; no fish has an exclusive spot it must be caught in.
-
-This is a non-exhaustive list and will be added to as more fish are known.
 
 {{ read_csv('./professions/csv/fishing/fish.csv') }}
