@@ -119,6 +119,11 @@ equipment = {
         'Male': [],
         'Unisex': [],
     },
+    'OverHelmet': {
+        'Female': [],
+        'Male': [],
+        'Unisex': [],
+    },
     'Ring': [],
     'Shield': [],
     'Weapon': {
@@ -145,7 +150,7 @@ for file in files:
 
     if equip_type in ['Armor', 'Helmet']:
         equipment[equip_type][_class][gender].append(data)
-    elif equip_type in ['OverArmor']:
+    elif equip_type in ['OverArmor', 'OverHelmet']:
         equipment[equip_type][gender].append(data)
     elif equip_type in ['Weapon']:
         equipment[equip_type][_class].append(data)
@@ -574,6 +579,39 @@ with open('csv/overarmor_u.csv', 'w+', newline='') as f:
         csvwriter.writerow(equip.row)
 
 
+# overhelmet :: male
+with open('csv/overhelmet_m.csv', 'w+', newline='') as f:
+    csvwriter = csv.writer(f, delimiter=',')
+    csvwriter.writerow(header)
+
+    sorted_data = sort_by_level(equipment['OverHelmet']['Male'])
+
+    for i in sorted_data:
+        equip = Equip(i)
+        csvwriter.writerow(equip.row)
+
+# overhelmet :: female
+with open('csv/overhelmet_f.csv', 'w+', newline='') as f:
+    csvwriter = csv.writer(f, delimiter=',')
+    csvwriter.writerow(header)
+
+    sorted_data = sort_by_level(equipment['OverHelmet']['Female'])
+
+    for i in sorted_data:
+        equip = Equip(i)
+        csvwriter.writerow(equip.row)
+
+# overhelmet :: unisex
+with open('csv/overhelmet_u.csv', 'w+', newline='') as f:
+    csvwriter = csv.writer(f, delimiter=',')
+    csvwriter.writerow(header)
+
+    sorted_data = sort_by_level(equipment['OverHelmet']['Unisex'])
+
+    for i in sorted_data:
+        equip = Equip(i)
+        csvwriter.writerow(equip.row)
+
 # rings
 with open('csv/rings.csv', 'w+', newline='') as f:
     csvwriter = csv.writer(f, delimiter=',')
@@ -708,6 +746,9 @@ Path('csv/necklaces.csv').replace('../docs/equipment/csv/necklaces.csv')
 Path('csv/overarmor_f.csv').replace('../docs/equipment/csv/overarmor/female/overarmor.csv')
 Path('csv/overarmor_m.csv').replace('../docs/equipment/csv/overarmor/male/overarmor.csv')
 Path('csv/overarmor_u.csv').replace('../docs/equipment/csv/overarmor/unisex/overarmor.csv')
+Path('csv/overhelmet_f.csv').replace('../docs/equipment/csv/overhelmet/female/overhelmet.csv')
+Path('csv/overhelmet_m.csv').replace('../docs/equipment/csv/overhelmet/male/overhelmet.csv')
+Path('csv/overhelmet_u.csv').replace('../docs/equipment/csv/overhelmet/unisex/overhelmet.csv')
 Path('csv/rings.csv').replace('../docs/equipment/csv/rings.csv')
 Path('csv/shields.csv').replace('../docs/equipment/csv/shields.csv')
 Path('csv/weapon_monk.csv').replace('../docs/equipment/csv/weapons/monk/weapons.csv')
