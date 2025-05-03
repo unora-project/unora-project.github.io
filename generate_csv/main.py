@@ -28,12 +28,15 @@ def sanitize_file(file: str) -> dict:
     if data['scriptVars'].get('defenseElement'):
         data['defenseelement'] = data['scriptVars']['defenseElement']['element']
 
-    # keys defined as both offenseelement and offenseElement for some reason
+    # keys defined as offenseelement, offenseElement and OffenseElement for some reason
     if data['scriptVars'].get('offenseelement'):
         data['offenseelement'] = data['scriptVars']['offenseelement']['element']
 
     if data['scriptVars'].get('offenseElement'):
         data['offenseelement'] = data['scriptVars']['offenseElement']['element']
+
+    if data['scriptVars'].get('OffenseElement'):
+        data['offenseelement'] = data['scriptVars']['OffenseElement']['element']
 
     data.pop('scriptVars')
 

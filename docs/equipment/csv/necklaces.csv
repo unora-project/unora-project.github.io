@@ -11,8 +11,8 @@ Bone Sea Necklace,-,Water,11,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
 Bone Wind Necklace,-,Wind,11,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
 Amber Necklace,-,-,14,1,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
 Bone Necklace,-,-,15,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Dark Bone Necklace,-,-,15,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Light Diamond Necklace,-,-,15,1,-1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
+Dark Bone Necklace,-,Darkness,15,1,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Light Diamond Necklace,-,Holy,15,1,-1,-,-,-,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-
 Pearl Chain Necklace,-,-,41,1,-,-,250,-,6,-,-,1,-,-,-,-,-,-,-,-,-,-,-
 Phoenix Necklace,-,-,41,1,-,-,100,-,-,-,1,-,-,-,-,4,-,-,-,-,-,-,-
 Kanna Earth Necklace,-,Earth,41,1,-,-,-,-,-,-,-,-,-,-,-,2,-,-,-,-,-,-,-
@@ -26,14 +26,14 @@ Polished Earth Necklace,-,Earth,71,1,-,-,-,-,-,-,-,-,-,-,-,4,-,-,-,-,-,-,-
 Polished Fire Necklace,-,Fire,71,1,-,-,-,-,-,-,-,-,-,-,-,4,-,-,-,-,-,-,-
 Polished Sea Necklace,-,Water,71,1,-,-,-,-,-,-,-,-,-,-,-,4,-,-,-,-,-,-,-
 Polished Wind Necklace,-,Wind,71,1,-,-,-,-,-,-,-,-,-,-,-,4,-,-,-,-,-,-,-
-Dark Skull Necklace,-,-,80,1,-,-500,250,-,-,-,-,-,-,-,-,8,-,-,-,-,-,-,-
+Dark Skull Necklace,-,Darkness,80,1,-,-500,250,-,-,-,-,-,-,-,-,8,-,-,-,-,-,-,-
 Leaf Necklace,-,Wind,80,1,-,200,400,-,-,-,-,-,-,-,-,5,-,-,-,-,25,-,-
 Star Earth Necklace,-,Earth,97,1,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
 Star Fire Necklace,-,Fire,97,1,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
 Star Sea Necklace,-,Water,97,1,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
 Star Wind Necklace,-,Wind,97,1,-,-,-,-,-,-,-,-,-,-,-,6,-,-,-,-,-,-,-
-Forsaken Dark Necklace,-,-,Master,1,-,1500,-,-,-,-1,-,-,-1,-1,-,-,-,3,-,-,-,-,2
-Sacred Light Necklace,-,-,Master,1,-,500,500,-,-,-,-1,-1,-1,-,-,12,-,-,-,3,-,3,2
+Forsaken Dark Necklace,-,Darkness,Master,1,-,1500,-,-,-,-1,-,-,-1,-1,-,-,-,3,-,-,-,-,2
+Sacred Light Necklace,-,Holy,Master,1,-,500,500,-,-,-,-1,-1,-1,-,-,12,-,-,-,3,-,3,2
 Azurium Dark Necklace,-,Darkness,Master,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,2,-,2,-
 Azurium Earth Necklace,-,Earth,Master,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,2,-,2,-
 Azurium Fire Necklace,-,Fire,Master,1,-,-,500,-,-,-,1,1,1,-,-,8,-,-,-,2,-,2,-
