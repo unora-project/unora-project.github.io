@@ -25,6 +25,16 @@ Rogues must meet the following conditions to sub:
 
 19 stat points will carry over into the class you dedicate into.
 
+## Stat Caps
+
+There is a maximum number of points you can allocate to each attribute based on both the class that you're playing and your current class's progression. Here are the current stat caps for Rogues:
+
+| Progression | STR | INT | WIS | CON | DEX |
+| ----------- | --- | --- | --- | --- | --- |
+| Pre-Master  | 100 | 50  | 50  | 80  | 120 |
+| Master      | 150 | 80  | 80  | 120 | 180 |
+| Grandmaster | 180 | 100 | 100 | 150 | 215 |
+
 ## Skills
 
 {{ read_csv('./csv/skills/rogue.csv') }}

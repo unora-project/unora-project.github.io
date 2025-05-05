@@ -46,6 +46,16 @@ Wizards must meet the following conditions to sub:
 
 19 stat points will carry over into the class you dedicate into.
 
+## Stat Caps
+
+There is a maximum number of points you can allocate to each attribute based on both the class that you're playing and your current class's progression. Here are the current stat caps for Wizards:
+
+| Progression | STR | INT | WIS | CON | DEX |
+| ----------- | --- | --- | --- | --- | --- |
+| Pre-Master  | 50  | 120 | 100 | 80  | 50  |
+| Master      | 80  | 180 | 150 | 120 | 80  |
+| Grandmaster | 100 | 215 | 180 | 150 | 100 |
+
 ## Skills
 
 {{ read_csv('./csv/skills/wizard.csv') }}

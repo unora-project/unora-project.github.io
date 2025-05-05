@@ -24,6 +24,16 @@ Warriors must meet the following conditions to sub:
 
 19 stat points will carry over into the class you dedicate into.
 
+## Stat Caps
+
+There is a maximum number of points you can allocate to each attribute based on both the class that you're playing and your current class's progression. Here are the current stat caps for Warriors:
+
+| Progression | STR | INT | WIS | CON | DEX |
+| ----------- | --- | --- | --- | --- | --- |
+| Pre-Master  | 120 | 50  | 50  | 80  | 100 |
+| Master      | 180 | 80  | 80  | 120 | 150 |
+| Grandmaster | 215 | 100 | 100 | 150 | 180 |
+
 ## Skills
 
 {{ read_csv('./csv/skills/warrior.csv') }}

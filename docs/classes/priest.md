@@ -38,6 +38,16 @@ Once mastered, Priests can choose to specialize in either a Light or Dark role. 
 
 Dark Priest: HM West GY (90,60) - go to basement (2,3)
 
+## Stat Caps
+
+There is a maximum number of points you can allocate to each attribute based on both the class that you're playing and your current class's progression. Here are the current stat caps for Priests:
+
+| Progression | STR | INT | WIS | CON | DEX |
+| ----------- | --- | --- | --- | --- | --- |
+| Pre-Master  | 50  | 100 | 120 | 80  | 50  |
+| Master      | 80  | 150 | 180 | 120 | 80  |
+| Grandmaster | 100 | 180 | 215 | 150 | 100 |
+
 ## Skills
 
 {{ read_csv('./csv/skills/priest.csv') }}
