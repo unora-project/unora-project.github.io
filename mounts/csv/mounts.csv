@@ -1,0 +1,5 @@
+Name,Picture,Speed,Obtained
+Horse,![Horse](./mounts/assets/mounts/horse.png){ width="150" },Normal,Obtained during the [Tutorial](./quests/circles/circle_1/tutorial.md) quest.
+Kelberoth,![Kelberoth](./mounts/assets/mounts/kelberoth.png){ width="150" },Fast,Obtained during the [Feeding the Beggar](./quests/circles/circle_3/feeding_the_beggar.md) quest.
+Ant,![Ant](./mounts/assets/mounts/ant.png){ width="150" },Very fast,Randomly obtained during the [Lost Woodlands](./quests/circles/side/lost_woodlands.md) quest when selecting "Whatever you got!" as a reward.
+Dunan,![Dunan](./mounts/assets/mounts/dunan.png){ width="150" },Very fast,"Obtained by defeating Lord Gargoyle in [Dubhaim Castle](./hunting_grounds/areas/dubhaim_castle.md) - Basement 5. There are theories on how to spawn this boss, but the most consistent method is to bring a group with a minimum of 3 people total and hang out in Basement 5. After around 30~ minutes, Lord Gargoyle will spawn. Defeating him gives someone in the party a guaranteed Dunan. If a party member already has the mount, they will not be considered when deciding who to give the mount to."
