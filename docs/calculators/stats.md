@@ -1,5 +1,7 @@
 ---
 title: Stat Calculator
+hide:
+  - toc
 ---
 
 This calculator will provide how much experience it will take to max your stats for each of the three progression types (Pre-Master, Master and Grandmaster).
