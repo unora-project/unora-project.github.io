@@ -1,0 +1,9 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Rage,5,5/3/3/9/4,"1,000",Spider's Eye (3),-,Mileth Special Skills Master,Raises the warrior's damage for 25 seconds.
+Wrath,11,5/3/5/5/5,"5,000",Spider Silk (3),-,Mileth Special Skills Master,The warrior's temperature gets extremely hot and burns enemies around them.
+Battle Cry,11,5/3/3/9/4,"2,000",Spider Silk (3),-,Mileth Special Skills Master,Raises the warrior's attack speed for 18 seconds.
+War Cry,50,35/3/6/15/25,"25,000",Chainmail Gauntlet (1),Battle Cry (100),Mileth Special Skills Master,Raises the warrior's and their group's attack speed for 18 seconds. Replaces Battle Cry.
+Whirlwind,60,52/15/7/33/27,"50,000","Wisp's Core (2), Chain Mace (1)",Wrath (100),Mileth Special Skills Master,Damage enemies around user.
+Berserk,71,63/3/3/29/38,"75,000","Gargoyle's Skull (3), Might Earrings (1)",-,Mileth Special Skills Master,Increases offensive power at the cost of defense.
+Fury,Master (Pure),3/3/3/3/3,-,-,Berserk (100),Master Dungeon,Reflects damage back to the target. Pure only.
+Inferno,Master (Pure),3/3/3/3/3,-,-,Whirlwind (100),Grand Master,The warrior's temperature gets extremely hot and burns enemies around them. Pure only.
