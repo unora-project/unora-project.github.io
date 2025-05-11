@@ -2,6 +2,10 @@
 
 !!! example ":fontawesome-solid-repeat: Repeatable every 22 hours"
 
+## Requirements
+
+- Must be Lv30+ to start the quest
+
 ## Rewards
 
 - 200,000 Experience (total)
@@ -57,7 +61,8 @@ There are different colored Snow Wolves in the area. Both give credit for the qu
 - You are now tasked to destroy the Abomination (boss)
 - Head to the Wilderness Frozen Cave at 208,1
 - Inside of the cave, walk to 8,5 to spawn the Abomination and slay it
-    - I was able to slay it as a solo 46 Wizard very easily
+
+The Abomination is level 35, has 30k~ HP and is blindable. Most classes should be fine soloing him.
 
 !!! note ""
 
