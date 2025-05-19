@@ -26,7 +26,7 @@ Prior to mastering Wizard, if you aren't happy with the element you chose, you c
 
 ## Mastering
 
-Warriors must meet the following conditions to master:
+Wizards must meet the following conditions to master:
 
 - 7,000 base HP
 - 9,000 base MP
