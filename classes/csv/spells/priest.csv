@@ -1,0 +1,56 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Beag Ioc,3,3/3/5/3/3,500,-,-,Mileth Special Skills,"Restores a modest amount of health to the target, helping them recover."
+Beothaich,3,3/3/5/3/3,"1,000",-,-,Mileth Special Skills,"Revives the targeted ghost, granting them a second chance, although the spell has a lengthy cooldown period before it can be used again."
+Spark,3,3/3/3/3/3,-,-,-,-,Attacks the enemy with base non-elemental damage.
+Beannaich,5,3/4/5/3/3,500,Spider's Eye (3),-,Suomi Priestess,Enhances the target's hit by 10.
+Armachd,5,3/5/7/4/3,"1,000",Apple (3),-,Mileth Special Spells,"Significantly reduces the target's armor class by 10, making them less vulnerable to incoming attacks."
+Beag Naomh Aite,5,3/3/5/3/3,"1,000",Tomato (3),-,Suomi Priestess,Temporarily reduces the damage taken by the player by 8% for a brief duration.
+Fas Deireas,8,3/6/10/3/3,"1,000",Bee's Sting (1),-,Suomi Priestess,"Enhances the target's attack damage by 6, boosting their offensive prowess and increasing the amount of damage they deal."
+Ao Dall,11,3/15/20/7/5,"5,000",Bat's Wing (1),-,Mileth Special Spells,Allows target to see again.
+Ao Beag Cradh,11,3/4/11/3/3,"2,500",Bee Sting (2),-,Mileth Special Spells,"Cleanses the target, lifting the burden of the dreaded Beag Cradh curse."
+Ao Poison,11,3/5/11/3/3,"3,000","Apple (3), Spider's Eye (2)",-,Mileth Special Spells,Cleanses the body and restores the target to a healthy state.
+Zap,11,3/12/8/4/3,"5,000",Raw Honey (3),Spark (100),Undine Black Magic,Unleashes a non-elemental attack. The effectiveness of the attack is directly tied to the amount of mana available.
+Beag Ioc Comlha,11,3/3/10/3/3,"1,000",Centipede Gland (1),Beag Ioc (100),Mileth Special Spells,Slightly restores the health of the caster's group.
+Ioc,16,3/4/15/3/3,"2,000",Bat's Wing (2),Beag Ioc (100),Mileth Special Spells,"Restores a substantial amount of health to the target, significantly aiding their recovery."
+Poison,20,3/16/15/3/5,"10,000",Scorpion's Sting (2),-,Suomi Black Magic Master,"Inflicts a potent poison upon the target, causing ongoing damage over a period of time."
+Ao Cradh,20,3/10/30/3/3,"10,000","Kobold's Skull (1), Mantis Eye (3)",Ao Beag Cradh (100),Mileth Special Skills,"Liberates the target from the grip of the cradh curse, freeing them from its malevolent effects."
+Naomh Aite,21,3/12/18/6/3,"10,000",Bat's Wing (3),Beag Naomh Aite (100),Suomi Priestess,Temporarily reduces the damage taken by the player by 15% for a brief duration.
+Motivate,30,5/20/30/8/6,"15,000",Raw Heartstone (2),-,Suomi Priestess,"Accelerates the target's attack speed, allowing them to assail more rapidly. Lasts for 2 minutes."
+Ioc Comlha,30,3/5/25/3/3,"10,000","Giant Bat's Wing (2), Royal Silver Ring (1)","Ioc (100), Beag Ioc Comhla (100)",Mileth Special Spells,Moderately restores the health of the caster's group.
+Quake,30,3/25/25/8/6,"15,000",Royal Silver Ring (1),-,Undine Wizard,Inflicts damage in the vicinity of an ally over a duration of 20 seconds.
+Dachaidh,41,3/30/48/5/3,"10,000","Goblin's Skull (2), Raw Sapphire (2)",-,Piet Priestess,Teleports the caster to their home nation.
+Mor Beannaich,41,5/20/35/5/9,"20,000","Mushroom (2), Raw Emerald (2)",Beannaich (100),Suomi Priestess,Enhances the target's attack hit by 20.
+Self Revive,41,3/22/40/18/3,"25,000",Holy Kronos (1),Revive (100),Piet Priestess,"Empowers the Priest with the ability to resurrect themselves, granting them the means to overcome death."
+Mor Ioc,41,3/16/38/3/3,"15,000",Mythril Earrings (1),Ioc (100),Piet Priestess,"Restores a generous amount of health to the target, greatly bolstering their well-being."
+Revive,41,3/22/40/5/5,"25,000",Mythril Earrings (1),Beothaich (100),Mileth Special Spells,"Revives the targeted ghost, granting them a second chance. Slightly reduced cooldown."
+Mor Naomh Aite,41,3/25/42/10/5,"25,000","Royal Silver Ring (1), Padded Gauntlet (1)",Naomh Aite (100),Suomi Priestess,Temporarily reduces the damage taken by the player by 22% for a brief duration.
+Mor Fas Deireas,50,10/26/40/8/8,"25,000",Anemone Antenna (1),Fas Deiras (100),Suomi Priestess,"Enhances the target's attack damage by 12, boosting their offensive prowess and increasing the amount of damage they deal."
+Mor Ioc Comlha,56,3/30/58/8/3,"25,000","Pearl Chain Necklace (1), Mushroom (2)","Mor Ioc (100), Ioc Comlha (100)",Piet Priestess,Significantly restores the health of the caster's group.
+Ao Mor Cradh,60,3/20/60/3/3,"50,000","Gog's Maw (1), Red Tentacle (3)",Ao Cradh (100),Piet Priestess,"Dispels the oppressive Mor Cradh curse from the target, liberating them from its tormenting influence."
+Ard Naomh Aite,60,5/40/55/20/6,"50,000","Royal Silver Ring (2), Padded Gauntlet (3)",Mor Naomh Aite (100),Suomi Priestess,Temporarily reduces the damage taken by the player by 30% for a brief duration.
+Dinarcoli,71,5/35/60/15/5,"50,000","Enchanted Earrings (1), Gremlin Ear (1)",-,Piet Priestess,"Awakens the target, freeing them from the grasp of pramh effects."
+Suain,71,12/46/60/5/9,"75,000","Enchanted Earrings (1), Ialtag's Eye (1)",-,Suomi Black Magic Master,"Imposes a state of absolute immobilization upon the enemy, rendering them frozen."
+Ao Suain,71,5/38/70/13/5,"50,000",Faerie's Wing (1),-,Piet Priestess,"Neutralizes suain, unfreezing targeted creature."
+Ard Ioc,80,3/36/74/3/3,"10,000","Enchanted Earrings (1), Polyp Sac (1), Leech Tail (1)",Mor Ioc (100),Piet Priestess,Restores a considerable amount of health to the target.
+Prevent Affliction,80,7/56/68/7/7,"100,000","Ialtag's Eye (1), Leech Tail (2)",-,Suomi Black Magic Master,"Imposes a restrictive effect on the target, preventing them from casting any form of cradh."
+Ao Ard Cradh,81,3/48/78/6/3,"10,000","Enchanted Earrings (1), Ialtag Eye (2)",Ao Mor Cradh (100),Piet Priestess,"Banishes the relentless ard cradh curse from the target, freeing them from its relentless grip."
+Beag Pramh,90,3/64/58/10/15,"250,000","Salve Earrings (1), Wisp Core (4)",-,Suomi Black Magic Master,Puts the enemy to sleep for 6 seconds.
+Nuadhaich,Master,6/75/110/21/5,"100,000",Losgann Tail (1),Ard Ioc (100),Piet Priestess,"Restores an immense amount of health to the target, providing a substantial and extraordinary boost to their overall well-being."
+Bind,Master (Dark),3/3/3/3/3,-,-,-,Master Dungeon,Decreases the target's attack speed by 30% for 30 seconds. Dark Priest only.
+Miasma,Master (Dark),3/3/3/3/3,-,-,-,Master Dungeon,Inflicts a greater poison to the target. Dark Priest only.
+Resurrect,Master (Pure),3/3/3/3/3,-,-,-,Master,"Resurrects the targeted ghost, granting them a second chance. 10 minute cooldown. Pure only."
+Strioch Bais,Master (Dark),15/90/120/12/8,"500,000",Ruidhtear Toe (2),-,Dark Priest Master,Attacks the enemy with intense darkness. Dark Priest only.
+Vortex,Master,3/3/3/3/3,-,-,-,Master,Inflicts a lot of damage in the vicinity of an ally over a duration of 20 seconds. Upgrades Quake.
+Aura of Blessing,Master (Light),3/3/3/3/3,-,-,-,Becoming Light Priest,Casts Blessing on all group members nearby. Light Priest only.
+Regeneration,Master (Light),3/3/3/3/3,-,-,-,Master Dungeon,Heals the target based on your wisdom and 1% of their maximum health. Light Priest only.
+Deo Lamh,Master (Light),3/3/3/3/3,-,-,-,Master Dungeon,Attacks enemies on all sides of you with light. Light Priest only.
+Strioch Bais Meall,Master (Dark),30/120/180/25/15,"750,000",Ruidhtear Toe (2),-,Dark Priest Master,Attacks the enemy with intense darkness. Dark Priest only.
+Heal Aura,Master (Pure Light),7/85/135/30/18,"500,000",Gold Shocker Piece (5),-,Light Priest Master,Places a zone around the target that heals yourself and allies. Pure Light Priest only.
+Dark Storm,Master (Pure Dark),5/90/132/10/15,"500,000",Black Shocker Piece (3),-,Unknown,A storm of dark energy damages creatures near the target. Pure Dark Priest only.
+Deo Searg Meall,Master (Light),25/150/180/30/20,"500,000",Black Shocker Piece (5),-,Light Priest Master,Attacks the enemy with intense light. Light Priest only.
+Deo Searg,Master (Light),20/120/135/5/5,"250,000",Gold Beetalic Head (5),-,Light Priest Master,Attacks the enemy with intense light. Light Priest only.
+Pramh,Master,3/3/3/3/3,-,-,-,Master,Puts the enemy to sleep for 12 seconds.
+Aura of Torment,Master (Dark),3/3/3/3/3,-,-,-,Becoming Dark Priest,Casts Torment on all group members nearby. Dark Priest only.
+Void Jolt,Master (Dark),3/3/3/3/3,-,-,-,Becoming Dark Priest,Unleashes a non-elemental attack. The effectiveness of the attack is directly tied to the amount of mana available. Dark Priest only.
+Ao Sith,Master (Light),3/3/3/3/3,-,-,-,Grand Master,"Cleanses the target, eliminating all buffs and debuffs affecting them. This ability restores the target to a neutral state. Light Priest only."
+Shadow Touch,Master (Dark),3/3/3/3/3,-,Zombie Flesh (3),-,Grand Master,"Unleases a dark attack, which also heals. Dark Priest only."
