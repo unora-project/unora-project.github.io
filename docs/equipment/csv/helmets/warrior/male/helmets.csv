@@ -1,10 +1,10 @@
 Name,LOC,LVL,WGT,AC,HP,MP,AS%,MR,STR,INT,WIS,CON,DEX,DMG,HIT,SKD,SKD%,SPD,SPD%,FHB,HB%,CDR%
-Iplet Helmet,-,71,2,-1,250,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Loures Platemail Helmet,-,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Mileth Platemail Helmet,-,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Platemail Helmet,-,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Rucesion Platemail Helmet,-,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Suomi Platemail Helmet,-,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
-Warrior Master Helmet,-,Master,5,-2,1500,250,-,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Iplet Helmet,Lost Woodlands,71,2,-1,250,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Loures Platemail Helmet,Dye,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Mileth Platemail Helmet,Dye,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Platemail Helmet,Eingren Manor Blacksmith,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Rucesion Platemail Helmet,Dye,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Suomi Platemail Helmet,Dye,86,4,-2,300,-,-,5,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Warrior Master Helmet,Mastering,Master,5,-2,1500,250,-,10,-,-,-,-,-,-,-,-,-,-,-,-,-,-
 Grand Master Warrior Helmet,-,Master,3,-4,2500,250,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,-
 Grand Master Warrior Helmet,-,Master,3,-3,2000,1000,-,20,-,-,-,-,-,-,-,-,-,-,-,-,-,-
