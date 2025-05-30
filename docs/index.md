@@ -120,6 +120,7 @@ hide:
 
     [:octicons-arrow-right-24: Mounts](./mounts.md)<br>
     [:octicons-arrow-right-24: Unora Lore](./lore/overview.md)<br>
-    [:octicons-arrow-right-24: Calculators](./calculators/stats.md)
+    [:octicons-arrow-right-24: Calculators](./calculators/stats.md)<br>
+    [:octicons-arrow-right-24: Patch Notes](./patch_notes/overview.md)<br>
 
 </div>
