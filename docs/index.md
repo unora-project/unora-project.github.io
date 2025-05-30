@@ -13,7 +13,7 @@ hide:
 <center>
 <p>An unofficial wiki for Unora: Elemental Harmony.<br>
 <a href="https://discord.gg/uB4uMkUTWU">Discord</a> |
-<a href="https://github.com/Jinori/UnoraLaunchpad/releases/tag/BetaNew">Download</a> |
+<a href="https://github.com/Jinori/UnoraLaunchpad/releases/tag/v3.3.2">Download</a> |
 <a href="./contributing/">Contributing</a></p>
 </center>
 
