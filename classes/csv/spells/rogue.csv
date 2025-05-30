@@ -1,0 +1,15 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Needle Trap,5,3/3/3/3/5,500,Snow Dagger (1),-,Mileth Special Skills Master,Lays a trap that deals a very small amount of pure damage.
+Stiletto Trap,11,5/5/3/3/11,"5,000","Center Dagger (1), Bat's Wing (1)",Needle Trap (100),Mileth Special Skills Master,Lays a trap that deals a small amount of pure damage.
+Detect Traps,12,3/10/10/7/12,"5,000",Spider's Silk (2),-,Suomi Special Skills Master,Allows the Rogue to see traps they have setup near them.
+Hide,15,6/7/5/5/15,"10,000",Bat's Wing (1),-,Suomi Special Skills Master,"Shrouds you in darkness, hiding you from sight."
+Bolt Trap,21,15/6/3/9/22,"5,000","Blossom Secret (1), Scorpion's Sting (2)",Stiletto Trap (100),Mileth Special Skills Master,Lays a trap that deals a mediocre amount of pure damage.
+Cat's Hearing,30,10/11/8/10/21,"10,000",White Bat's Wing (2),-,Suomi Special Skills Master,Allows you to see hidden creatures.
+Coiled Bolt Trap,41,20/6/3/18/35,"25,000","Moon Dagger (1), Hobgoblin's Skull (2)",Bolt Trap (100),Mileth Special Skills Master,Lays a trap that deals a minor amount of pure damage.
+Focus,41,25/13/10/8/33,"25,000",Goblin's Skull (3),-,Suomi Special Skills Master,Increases attack speed based on your dexterity.
+Spring Trap,60,30/10/5/22/42,"10,000","Light Secret (1), Wisp's Core (2)",Coiled Bolt Trap (100),Suomi Special Skills Master,Lays a trap that will deal a great amount of pure damage.
+Maiden Trap,90,38/12/5/22/55,"75,000","Lotus Dagger (2), Gruesomefly's Wing (2)",Spring Trap (100),Suomi Special Skills Master,Lays a trap on the ground which deals a massive amount of pure damage.
+Pitfall Trap,Master,80/25/9/32/120,"500,000",Black Shocker Piece (3),Maiden Trap (100),Suomi Special Skills Master,Lays a trap on the group which deals a massive amount of pure damage.
+Hide Group,Master (Pure),50/45/20/35/110,"750,000",Ice Skeleton Skull (5),-,Rucesion Skills Master,Hides your group near you. Pure only.
+Vanish,Master,3/3/3/3/3,-,-,-,Master Dungeon,"Shrouds you in darkness, hiding you from everything."
+Cunning,Master,3/3/3/3/3,-,-,-,Grand Master,"Rogue channels their inner cunning, increasing attack damage while sacrificing mana."
