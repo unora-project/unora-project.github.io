@@ -17,7 +17,7 @@ Priests must meet the following conditions to master:
 - Holy Scroll (item drop from CR20)
 - Spells learned: Ard Ioc, beag pramh
 
-Upon mastering, Priests will lose access to the "Pet Collar" item, which will no longer allow them to summon their pet.
+Upon mastering and choosing a Light or Dark specialty, Priests will lose access to the "Pet Collar" item, which will no longer allow them to summon their pet.
 
 ## Class Dedication (subbing)
 
@@ -34,7 +34,9 @@ Upon subbing, Priests will lose access to the "Pet Collar" item, which will no l
 
 ## Priest Specialization
 
-Once mastered, Priests can choose to specialize in either a Light or Dark role. Light Priests
+Once mastered, Priests can choose to specialize in either a Light or Dark role.
+
+Light Priest: Shinewood Meadow. Entrance is from Shinewood 9 at (46,1)
 
 Dark Priest: HM West GY (90,60) - go to basement (2,3)
 
