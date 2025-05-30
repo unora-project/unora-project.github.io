@@ -1,12 +1,9 @@
----
-title: Stat Calculator
-hide:
-  - toc
----
+[:octicons-arrow-left-24: Back to Calculators](./overview.md)<br>
+
+# Stat Calculator
 
 This calculator will provide how much experience it will take to max your stats for each of the three progression types (Pre-Master, Master and Grandmaster).
 
----
 
 <style>
   .stat-inputs label,

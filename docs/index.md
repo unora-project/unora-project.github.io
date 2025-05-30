@@ -12,7 +12,7 @@ hide:
 
 <center>
 <p>An unofficial wiki for Unora: Elemental Harmony.<br>
-<a href="https://discord.gg/uB4uMkUTWU">Discord</a> |
+<a href="https://discord.gg/WkqbMVvDJq">Discord</a> |
 <a href="https://github.com/Jinori/UnoraLaunchpad/releases/tag/v3.3.2">Download</a> |
 <a href="./contributing/">Contributing</a></p>
 </center>
@@ -120,7 +120,7 @@ hide:
 
     [:octicons-arrow-right-24: Mounts](./mounts.md)<br>
     [:octicons-arrow-right-24: Unora Lore](./lore/overview.md)<br>
-    [:octicons-arrow-right-24: Calculators](./calculators/stats.md)<br>
+    [:octicons-arrow-right-24: Calculators](./calculators/overview.md)<br>
     [:octicons-arrow-right-24: Patch Notes](./patch_notes/overview.md)<br>
 
 </div>

@@ -1,4 +1,11 @@
-# HP/MP
+[:octicons-arrow-left-24: Back to Calculators](./overview.md)<br>
+
+# HP/MP Calculator
+
+!!! warning ""
+
+    This calculator might be slightly off, and needs some fixing 😅 
+
 
 Calculate how much experience is needed to get to your destination base. Start by entering your starting base and then your ending base. If entering both HP and MP, it will give you the cumulative amount of experience for both.<br>
 <br>

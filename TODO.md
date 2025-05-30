@@ -10,3 +10,4 @@ TODO:
 - Finish profession data. ALCHEMY!!
 - Add more boss drops, and add mythic bosses
 - Add better setup instructions / more README info
+- Backfill old patch notes before May, 2025
