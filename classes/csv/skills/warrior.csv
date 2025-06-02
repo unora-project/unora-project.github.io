@@ -1,0 +1,36 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Assail,1,3/3/3/3/3,-,-,-,-,A basic attack that deals a small amount of damage to an enemy immediately in front of you.
+Strike,1,3/3/3/3/3,-,-,-,-,Warrior's basic attack.
+Inspect,3,3/5/5/3/3,"2,000",-,-,Mileth Special Skills Master,Allows an aisling to study an item's attributes.
+Slash,3,3/3/3/3/3,-,-,-,-,An attack that strikes your front and increases target AC.
+nis,3,3/5/5/3/3,"2,000",-,-,Rucesion Special Skills Master,Allows an aisling to check on Unora's current time.
+Clobber,11,16/3/3/8/4,"5,000","Wolf Teeth (2), Raw Bronze (5)",Strike (100),Mileth Special Skills Master,Warrior's second basic attack. Replaces Strike.
+Wind Blade,11,10/3/3/5/10,"3,000",Bat's Wing (1),-,Mileth Special Skills Master,Deals minor damage 3 tiles in front of you.
+Scathe,15,20/3/3/7/8,"10,000","Scorpion's Sting (2), Emerald Ring (1)",-,Mileth Special Skills Master,Hits the front and sides of the user.
+Flurry,20,25/3/5/8/18,"5,000","Wolf's Teeth (3), Scorpion's Sting (3)",-,Mileth Special Skills Master,"The warrior explodes, releasing slashes around them."
+Flank,30,30/4/4/15/17,"25,000","Giant Bat's Wing (2), Hatchet (1)",Clobber (100),Suomi Combat Skill Master,Assail that hits in front and sides. Replaces Clobber.
+Beag Suain,33,30/7/7/13/24,"15,000","Hobgoblin's Skull (3), Reinforced Leather Greaves (1)",-,Suomi Special Skill Master,Paralyze an enemy in front of you for a short time.
+Ao Beag Suain,34,31/9/9/25/13,"10,000",Goblin's Skull (3),-,Mileth Special Skills Master,"Removes beag suain, allowing you to move."
+Sunder,36,40/3/3/19/14,"50,000","Hobgoblin's Skull (2), Club (1)",Slash (100),Mileth Special Skills Master,A strong attack that strikes your front and increases target AC. Replaces Slash.
+Wallop,41,40/3/3/22/16,"25,000","Hobgoblin's Skull (2), Hy-Brasyl Earrings (1)",Flank (100),Suomi Combat Skill Master,Warrior's third basic attack. Replaces Flank.
+Cleave,48,50/3/3/20/16,"50,000","Liver (2), Chainmail Gauntlet (1)",Scathe (100),Mileth Special Skills Master,A strong attack that strikes your front and sides. Replaces Scathe.
+Crasher,50,50/9/9/28/20,"150,000","Scimitar (1), Gravel Shield (1)",-,Suomi Combat Skill Master,A massive damage attack. Deploy your current health as a frontal strike.
+Throw,50,5/9/5/3/3,"25,000",-,-,Abel Combat Skills Master,Allows an aisling to throw an entity away from them.
+Two Handed Attack,50,40/3/3/34/18,"25,000",Gremlin's Ear (1),-,Suomi Combat Skill Master,Warrior's Two Handed Attack.
+Bull Rush,56,55/3/3/23/25,"50,000","Scimitar (2), Hobgoblin's Skull (5)",Sunder (100),Mileth Special Skills Master,Charges you forward 2 tiles and breaks the armor of the target. Upgrades Sunder.
+Execute,60,44/8/6/25/30,"150,000","Chainmail Gauntlet (1), Sonor Ring (2)",-,Suomi Combat Skill Master,Can kill weak enemies. Restores health and reduces cooldown on success.
+Tempest Blade,60,58/3/3/22/35,"150,000","Rock Cobbler's Scale (2), Sonor Ring (1)",Wind Blade (100),Mileth Special Skills Master,Deals damage 3 tiles in front of you. Replaced Windblade.
+Pulverize,71,72/3/3/30/23,"50,000","Succubus Hair (2), Spiked Greaves (1)",Wallop (100),Suomi Combat Skill Master,Warrior's fourth basic attack. Replaces Wallop.
+Ground Stomp,80,77/8/8/27/39,"150,000","Hobgoblin's Skull (3), Chainmaul Gauntlet (1)",-,Suomi Special Skill Master,Paralyze enemies in your front and sides for a short time.
+Ground Shattering,Master,180/15/15/80/80,-,-,Ground Stomp (100),Creant,Paralyze enemies all around you in a 3x3 range.
+Annihilate,Master (Pure),150/10/10/80/100,-,Black Shocker Piece (5),Execute (100),"Nobis House (28,27)",Can kill weak enemies. Restores health and reduces cooldown on success. Pure only.
+Paralyze Force,Master (Pure),180/15/15/80/80,-,-,Ground Stomp (100),Grand Master,Paralyzes enemies all around you in a 4x4 range. Pure only.
+Onslaught,Master (Pure),180/40/40/120/140,"500,000","Losgann Tail (3), Black Shocker Piece (5)",-,"Nobis House (28,27)",Strong front assail. Pure only.
+Devour,Master,3/3/3/3/3,-,-,Cleave (100),Grand Master,Cleave shape attack dealing damage and heals you based on your missing health. Replaces Cleave.
+Charge,Master,3/3/3/3/3,"250,000",Ruidhtear Toe (1),Bull Rush (100),Master,Charges you forward 4 tiles and breaks the armor of the first enemy you reach. Bull Rush upgrade.
+Thrash,Master,3/3/3/3/3,-,-,Pulverize (100),Master,Master Warrior's basic attack. Replaces Pulverize.
+Slaughter,Master,215/50/50/150/180,"500,000","Ice Skeleton Skull (3), Red Shocker Piece (5)",-,"Nobis House (28,27)",Grand Master Basic attack that hits your all around. Replaces Thrash.
+Shockwave,Master,3/3/3/3/3,-,-,-,Master Dungeon,Deals major damage to enemies in front of you.
+Sneak Attack,Master (Pure),150/25/25/95/100,-,Blue Shocker Piece (2),-,"Nobis House (28,27)",Gives the warrior a surprise attack. Pure only.
+Mad Soul,Master (Pure),145/5/5/85/65,"500,000",Black Shocker Piece (5),Flurry (100),"Nobis House (28,27)","Surge of raging energy, striking all nearby enemies with range 3 with devastating force. Pure only."
+Sever,Master,140/8/8/60/50,"500,000",Losgann Tail (1),Tempest Blade (100),"Nobis House (28,27)",Deals major damage to enemies 4 spaces in front of you. Replaces Tempest Blade.

@@ -1,0 +1,43 @@
+Name,LOC,LVL,WGT,AC,HP,MP,AS%,MR,STR,INT,WIS,CON,DEX,DMG,HIT,SKD,SKD%,SPD,SPD%,FHB,HB%,CDR%
+Gold Earrings,-,8,1,-,-,-,-,-,1,-,-,1,-,-,-,-,-,-,-,-,-,-
+Silver Earrings,-,8,1,-,-,-,-,-,1,-,-,-,1,-,-,-,-,-,-,-,-,-
+Basic Beryl Earrings,-,11,1,-,150,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Basic Emerald Earrings,-,11,1,-,100,-,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+Basic Heartstone Earrings,-,11,1,-,100,-,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Basic Ruby Earrings,-,11,1,-,100,-,-,-,1,-,-,-,-,2,-,-,-,-,-,-,-,-
+Basic Sapphire Earrings,-,11,1,-,100,-,-,-,-,1,-,-,-,-,1,-,-,-,-,-,-,-
+Hy-Brasyl Earrings,-,30,1,-,200,-,-,-,2,-,-,-,-,4,-,-,-,-,-,-,-,-
+Mythril Earrings,-,30,1,-,-,100,-,-,-,2,-,-,-,-,1,-,-,-,-,-,-,-
+Iron Beryl Earrings,-,41,1,-,150,100,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-,-
+Iron Emerald Earrings,-,41,1,-,100,100,-,-,-,-,-,-,1,-,-,-,-,-,-,-,-,-
+Iron Heartstone Earrings,-,41,1,-,100,100,-,2,-,-,1,-,-,-,-,-,-,-,-,-,-,-
+Iron Ruby Earrings,-,41,1,-,100,100,-,-,1,-,-,-,-,2,-,-,-,-,-,-,-,-
+Iron Sapphire Earrings,-,41,1,-,100,100,-,-,-,1,-,-,-,-,1,-,-,-,-,-,-,-
+Dark Aisling Earrings,-,70,1,-,300,150,-,6,2,2,-,-,-,4,2,-,-,-,-,-,-,-
+Enchanted Earrings,-,71,1,-1,-,500,-,-,-,1,1,1,-,-,-,-,-,-,-,-,-,-
+Might Earrings,-,71,1,-,150,150,-,-,-,2,-,-,-,-,2,-,-,-,-,-,-,-
+Mythril Beryl Earrings,-,71,1,-,100,200,-,5,-,-,-,1,-,-,2,-,-,-,-,-,-,-
+Mythril Emerald Earrings,-,71,1,-,-,200,-,5,-,-,-,-,1,-,2,-,-,-,-,-,-,-
+Mythril Heartstone Earrings,-,71,1,-,-,200,-,7,-,-,1,-,-,-,2,-,-,-,-,-,-,-
+Mythril Ruby Earrings,-,71,1,-,-,200,-,5,1,-,-,-,-,2,2,-,-,-,-,-,-,-
+Mythril Sapphire Earrings,-,71,1,-,-,200,-,5,-,1,-,-,-,-,3,-,-,-,-,-,-,-
+Power Earrings,-,80,1,-,600,-,-,-,3,-,-,-,-,4,-,-,-,-,-,-,-,-
+Salve Earrings,-,80,1,-1,-,600,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Hy-Brasyl Beryl Earrings,-,97,1,-,250,200,-,5,-,-,-,2,-,5,4,-,-,-,-,-,-,-
+Hy-Brasyl Emerald Earrings,-,97,1,-,200,200,-,5,-,-,-,-,2,3,3,-,-,-,-,-,-,-
+Hy-Brasyl Heartstone Earrings,-,97,1,-,200,200,-,9,-,-,2,-,-,3,3,-,-,-,-,-,-,-
+Hy-Brasyl Ruby Earrings,-,97,1,-,200,200,-,5,2,-,-,-,-,7,3,-,-,-,-,-,-,-
+Hy-Brasyl Sapphire Earrings,-,97,1,-,200,200,-,5,-,2,-,-,-,3,5,-,-,-,-,-,-,-
+Vibrant Viper Earrings,-,99,3,-,400,550,-,10,-,4,-,-,-,-,3,-,-,-,-,-,-,-
+Azurium Beryl Earrings,-,Master,1,-,400,600,-,10,-,1,1,3,-,2,4,-,-,-,-,-,-,-
+Azurium Emerald Earrings,-,Master,1,-,-,600,-,10,-,1,1,1,2,-,3,-,-,-,-,-,-,-
+Azurium Heartstone Earrings,-,Master,1,-,-,800,-,14,-,1,3,1,-,-,3,-,-,-,-,-,-,-
+Azurium Ruby Earrings,-,Master,1,-,-,600,-,10,2,1,1,1,-,4,3,-,-,-,-,-,-,-
+Azurium Sapphire Earrings,-,Master,1,-,-,800,-,10,-,3,1,1,-,-,5,-,-,-,-,-,-,-
+Crimsonite Beryl Earrings,-,Master,1,-,1600,-,-,10,1,-,-,3,1,8,1,-,-,-,-,-,-,-
+Crimsonite Emerald Earrings,-,Master,1,-,1200,-,-,10,1,-,-,1,3,6,-,-,-,-,-,-,-,-
+Crimsonite Heartstone Earrings,-,Master,1,-,1200,200,-,14,1,-,2,1,1,6,-,-,-,-,-,-,-,-
+Crimsonite Ruby Earrings,-,Master,1,-,1200,-,-,10,3,-,-,1,1,10,-,-,-,-,-,-,-,-
+Crimsonite Sapphire Earrings,-,Master,1,-,1200,200,-,10,1,2,-,1,1,6,2,-,-,-,-,-,-,-
+Nyx's Whisper,-,Master,3,-,800,400,-,15,-3,-3,-3,-3,-3,8,4,-,-,-,-,-,-,2
+Sacred Earrings,-,Master,3,-,750,750,-,15,-,-3,-3,-3,-,-,6,-,-,-,-,-,-,2

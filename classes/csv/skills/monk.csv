@@ -1,0 +1,38 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Assail,1,3/3/3/3/3,-,-,-,-,A basic attack that deals a small amount of damage to an enemy immediately in front of you.
+Punch,1,3/3/3/3/3,-,-,-,-,A Monk's basic attack that deals a small amount of damage to an enemy immediately in front of you.
+Inspect,3,3/5/5/3/3,"2,000",-,-,Mileth Special Skills Master,Allows an aisling to study an item's attributes.
+nis,3,3/5/5/3/3,"2,000",-,-,Rucesion Special Skills Master,Allows an aisling to check on Unora's current time.
+Kick,3,3/3/3/3/3,-,-,-,-,Kicks the creature in front of you for minor damage.
+High Kick,9,7/3/3/9/4,"1,500",Spider's Silk (1),-,Bodil at Abel Combat,Kicks the creature in front of you for minor damage.
+Poison Punch,11,6/9/5/11/10,"5,000",Scorpion's Sting (2),-,Bodil at Abel Combat,Deals minor damage and poisons the enemy in front of you.
+Water Punch,11,9/7/5/12/7,"5,000",Bat's Wing (2),-,Sapphire Stream,Hits the three tiles in front of you.
+Ambush,11,6/3/3/11/10,"2,500",Spider's Silk (3),-,Bodil at Abel Combat,Teleports you to the other side of the enemy.
+Earth Punch,11,9/3/3/16/6,"5,000",Wolf's Fur (2),-,Sapphire Stream,Stuns the target in front of you.
+Fire Punch,11,13/3/3/13/7,"5,000",Bat's Wing (2),-,Sapphire Stream,Burns the target in front of you.
+Air Punch,11,8/3/3/13/9,"5,000",Wolf's Fur (2),-,Sapphire Stream,Hits two spaces in front of you.
+Double Punch,20,13/3/3/19/9,"5,000",Bat's Wing (3),Punch (100),Abel Combat Skills Master,A Monk's second basic attack that deals damage to an enemy immediately in front of you.
+Roundhouse Kick,33,14/6/4/31/15,"20,000","Hobgoblin's Skull (1), Royal Gold Ring (1)",Kick (100),Suomi Combat Skills Master,A strong kick that strikes your front and sides.
+Mantis Kick,41,27/7/7/35/11,"25,000",Hybrasyl Earring (1),High Kick (100),Suomi Combat Skills Master,Kicks the creature in front for massive damage.
+Eagle Strike,44,20/13/5/33/9,"25,000","Wolf Teeth (1), Frog's Leg (1)",-,Suomi Combat Skills Master,Deals damage to two spaces out in front of you.
+Throw,50,5/9/5/3/3,"25,000",-,-,Abel Combat Skills Master,Allows an aisling to throw an entity away from them.
+Claw Fist,50,24/14/3/32/18,"25,000",Mimic's Teeth (2),-,Suomi Combat Skills Master,Amplifies the damage of your assails.
+Draco Tail Kick,71,46/9/9/50/20,"50,000","Faerie's Wing (2), Eagle Talon (1)",-,Sapphire Stream,Deals moderate damage to surrounding enemies and sets them on fire.
+Tempest Kick,71,27/9/9/53/39,"25,000",Gremlin's Ear (3),-,Sapphire Stream,Hits all around you.
+Seismic Kick,71,40/7/7/59/20,"25,000",Succubus's Hair (3),-,Sapphire Stream,Kicks the creature in front of you for massive damage and leaves target stunned.
+Tsunami Kick,71,29/21/12/49/26,"25,000",Gremlin's Ear (3),-,Sapphire Stream,Hits four spaces in front of you.
+Rapid Punch,71,49/11/11/56/27,"50,000","Faerie's Wing (3), Eagle Talon (1)",Double Punch (100),Abel Combat Skills Master,A Monk's third basic attack that deals damage to an enemy immediately in front of you.
+Wolf Fang Fist,77,58/24/11/33/25,"75,000",Phoenix Claws (2),-,Sapphire Stream,Temporarily paralyzes the enemy in front of you.
+Phoenix Strike,88,45/14/8/59/29,"75,000","Gargoyle's Skull (2), Phoenix Claw (1)",Eagle Strike (100),Suomi Combat Skills Master,Deals damage to two spaces out in front of you.
+Seismic Slam,Master,80/15/10/135/60,"500,000",Direwolf Lock (5),-,Sapphire Stream,Deals damage to three spaces out in front of you.
+Triple Punch,Master,80/10/10/100/40,"250,000",Nunchaku (1),Rapid Punch (100),Unknown,Master Assail.
+Hydro Siphon,Master,80/50/50/150/80,"500,000",Ice Spore Sac (2),-,Sapphire Stream,Strike around you with water and siphon mana.
+Leverage Kick,Master,3/3/3/3/3,-,-,-,Master Dungeon,"Hits all around you at a range of two, increasing damage on hostile targets."
+Soulful Touch,Master,3/3/3/3/3,-,-,-,Grand Master,Deals damage all around and heals the user based on target's current health.
+Dragon Strike,Master (Pure),80/25/20/120/60,"500,000",Gold Shocker Piece (3),Phoenix Strike (100),Sapphire Stream,Deals damage to three spaces out in front of you. Pure only.
+Cyclone Twist,Master,75/25/20/125/40,"500,000",Gold Beetalic Head (2),-,Sapphire Stream,Damage enemies around you.
+Relentless Draw,Master,100/25/20/150/70,"750,000",Losgann Tail (2),-,Sapphire Stream,Pulls targets to the user.
+Crimson Moon,Master,120/25/20/150/100,"500,000",Blue Shocker Piece (3),-,Sapphire Stream,Strike enemies in front of you.
+Chaos Fist,Master (Pure),95/25/3/120/35,"750,000",-,Claw Fist (100),Sapphire Stream,Amplifies the damage of your assails. Pure only.
+Battlefield Sweep,Master (Pure),150/40/40/215/100,"750,000",Ruidhtear's Toe (3),Relentless Draw (100),Sapphire Stream,Pulls targets to the user in 6x6 range. Upgrades Relentless Draw. Pure only.
+Molten Strike,Master,60/15/10/140/50,"500,000",Red Shocker Piece (5),-,Sapphire Stream,Set your enemies ablaze around you.
