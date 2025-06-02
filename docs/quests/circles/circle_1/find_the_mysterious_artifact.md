@@ -12,7 +12,7 @@
 
 - Experience
 - (Part 4): Unlocks the ability to Ascend
-- (Part 4): Unlocks level 97 armor
+- (Part 4): Unlocks level 97 armor and sub class
 - (Part 5): Unlocks the ability to be a master
 - (Part 6): Unlocks Master Dungeon skills/spells for your class
 - (Part 7): Grand Master gear, Grand Master spells/skills
