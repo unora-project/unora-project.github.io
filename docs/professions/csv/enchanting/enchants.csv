@@ -41,12 +41,12 @@ Skandara's Pierce,7 DMG +50 Flat Skill DMG +1 AC,Adept,Blazing,95
 Zephyra's Gust,4% MR -1 Hit -1 DMG,Adept,Howling,97
 Aquaedon's Commitment,150 MP +1% Spell DMG +20 Flat Spell DMG,Advanced,Spirited,99
 Geolith's Testimony,300 HP +1% Skill DMG +20 Flat Skill DMG,Advanced,Sturdy,99
-Ignatar's Dominance,3% Skill DMG +50 Flat Skill DMG +1 AC,Advanced,Fury,99
-Miraelis' Brace,3% Spell DMG +50 Flat Spell DMG +1 AC,Advanced,Resilient,99
+Ignatar's Dominance,4% Skill DMG +20 Flat Skill DMG +1 AC,Advanced,Fury,99
+Miraelis' Brace,3% Spell DMG +60 Flat Spell DMG +1 AC,Advanced,Resilient,99
 Serendael's Success,4 Hit -1 MR,Advanced,Pristine,99
-Theselene's Sorrow,4% ATK Speed +4 DMG,Advanced,Shaded,99
-Skandara's Offense,10 DMG +100 Flat Skill DMG +1 AC -1% MR,Expert,Sinister,99
+Theselene's Sorrow,4% ATK Speed +4 DMG +40 Flat Skill DMG,Advanced,Shaded,99
+Skandara's Offense,5 DMG +100 Flat Skill DMG -1% MR,Expert,Sinister,99
 Zephyra's Power,5% MR -2 Hit -2 DMG,Expert,Gleaming,99
-Ignatar's Deficit,4% Skill DMG +75 Flat Skill DMG +1 AC -1% MR,Expert,Infernal,99
-Geolith's Barrier,400 HP +200 MP -1 AC -1% Skill DMG -25 Flat Spell DMG,Expert,Primal,99
-Miraelis' Roots,4% Spell Damage +75 Flat Spell Damage +1 AC -1% MR,Expert,Thick,99
+Ignatar's Deficit,5% Skill DMG +25 Flat Skill DMG +1 AC -1% MR,Expert,Infernal,99
+Geolith's Barrier,400 HP +2 DMG +2% ATK Speed +1% Skill DMG +20 Flat Skill DMG,Expert,Primal,99
+Miraelis' Roots,4% Spell Damage +80 Flat Spell Damage +1 AC -1% MR,Expert,Thick,99
