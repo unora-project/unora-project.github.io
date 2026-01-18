@@ -53,7 +53,7 @@ This calculator will provide how much experience it will take to max your stats 
 </style>
 
 <label for="classSelect">Class:</label>
-<select id="classSelect">
+<select id="classSelect" name="class">
   <option value="">-- Select --</option>
   <option value="Warrior">Warrior</option>
   <option value="Monk">Monk</option>
