@@ -2,6 +2,7 @@ TODO:
 
 - Fix hp mp calculator
 - Profession info: levels by 2 for current tier, 1 for past tier? (to confirm)
+- - Can confirm, 2 levels for current tier, 1 for past -Iglis
 - Selling crafted items, ruined ores (SAVE IRON), torn fiber, chipped gems
 - Item attack speed data missing (and maybe other stats?)
 - Make tables mobile friendly. Combine columns? Fixed width and allow horizontal scrolling?
