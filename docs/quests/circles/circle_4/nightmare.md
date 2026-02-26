@@ -13,6 +13,20 @@
     - [Need to get more class combinations and rewards here]
 - 20 Game Points
 
+## Walkthrough - Warrior
+
+- Coming soon.
+
+!!! info ""
+
+Lore coming soon
+
+!!! info ""
+
+- Coming Soon
+
+Details on the Nightmare and task coming soon.
+
 ## Walkthrough - Female Wizard
 
 - Head to the Piet Priestess (30,55)
@@ -114,6 +128,34 @@ Gregory explains that a Cthonic Disciple was buried in Mileth Crypt long ago, th
 - Select "Enter my Nightmares"
 
 You are teleported into a personal nightmare where have 4 teammates, one of each class, and must protect them all for 6 minutes to end it.
+
+## Walkthrough - Monk
+
+- Coming soon.
+
+!!! info ""
+
+Lore coming soon
+
+!!! info ""
+
+- Coming Soon
+
+Details on the Nightmare and task coming soon.
+
+## Walkthrough - Rogue
+
+- Coming soon.
+
+!!! info ""
+
+Lore coming soon
+
+!!! info ""
+
+- Coming Soon
+
+Details on the Nightmare and task coming soon.
 
 ## Finishing the Quest
 
