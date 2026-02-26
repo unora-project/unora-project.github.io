@@ -15,7 +15,7 @@
     - Rogue: Coming soon
 - 20 Game Points
 
-## Walkthrough - Warrior
+## Warrior
 
 - Coming soon.
 
@@ -29,7 +29,7 @@ Lore coming soon
 
 Details on the Nightmare and task coming soon.
 
-## Walkthrough - Female Wizard
+## Female Wizard
 
 - Head to the Piet Priestess (30,55)
 - Speak to Narve and select "Morrigu Legend" to start the quest
@@ -58,7 +58,7 @@ Narve explains that Morrigu was the ancient triple goddess. She was a Tuatha De 
 
 You are teleported into a personal nightmare where you must defeat 25 Nightmares to end it.
 
-## Walkthrough - Male Wizard
+## Male Wizard
 
 - Head to the Temple of Choosing in Mileth Village Way (9,4)
 - Speak to Gregory and select "What do you know about these Nightmares?" to start the quest
@@ -80,7 +80,7 @@ Gregory explains that a Cthonic Disciple was buried in Mileth Crypt long ago, th
 
 You are teleported into a personal nightmare where you must defeat 25 Nightmares to end it.
 
-## Walkthrough - Female Priest
+## Female Priest
 
 - Head to the Piet Priestess (30,55)
 - Speak to Narve and select "Morrigu Legend" to start the quest
@@ -109,7 +109,7 @@ Narve explains that Morrigu was the ancient triple goddess. She was a Tuatha De 
 
 You are teleported into a personal nightmare where have 4 teammates, one of each class, and must protect them all for 6 minutes to end it.
 
-## Walkthrough - Male Priest
+## Male Priest
 
 - Head to the Temple of Choosing in Mileth Village Way (9,4)
 - Speak to Gregory and select "What do you know about these Nightmares?" to start the quest
@@ -131,7 +131,7 @@ Gregory explains that a Cthonic Disciple was buried in Mileth Crypt long ago, th
 
 You are teleported into a personal nightmare where have 4 teammates, one of each class, and must protect them all for 6 minutes to end it.
 
-## Walkthrough - Monk
+## Monk
 
 - Coming soon.
 
@@ -145,7 +145,7 @@ Lore coming soon
 
 Details on the Nightmare and task coming soon.
 
-## Walkthrough - Rogue
+## Rogue
 
 - Coming soon.
 
