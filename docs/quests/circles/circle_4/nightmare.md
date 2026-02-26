@@ -8,9 +8,11 @@
 
 - Legend mark: Successfully conquered their Nightmares
 - Equipment
+    - Warrior: Coming soon
     - Female Priest/Wizard: Morrigu Disciple/Magus Pellison (armor), Holy/Magus Hair Band (head)
     - Male Priest/Wizard: Cthonic Disciple/Magus Pellison (armor), Cthonic Disciple/Magus Caputium (head)
-    - [Need to get more class combinations and rewards here]
+    - Monk: Coming soon
+    - Rogue: Coming soon
 - 20 Game Points
 
 ## Walkthrough - Warrior
