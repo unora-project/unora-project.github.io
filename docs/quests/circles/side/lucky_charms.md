@@ -1,5 +1,9 @@
 # Lucky Charms (St. Patrick's Day Event)
 
+!!! warning
+
+    This event is not repeatable. If you have completed it in a prior year, you will be unable to complete it any following years.
+    
 ## Rewards
 
 - Legend mark: Found Lucky's Charms
