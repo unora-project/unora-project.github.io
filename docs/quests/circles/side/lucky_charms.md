@@ -18,10 +18,6 @@
 
 ## Walkthrough
 
-!!! note
-
-    The location of the charms changes from year to year. This guide is specifically for the 2025 event.
-
 - To start, speak with Lucky in Mileth Village Way (5,9)
 - Select "What charms are you missing?"
 - Lucky will explain that he's missing 8 charms:
@@ -44,11 +40,11 @@
 
 All of these charms can be randomly found on the following maps. You will find them on the floor and must loot them:
 
-- Pot of Gold: **Eastern Woodlands**, in the lobby entrance
-- Rainbow: **Mount Giragan 1/2**, on the floor
+- Pot of Gold: **Eastern Woodlands**, both in the lobby and in the area with monsters.
+- Rainbow: **Mount Giragan**, on the floor in rooms with penguins and deer.
 - Horseshoe: **Nobis**, randomly on the town floor outside
-- Heart Charm: **Mileth Crypt**, first floor
+- Heart Charm: **Mileth Crypt**, randomly throughout all floors
 - Clover: **Astrid**, randomly throughout the hunting maps
-- Red Balloon: **Lynith Beach North**
+- Red Balloon: **Lynith Beach**, both north and south
 - Star: **Piet Sewer**. Does not spawn in the entrance; you must go into the dungeon.
-- Moon: **Eingren Manor**, on the first floor with the ghosts
+- Moon: **Eingren Manor**, on the first floor with the ghosts. Does not spawn in the safe rooms.
