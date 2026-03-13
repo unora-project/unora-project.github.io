@@ -1,16 +1,18 @@
-# Lucky Charms (2025 St. Patrick's Day Event)
+# Lucky Charms (St. Patrick's Day Event)
 
 ## Rewards
 
 - Legend mark: Found Lucky's Charms
 - Red Fanny Pouch
 
-Red Fanny Pouch stats:
+??? tip "These stats used to be given if you wore the Red Fanny Pouch, but all accessories have had their stats removed and are only here for archival purposes."
 
-- Skill Damage: 100
-- Spell Damage: 100
-- Wisdom: 1
-- Constitution: 1
+    Red Fanny Pouch stats:
+
+    - Skill Damage: 100
+    - Spell Damage: 100
+    - Wisdom: 1
+    - Constitution: 1
 
 ![Red Fanny Pouch](./assets/red_fanny_pouch.png)
 
