@@ -116,7 +116,7 @@ Repeatable quests that all involve you defeating monsters in a given area.
 - [Slayer of the Crypt - All levels](./circles/slayers/slayer_of_the_crypt.md)
 - [East Woodlands Slayer - Below level 41](./circles/slayers/east_woodlands_slayer.md)
 - [Astrid Slayer - Below level 41](./circles/slayers/astrid_slayer.md)
-- [Dubhaim Castle Slayer - Level 11+]
+- [Dubhaim Castle Slayer - Level 11+](.circles/slayers/dubhaim_castle_slayer.md)
 - [West Woodlands Slayer - Level 41-70](./circles/slayers/west_woodlands_slayer.md)
 - [Piet Sewer Slayer - Level 41-70](./circles/side/piet_sewer_slayer.md)
 - [Karlopos Slayer - Level 41-70](./circles/slayers/karlopos_slayer.md)
