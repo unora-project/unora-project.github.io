@@ -41,7 +41,7 @@ hide:
     [:octicons-arrow-right-24: Circle 5 (99+)](./quests/overview.md#circle-5)<br>
     [:octicons-arrow-right-24: Circle 6 (Master)](./quests/overview.md#circle-6)<br>
     [:octicons-arrow-right-24: Circle 7 (Advanced Classes)](./quests/overview.md#circle-7)<br>
-    [:octicons-arrow-right-24: Repeatables](./quests/overview.md#daily-quests)<br>
+    [:octicons-arrow-right-24: Daily Quests](./quests/overview.md#daily-quests)<br>
     [:octicons-arrow-right-24: Daily Kill Quests](./quests/overview.md#daily-kill-quests)<br>
     [:octicons-arrow-right-24: Dungeons/Instances](./quests/overview.md#repeatable-dungeonsinstanced-quests)<br>
     [:octicons-arrow-right-24: Events](./quests/overview.md#event-quests)<br>
