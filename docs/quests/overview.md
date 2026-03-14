@@ -121,5 +121,5 @@ Quests which can be completed more than once (with a cooldown).
 
 ## Event Quests
 
-- [Lucky Charms (St. Patrick's Day)](./circles/side/lucky_charms.md)
-- [Hopocalypse (Easter Event)](./circles/side/hopocalypse.md)
+- [Lucky Charms (St. Patrick's Day)](./circles/events/lucky_charms.md)
+- [Hopocalypse (Easter Event)](./circles/events/hopocalypse.md)
