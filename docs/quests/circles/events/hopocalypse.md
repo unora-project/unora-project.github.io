@@ -1,4 +1,4 @@
-# Hopocalypse (2025 Easter Event)
+# Hopocalypse (Easter Event)
 
 This event has two different activities going on.
 
