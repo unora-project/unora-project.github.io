@@ -68,7 +68,6 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
 
     Level range: 99+
 
-- Bounty Board
 - [Find the Summoner again](./circles/circle_1/find_the_mysterious_artifact.md#part-5-find-the-summoner-again)
 
 ## Circle 6
@@ -92,32 +91,45 @@ A "circle" in Unora is simply a level range (i.e. levels 1-10).
 
 Advanced classes are not yet released, but confirmed by the dev team.
 
-## Repeatable Quests
+## Daily Quests
 
 Quests which can be completed more than once (with a cooldown).
 
-- [Abel Dungeon Slayer](./circles/side/abel_dungeon_slayer.md)
 - [Antonio's Vault Squeaks](./circles/side/antonios_vault_squeaks.md)
-- [Astrid Slayer](./circles/side/astrid_slayer.md)
 - [Blade Material](./circles/side/blade_material.md)
 - [Burning Wood](./circles/side/burning_wood.md)
 - [Crude Leather](./circles/side/crude_leather.md)
 - [Dark Research](./circles/circle_1/dark_research.md)
 - [Decorating the Inn](./circles/side/decorating_the_inn.md)
-- [East Woodlands Slayer](./circles/side/east_woodlands_slayer.md)
 - [Feeding the Beggar](./circles/circle_3/feeding_the_beggar.md)
 - [Holy Research](./circles/circle_1/holy_research.md)
 - [Ice Wall](./circles/circle_2/ice_wall.md)
-- [Karlopos Slayer](./circles/side/karlopos_slayer.md)
-- [Lost Woodlands](./circles/side/lost_woodlands.md)
-- [Piet Sewer Slayer](./circles/side/piet_sewer_slayer.md)
 - [Pretty Flower](./circles/side/pretty_flower.md)
 - [Red Potion](./circles/side/red_potion.md)
-- [Slayer of the Crypt](./circles/side/slayer_of_the_crypt.md)
 - [Suomi Tavern](./circles/side/suomi_tavern.md)
-- [Terror of the Crypt](./circles/circle_1/terror_of_the_crypt.md)
 - [The Sacrifice](./circles/circle_2/the_sacrifice.md)
-- [West Woodlands Slayer](./circles/side/west_woodlands_slayer.md)
+
+## Daily Kill Quests
+
+Repeatable quests that all involve you defeating monsters in a given area.
+
+- [Slayer of the Crypt - All levels](./circles/slayers/slayer_of_the_crypt.md)
+- [East Woodlands Slayer - Below level 41](./circles/slayers/east_woodlands_slayer.md)
+- [Astrid Slayer - Below level 41](./circles/slayers/astrid_slayer.md)
+- [Dubhaim Castle Slayer - Level 11+]
+- [West Woodlands Slayer - Level 41-70](./circles/slayers/west_woodlands_slayer.md)
+- [Piet Sewer Slayer - Level 41-70](./circles/side/piet_sewer_slayer.md)
+- [Karlopos Slayer - Level 41-70](./circles/slayers/karlopos_slayer.md)
+- [Abel Dungeon Slayer - Level 71+](./circles/slayers/abel_dungeon_slayer.md)
+- [Bounty Board - Master+]
+
+## Repeatable Dungeons/Instanced Quests
+
+Repeatable quests that involve going into a dungeon or instance exclusive to your party.
+
+- [Terror of the Crypt](./circles/circle_1/terror_of_the_crypt.md)
+- [Lost Woodlands](./circles/side/lost_woodlands.md)
+- [Deep Mileth Crypt]
 
 ## Event Quests
 
