@@ -2,7 +2,7 @@
 
 ## Restrictions
 
-- Must be between level ? - 70
+- Must be between level 41 - 70
 
 ## Rewards
 
