@@ -23,6 +23,6 @@ Each main profession, as well as cooking, require resources to craft your items.
 ## Resource Locations
 
 - [Fibers](./types/fibers.md)
-- [Food/Ingredients](./types/cooking.md)
+- [Food/Ingredients](./types/cooking#ingredients.md)
 - [Gems](./types/gems.md)
 - [Ores](./types/ores.md)
