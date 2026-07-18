@@ -1,0 +1,53 @@
+/* stretch the page to the full width */
+.md-grid {
+    max-width: 100%;
+}
+
+/* customize tables to look like github */
+th,
+td {
+    border: 1px solid var(--md-typeset-table-color);
+    border-spacing: 0;
+    border-bottom: none;
+    border-left: none;
+    border-top: none;
+}
+
+.md-typeset__table {
+    line-height: 1;
+}
+
+.md-typeset__table table:not([class]) {
+    font-size: .60rem;
+    border-right: none;
+}
+
+/* light mode alternating table bg colors */
+.md-typeset__table tr:nth-child(2n) {
+    background-color: #b7a69e;
+}
+
+/* dark mode alternating table bg colors */
+[data-md-color-scheme="slate"] .md-typeset__table tr:nth-child(2n) {
+    background-color: #9e75628a;
+}
+
+/* END customize tables to look like github */
+
+
+/* Prevent wrapping so cells stay compact */
+.md-typeset th,
+.md-typeset td {
+    padding: 0.8em 0.6em !important;
+        font-size: .70rem;
+}
+
+table.dataTable {
+    width: 100% !important;
+    table-layout: fixed;
+}
+
+table.dataTable,
+table.dataTable * {
+    transition: none !important;
+}

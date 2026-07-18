@@ -1,0 +1,122 @@
+Name,Class,Gender,Level,Materials
+Fire Belt,Peasant,Unisex,4,"5 Linen, 1 Raw Ruby"
+Sea Belt,Peasant,Unisex,4,"5 Linen, 1 Raw Sapphire"
+Earth Belt,Peasant,Unisex,4,"5 Linen, 1 Raw Beryl"
+Wind Belt,Peasant,Unisex,4,"5 Linen, 1 Raw Emerald"
+Scout Leather,Rogue,Male,8,3 Fine Linen
+Cotte,Rogue,Female,8,3 Fine Linen
+Gardcorp,Wizard,Male,8,3 Fine Linen
+Magi Skirt,Wizard,Female,8,3 Fine Linen
+Cowl,Priest,Male,8,3 Fine Linen
+Gorget Gown,Priest,Female,8,3 Fine Linen
+Dobok,Monk,Male,8,3 Fine Linen
+Earth Bodice,Monk,Female,8,3 Fine Linen
+Leather Tunic,Warrior,Male,8,3 Fine Linen
+Leather Bliaut,Warrior,Female,8,3 Fine Linen
+Leather Gauntlet,Peasant,Unisex,9,8 Linen
+Leather Beryl Gauntlet,Peasant,Unisex,11,"2 Exquisite Linen, 1 Pristine Beryl"
+Leather Ruby Gauntlet,Peasant,Unisex,11,"2 Exquisite Linen, 1 Pristine Ruby"
+Leather Sapphire Gauntlet,Peasant,Unisex,11,"2 Exquisite Linen, 1 Pristine Sapphire"
+Leather Emerald Gauntlet,Peasant,Unisex,11,"2 Exquisite Linen, 1 Pristine Emerald"
+Leather Heartstone Gauntlet,Peasant,Unisex,11,"2 Exquisite Linen, 1 Pristine Heartstone"
+Fire Bronze Belt,Peasant,Unisex,20,"2 Exquisite Linen, 1 Polished Bronze Bar, 2 Flawed Ruby"
+Sea Bronze Belt,Peasant,Unisex,20,"2 Exquisite Linen, 1 Polished Bronze Bar, 2 Flawed Sapphire"
+Earth Bronze Belt,Peasant,Unisex,20,"2 Exquisite Linen, 1 Polished Bronze Bar, 2 Flawed Beryl"
+Wind Bronze Belt,Peasant,Unisex,20,"2 Exquisite Linen, 1 Polished Bronze Bar, 2 Flawed Emerald"
+Dwarvish Leather,Rogue,Male,26,2 Exquisite Linen
+Brigandine,Rogue,Female,26,2 Exquisite Linen
+Journeyman,Wizard,Male,26,2 Exquisite Linen
+Benusta,Wizard,Female,26,2 Exquisite Linen
+Galuchat Coat,Priest,Male,26,2 Exquisite Linen
+Mystic Gown,Priest,Female,26,2 Exquisite Linen
+Culotte,Monk,Male,26,2 Exquisite Linen
+Lotus Bodice,Monk,Female,26,2 Exquisite Linen
+Lorica,Warrior,Male,26,2 Exquisite Linen
+Cuirass,Warrior,Female,26,2 Exquisite Linen
+Bronze Beryl Gauntlet,Peasant,Unisex,26,"1 Exquisite Linen, 1 Polished Bronze Bar, 1 Pristine Beryl"
+Bronze Ruby Gauntlet,Peasant,Unisex,26,"1 Exquisite Linen, 1 Polished Bronze Bar, 1 Pristine Ruby"
+Bronze Sapphire Gauntlet,Peasant,Unisex,26,"1 Exquisite Linen, 1 Polished Bronze Bar, 1 Pristine Sapphire"
+Bronze Emerald Gauntlet,Peasant,Unisex,26,"1 Exquisite Linen, 1 Polished Bronze Bar, 1 Pristine Emerald"
+Bronze Heartstone Gauntlet,Peasant,Unisex,26,"1 Exquisite Linen, 1 Polished Bronze Bar, 1 Pristine Heartstone"
+Dark Bronze Belt,Peasant,Unisex,30,"2 Exquisite Linen, 1 Polished Bronze Bar, 2 Flawed Heartstone"
+Light Bronze Belt,Peasant,Unisex,30,"2 Exquisite Linen, 1 Polished Bronze Bar, 2 Flawed Heartstone"
+Fire Iron Belt,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 2 Uncut Ruby"
+Sea Iron Belt,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 2 Uncut Sapphire"
+Earth Iron Belt,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 2 Uncut Beryl"
+Wind Iron Belt,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 2 Uncut Emerald"
+Dark Iron Belt,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 2 Uncut Heartstone"
+Light Iron Belt,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 2 Uncut Heartstone"
+Iron Beryl Gauntlet,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 1 Pristine Beryl"
+Iron Ruby Gauntlet,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 1 Pristine Ruby"
+Iron Sapphire Gauntlet,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 1 Pristine Sapphire"
+Iron Emerald Gauntlet,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 1 Pristine Emerald"
+Iron Heartstone Gauntlet,Peasant,Unisex,41,"2 Exquisite Cotton, 1 Polished Iron Bar, 1 Pristine Heartstone"
+Paluten,Rogue,Male,56,3 Exquisite Cotton
+Corsette,Rogue,Female,56,3 Exquisite Cotton
+Lorum,Wizard,Male,56,3 Exquisite Cotton
+Stoller,Wizard,Female,56,3 Exquisite Cotton
+Mantle,Priest,Male,56,3 Exquisite Cotton
+Elle,Priest,Female,56,3 Exquisite Cotton
+Earth Garb,Monk,Male,56,3 Exquisite Cotton
+Moon Bodice,Monk,Female,56,3 Exquisite Cotton
+Kasmanium Armor,Warrior,Male,56,3 Exquisite Cotton
+Kasmanium Hauberk,Warrior,Female,56,3 Exquisite Cotton
+Fire Mythril Braid Belt,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 2 Pristine Ruby"
+Sea Mythril Braid Belt,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 2 Pristine Sapphire"
+Earth Mythril Braid Belt,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 2 Pristine Beryl"
+Wind Mythril Braid Belt,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 2 Pristine Emerald"
+Dark Mythril Braid Belt,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 2 Pristine Heartstone"
+Light Mythril Braid Belt,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 2 Pristine Heartstone"
+Mythril Beryl Gauntlet,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 1 Pristine Beryl"
+Mythril Ruby Gauntlet,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 1 Pristine Ruby"
+Mythril Sapphire Gauntlet,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 1 Pristine Sapphire"
+Mythril Emerald Gauntlet,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 1 Pristine Emerald"
+Mythril Heartstone Gauntlet,Peasant,Unisex,71,"2 Exquisite Wool, 1 Polished Mythril Bar, 1 Pristine Heartstone"
+Keaton,Rogue,Male,86,4 Exquisite Wool
+Pebble Rose,Rogue,Female,86,4 Exquisite Wool
+Mane,Wizard,Male,86,4 Exquisite Wool
+Clymouth,Wizard,Female,86,4 Exquisite Wool
+Hierophant,Priest,Male,86,4 Exquisite Wool
+Dolman,Priest,Female,86,4 Exquisite Wool
+Wind Garb,Monk,Male,86,4 Exquisite Wool
+Lightning Garb,Monk,Female,86,4 Exquisite Wool
+Iplet Mail,Warrior,Male,86,4 Exquisite Wool
+Phoenix Mail,Warrior,Female,86,4 Exquisite Wool
+Hy-Brasyl Beryl Gauntlet,Peasant,Unisex,97,"3 Exquisite Silk, 2 Polished Hy-Brasyl Bar, 2 Pristine Beryl"
+Hy-Brasyl Ruby Gauntlet,Peasant,Unisex,97,"3 Exquisite Silk, 2 Polished Hy-Brasyl Bar, 2 Pristine Ruby"
+Hy-Brasyl Sapphire Gauntlet,Peasant,Unisex,97,"3 Exquisite Silk, 2 Polished Hy-Brasyl Bar, 2 Pristine Sapphire"
+Hy-Brasyl Emerald Gauntlet,Peasant,Unisex,97,"3 Exquisite Silk, 2 Polished Hy-Brasyl Bar, 2 Pristine Emerald"
+Hy-Brasyl Heartstone Gauntlet,Peasant,Unisex,97,"3 Exquisite Silk, 2 Polished Hy-Brasyl Bar, 2 Pristine Heartstone"
+Bardocle,Rogue,Male,99,5 Exquisite Silk
+Kagum,Rogue,Female,99,5 Exquisite Silk
+Duin-Uasal,Wizard,Male,99,5 Exquisite Silk
+Clamyth,Wizard,Female,99,5 Exquisite Silk
+Dalmatica,Priest,Male,99,5 Exquisite Silk
+Bansagart,Priest,Female,99,5 Exquisite Silk
+Mountain Garb,Monk,Male,99,5 Exquisite Silk
+Sea Garb,Monk,Female,99,5 Exquisite Silk
+Hy-Brasyl Plate,Warrior,Male,99,5 Exquisite Silk
+Hy-Brasyl Armor,Warrior,Female,99,5 Exquisite Silk
+Refining Kit,Peasant,Unisex,Master,"25 Exquisite Hemp, 1 Strange Stone"
+Fire Crimsonite Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Crimsonite Bar, 7 Pristine Ruby"
+Sea Crimsonite Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Crimsonite Bar, 7 Pristine Sapphire"
+Earth Crimsonite Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Crimsonite Bar, 7 Pristine Beryl"
+Wind Crimsonite Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Crimsonite Bar, 7 Pristine Emerald"
+Dark Crimsonite Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Crimsonite Bar, 7 Pristine Heartstone"
+Light Crimsonite Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Crimsonite Bar, 7 Pristine Heartstone"
+Fire Azurium Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Azurium Bar, 7 Pristine Ruby"
+Sea Azurium Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Azurium Bar, 7 Pristine Sapphire"
+Earth Azurium Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Azurium Bar, 7 Pristine Beryl"
+Wind Azurium Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Azurium Bar, 7 Pristine Emerald"
+Dark Azurium Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Azurium Bar, 7 Pristine Heartstone"
+Light Azurium Belt,Peasant,Unisex,Master,"4 Exquisite Hemp, 1 Polished Azurium Bar, 7 Pristine Heartstone"
+Crimsonite Beryl Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Crimsonite Bar, 3 Pristine Beryl"
+Crimsonite Ruby Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Crimsonite Bar, 3 Pristine Ruby"
+Crimsonite Sapphire Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Crimsonite Bar, 3 Pristine Sapphire"
+Crimsonite Emerald Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Crimsonite Bar, 3 Pristine Emerald"
+Crimsonite Heartstone Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Crimsonite Bar, 3 Pristine Heartstone"
+Azurium Beryl Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Azurium Bar, 3 Pristine Beryl"
+Azurium Ruby Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Azurium Bar, 3 Pristine Ruby"
+Azurium Sapphire Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Azurium Bar, 3 Pristine Sapphire"
+Azurium Emerald Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Azurium Bar, 3 Pristine Emerald"
+Azurium Heartstone Gauntlet,Peasant,Unisex,Master,"4 Exquisite Hemp, 3 Polished Azurium Bar, 3 Pristine Heartstone"
