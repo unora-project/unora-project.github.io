@@ -19,17 +19,22 @@
 
 ## Warrior
 
-- Coming soon.
+- Head to West Woodlands 2 and enter the house at 42,27.
+- Speak with Baki about the Carnun Legend.
 
 !!! info ""
 
-Lore coming soon
+Baki asks what you are doing here, and if you tell him you are the hunter, he remarks that you do not look like the hunter of the land, Carnun, the Horned one. He tells you in the seventh area, there is a tree with a hydele plant growing underneath it. Legend has it that Carnun battled there, and says brave champions go to it to praise Carnun. He tells of a brave champion who drank the dark plant hydele until he was near death, and entered a dream.
 
 !!! info ""
 
-- Coming Soon
+- Select "I shall do the same"
+- Head to West Woodlands 7. Be careful of the boss in this room, Twink. Make sure to bring a Hemloch with you, potentially multiples in case you regenerate hp when attempting to enter.
+- Go to the tree located at 47,33. If you step on this without drinking a Hemloch, you will receive a popup telling you that you are not worthy.
+- Clear all monsters from around the tree so you don't die. Drink the hemloch and stand on the correct tile under the tree. You will be teleported to the nightmare.
+- You must fight Carnun to the death. He has priests and warriors he will spawn to assist him. Kill him and his minions to conquer your nightmare.
+- Return to Baki in the West Woodlands 2 house. He will remark on your abilities and congratulate you.
 
-Details on the Nightmare and task coming soon.
 
 ## Female Wizard
 
