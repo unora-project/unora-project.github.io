@@ -15,7 +15,7 @@ Cards are broken into 4 different types: Creature, Spell, Instant, and Trap. I w
 Each card has a name in the top left, a mana cost in the top right, a card type in the middle underneath the art, and a text box.
 Creature cards also have a power value in the bottom left and a toughness value in the bottom right.
 
-[image of a Cultist card with all of this information pointed out]
+~[how2read](./how2read.png)
 
 A colored square indicates a mana of a chosen element. Red being Fire, blue being Water, green being Wind, and brown being Earth.
 Each colored mana will be its own individual box. Any mana cost that is indicated by a number means you need that much mana of ANY color.
