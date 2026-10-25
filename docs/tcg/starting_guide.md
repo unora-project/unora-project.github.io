@@ -26,7 +26,7 @@ The card below, Blue Blob, has a mana cost of 1 Water (blue) mana and 2 addition
 
 Creatures, spells, and traps can be played only on your turn during the first or second Main Phases. This is also commonly known as "Sorcery Speed." Traps, like the name implies however, are set and activate whenever their activation requirement is met. Creatures also cannot attack the turn they are cast, unless they have Haste in their effect text. Instants can be played at any time, during either player's turn, in response to most things. Below are example images of a spell, trap, and instant.
 
-![Fireball](./Fire/Fireball.png) ![Mist Ward](./Water/Mist_Ward.png) ![Pitfall](./Earth/Pitfall.png)
+![Fireball](./Fire/Fireball.png) ![Mist Ward](./Water/Mist Ward.png) ![Pitfall](./Earth/Pitfall.png)
 
 ## Basic rules during play
 During each turn, you are allowed to add 1 mana crystal to your mana pool. To do so, select a card in your hand to convert into a mana crystal. Note that the card will no longer be accessible for the remainder of the battle. It will be a mana crystal for the rest of the game. However, you are able to spend as much mana as you like, so long as you have the appropriate mana crystals to pay for your spells.
