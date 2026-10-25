@@ -10,7 +10,7 @@ If you wish to craft your own in the future, the requirements of any deck is tha
 ## Card Types and How to read cards
 Cards are broken into 4 different types: Creature, Spell, Instant, and Trap. I will go over the differences in a moment, but first we need to know how to read a card.
 
-![Cultist](./neutral/cultist.png)
+![Cultist](./Neutral/Cultist.png)
 
 Each card has a name in the top left, a mana cost in the top right, a card type in the middle underneath the art, and a text box.
 Creature cards also have a power value in the bottom left and a toughness value in the bottom right.
