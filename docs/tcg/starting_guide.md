@@ -29,7 +29,7 @@ The cultist above has a mana cost of 1 mana of any color.
 
 The card below, Blue Blob, has a mana cost of 1 Water (blue) mana and 2 additional mana of any element/color.
 
-[image of a Blue Blob card]
+![Blue Blob](./Water/Blue_Blob.png)
 
 Creatures, spells, and traps can be played only on your turn during the first or second Main Phases. This is also commonly known as "Sorcery Speed." Traps, like the name implies however, are set and activate whenever their activation requirement is met. Creatures also cannot attack the turn they are cast, unless they have Haste in their effect text. Instants can be played at any time, during either player's turn, in response to most things. Below are example images of a spell, trap, and instant.
 
