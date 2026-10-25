@@ -1,6 +1,5 @@
 # *How to play Unora Card Battle TCG*
-## Greetings everyone, and welcome to the Unora TCG beginner's guide, written by Iglis Viriou.
-
+Greetings everyone, and welcome to the Unora TCG beginner's guide, written by Iglis Viriou.
 In this guide I will be going over all of the necessary rules to begin playing the game.
 
 ## Getting Started
