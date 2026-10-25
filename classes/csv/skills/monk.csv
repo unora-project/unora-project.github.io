@@ -1,0 +1,39 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Assail,1,3/3/3/3/3,-,-,-,Tutorial,A basic attack that deals a small amount of damage to an enemy immediately in front of you.
+Punch,1,3/3/3/3/3,-,-,-,Becoming Monk,A Monk's basic attack that deals a small amount of damage to an enemy immediately in front of you.
+Kick,3,3/3/3/3/3,-,-,-,Becoming Monk,Kicks the creature in front of you for minor damage.
+Inspect,3,3/5/5/3/3,"2,000",-,-,Mileth Special Skills Master,Allows an aisling to study an item's attributes.
+Look,3,3/5/5/3/3,"2,000",-,-,Mileth Special Skills Master,Allows an aisling to study a map.
+nis,3,3/5/5/3/3,"2,000",-,-,Rucesion Special Skills Master,Allows an aisling to check on Unora's current time.
+High Kick,9,7/3/3/9/4,"1,500",Spider's Silk (1),-,Abel Combat Skills Master,Kicks the creature in front of you for minor damage.
+Ambush,11,6/3/3/11/10,"2,500",Spider's Silk (3),-,Abel Combat Skills Master,Teleports you to the other side of the enemy.
+Air Punch,11,8/3/3/13/9,"5,000",Wolf's Fur (2),-,Sapphire Stream,[Air] Hits the target in front of you with wind and applies crit.
+Earth Punch,11,9/3/3/16/6,"5,000",Wolf's Fur (2),-,Sapphire Stream,[Earth] Hits the target in front of you with earth and stuns them.
+Fire Punch,11,13/3/3/13/7,"5,000",Bat's Wing (2),-,Sapphire Stream,[Fire] Hits the target in front of you with fire and applies burn.
+Water Punch,11,9/7/5/12/7,"5,000",Bat's Wing (2),-,Sapphire Stream,[Water] Hits three tiles near your front with water and applies splash.
+Poison Punch,11,6/9/5/11/10,"5,000",Scorpion's Sting (2),-,Bodil at Abel Combat,Deals minor damage and poisons the enemy in front of you.
+Double Punch,20,13/3/3/19/9,"5,000",Bat's Wing (3),Punch (100),Abel Combat Skills Master,A Monk's second basic attack that deals damage to an enemy immediately in front of you.
+Roundhouse Kick,33,14/6/4/31/15,"20,000","Hobgoblin's Skull (1), Royal Gold Ring (1)",Kick (100),Sapphire Stream,A strong kick that strikes your front and sides. [Blue Dugon]
+Mantis Kick,41,27/7/7/35/11,"25,000",Hy-Brasyl Earrings (1),High Kick (100),Sapphire Stream,Kicks the creature in front for massive damage. [Blue Dugon]
+Eagle Strike,44,20/13/5/33/9,"25,000","Wolf Teeth (1), Frog's Leg (1)",-,Sapphire Stream,Deals damage to two spaces out infront of you. [Yellow Dugon]
+Throw,50,5/9/5/3/3,"25,000",-,-,Abel Combat Skills Master,Allows an aisling to throw an entity away from them.
+Claw Fist,50,24/14/3/32/18,"25,000",Mimic's Teeth (2),-,Sapphire Stream,Amplifies the damage of your skills. [Yellow Dugon]
+Seismic Kick,71,40/7/7/59/20,"25,000",Succubus's Hair (3),-,Sapphire Stream,[Earth] Kicks the creature in front of you for massive damage and leaves target stunned.
+Dragon Breath,71,46/9/9/50/20,"50,000","Faerie's Wing (2), Eagle Talon (1)",-,Sapphire Stream,[Fire] Hits three tiles near your front with fire and a chance to apply burn.
+Tempest Kick,71,27/9/9/53/39,"25,000",Gremlin's Ear (3),-,Sapphire Stream,[Air] Deals massive damage to the target in front of you with wind and a chance to apply crit.
+Tsunami Kick,71,29/21/12/49/26,"25,000",Gremlin's Ear (3),-,Sapphire Stream,[Water] Hits all around you with water and a chance to apply splash.
+Rapid Punch,71,49/11/11/56/27,"50,000","Faerie's Wing (3), Eagle Talon (1)",Double Punch (100),Abel Combat Skills Master,A Monk's third basic attack that deals damage to an enemy immediately in front of you.
+Wolf Fang Fist,77,58/24/11/33/25,"75,000",Phoenix Claws (2),-,Sapphire Stream,Temporarily paralyzes the enemy in front of you. [Red Dugon]
+Phoenix Strike,88,45/14/8/59/29,"75,000","Gargoyle's Skull (2), Phoenix Claw (1)",Eagle Strike (100),Sapphire Stream,Deals damage to two spaces out in front of you. [Red Dugon]
+Leverage Kick,Master,3/3/3/3/3,-,-,-,Master Dungeon,"Hits all around you at a range of two, increasing damage based on number of targets."
+Flurry of Blows,Master,80/10/10/100/40,"250,000",Nunchaku (1),Rapid Punch (100),Master,"Unleash swift strikes to the front and sides, hitting multiple foes in a single motion."
+Molten Strike,Master,60/15/10/140/50,"500,000",Red Shocker Piece (5),-,Sapphire Stream,[Fire] Cleaves an area in front of you with fire and a chance to apply burn.
+Chaos Fist,Master (Pure),95/25/3/120/35,"750,000",-,Claw Fist (100),Sapphire Stream,Amplifies the damage of your skills. Pure only. [Black Dugon]
+Cloudfist,Master,75/25/20/125/40,"500,000",Gold Beetalic Head (2),-,Sapphire Stream,[Air] Cleaves an area in front of you with wind and a chance to apply crit.
+Seismic Slam,Master,80/15/10/135/60,"500,000",Direwolf Lock (5),-,Sapphire Stream,[Earth] Pulls targets from up to 3 in front of you and roots them.
+Dragon Strike,Master (Pure),80/25/20/120/60,"500,000",Gold Shocker Piece (3),Phoenix Strike (100),Sapphire Stream,Deals damage to three spaces out infront of you. Pure only. [Black Dugon]
+Relentless Draw,Master,100/25/20/150/70,"750,000",Losgann Tail (2),-,Sapphire Stream,"Pulls targets to the user from all directions, four spaces. [Black Dugon]"
+Wavebreaker,Master,80/50/50/150/80,"500,000",Ice Spore Sace (2),-,Sapphire Stream,[Water] Strike 2 spaces around you with water and a chance to apply splash.
+Crimson Moon,Master,120/25/20/150/100,"500,000",Blue Shocker Piece (3),-,Sapphire Stream,Deals massive damage to a single target. [Black Dugon]
+Battlefield Sweep,Master (Pure),150/40/40/215/100,"750,000",Ruidhtear Toe (3),Relentless Draw (100),Sapphire Stream,Pulls targets to the user in 6x6 range. Upgrade to Relentless Draw. Pure only. [Black Dugon]
+Soulful Touch,Master,3/3/3/3/3,-,-,-,Tauren,Deals damage all around and siphons health and mana from targets hit.

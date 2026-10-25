@@ -1,0 +1,8 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Wrath,11,5/3/5/5/5,"5,000",Spider Silk (3),-,Mileth Special Skills Master,"You enter a violent frenzy, flailing in all directions to repeatedly strike nearby foes."
+Battle Cry,11,5/3/3/9/4,"2,000",Spider Silk (3),-,Mileth Special Skills Master,Increase damage and healing for 2 minutes.
+War Cry,50,35/3/6/15/25,"25,000",Chainmail Gauntlet (1),Battle Cry (100),Mileth Special Skills Master,Increase the group's damage and healing for 2 minutes. Replaces Battle Cry.
+Whirlwind,60,52/15/7/33/27,"50,000","Wisp's Core (2), Spiked Flail (1)",Wrath (100),Mileth Special Skills Master,Damage enemies around user. Replaces Wrath.
+Battle Frenzy,Master (Pure),3/3/3/3/3,-,-,-,Master,Heal when hit for a short time. Pure Only.
+Fury,Master,3/3/3/3/3,-,-,-,Master Dungeon,"Warrior channels their inner fury, increasing attack damage while sacrificing health."
+Inferno,Master (Pure),3/3/3/3/3,-,-,Whirlwind (100),Shamensyth,Your temperature rises and burns enemies around you. Replaces Whirlwind. Pure Only.

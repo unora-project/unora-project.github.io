@@ -1,0 +1,52 @@
+Enchant,Effects,Rank,Name,Level
+Aquaedon's Clarity,+25 MP,Beginner,Meager,5
+Ignatar's Envy,+3 Flat Skill DMG -20 HP,Beginner,Swift,3
+Geolith's Gratitiude,+50 HP,Beginner,Skillful,3
+Miraelis' Serenity,+6 Flat Spell DMG -20 HP,Beginner,Mystical,5
+Theselene's Elusion,+1% ATK Speed,Beginner,Shrouded,5
+Aquaedon's Calming,+50 MP,Basic,Serene,40
+Ignatar's Grief,+3 Flat Skill DMG +1 AC,Basic,Minor,24
+Geolith's Pride,+100 HP,Basic,Modest,28
+Miraelis' Blessing,+6 Flat Spell DMG +1 AC,Basic,Tiny,34
+Serendael's Luck,+1 HIT,Basic,Lucky,11
+Skandara's Might,+1 DMG +5 Flat Skill DMG,Basic,Mighty,16
+Theselene's Shadow,+1% ATK Speed +1 DMG +3 Flat Skill DMG,Basic,Darkened,37
+Zephyra's Spirit,+1% MR,Basic,Breezy,20
+Aquaedon's Wisdom,+1 WIS,Initiate,Wise,50
+Ignatar's Jealousy,+1% Skill DMG + 6 Flat Skill DMG,Initiate,Crippling,60
+Ignatar's Regret,+2% ATK Speed + 6 Flat Skill DMG,Initiate,Hasty,48
+Geolith's Constitution,+1 CON,Initiate,Hale,50
+Geolith's Obsession,+150 HP,Initiate,Powerful,65
+Miraelis' Harmony,+1% Spell DMG + 10 Flat Spell DMG,Initiate,Bright,69
+Miraelis' Intellect,+1 INT,Initiate,Brilliant,50
+Serendael's Chance,+1 Hit + 25 MP,Initiate,Focused,55
+Serendael's Magic,+1 Hit + 50 HP,Initiate,Airy,41
+Skandara's Strength,+1 STR,Initiate,Tough,50
+Skandara's Triumph,+1 DMG + 10 Flat Skill DMG,Initiate,Valiant,44
+Theselene's Dexterity,+1 DEX,Initiate,Nimble,50
+Zephyra's Mist,+2% MR -1 Hit,Initiate,Soft,45
+Zephyra's Wind,+3% MR -1 Hit +1 AC,Initiate,Hazy,58
+Aquaedon's Will,+75 MP,Artisan,Potent,71
+Ignatar's Destruction,+2% Skill DMG +9 Flat Skill DMG +1 AC,Artisan,Ruthless,80
+Geolith's Fortitude,+1% Skill DMG +200 HP,Artisan,Eternal,83
+Miraelis' Nurturing,+2% Spell DMG +12 Flat Spell DMG +1 AC,Artisan,Ancient,88
+Serendael's Roll,+2 Hit,Artisan,Precision,71
+Skandara's Drive,+2 DMG + 15 Flat Skill DMG +1 AC,Artisan,Savage,75
+Theselene's Balance,+1% ATK Speed +1 DMG +9 Flat Skill DMG,Artisan,Tight,71
+Zephyra's Vortex,+4% MR -2 Hit -4 DMG,Artisan,Whirling,78
+Aquaedon's Resolve,+125 MP +1% Spell DMG,Adept,Soothing,90
+Serendael's Addiction,+3 Hit -1 MR,Adept,Persisting,90
+Skandara's Pierce,+3 DMG +20 Flat Skill DMG -1% MR,Adept,Blazing,95
+Theselene's Risk,+2% ATK Speed +2 DMG +12 Flat Skill DMG,Adept,Cursed,90
+Zephyra's Gust,+4% MR -1 Hit -2 DMG,Adept,Howling,97
+Ignatar's Dominance,+4% Skill DMG +15 Flat Skill DMG +1 AC,Advanced,Fury,99
+Geolith's Testimony,+300 HP +1% Skill DMG +15 Flat Skill DMG,Advanced,Sturdy,99
+Miraelis' Brace,+3% Spell DMG +20 Flat Spell DMG +1 AC,Advanced,Resilient,99
+Aquaedon's Commitment,+150 MP +1% Spell DMG +20 Flat Spell DMG,Advanced,Spirited,99
+Serendael's Success,+4 Hit -1 MR,Advanced,Pristine,99
+Theselene's Sorrow,+3% ATK Speed +3 DMG +15 Flat Skill DMG,Advanced,Shaded,99
+Skandara's Offense,+6 DMG +30 Flat Skill DMG -1% MR,Expert,Sinister,99
+Zephyra's Power,+5% MR -2 Hit -4 DMG,Expert,Gleaming,99
+Ignatar's Deficit,+5% Skill DMG +18 Flat Skill DMG +1 AC -1% MR,Expert,Infernal,99
+Geolith's Barrier,+400 HP +2 DMG +2% ATK Speed +1% Skill DMG +18 Flat Skill DMG,Expert,Primal,99
+Miraelis' Roots,+4% Spell DMG +30 Flat Spell DMG +1 AC -1% MR,Expert,Thick,99

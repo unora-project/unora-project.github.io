@@ -1,0 +1,24 @@
+Name,Level Requirement,Stat Requirements,Gold Required,Item Requirement(s),Prerequisite(s),Learning Location,Description
+Taunt,3,3/3/3/3/3,-,-,-,Becoming Monk,Taunt the enemy to attack you.
+Dodge,5,5/3/3/8/3,"1,000",Spider's Eye (2),-,Mileth Special Skills Master,"Reduces positional damage mod by 25%. Decreases AC, increases MR. 20% chance to avoid durability dmg."
+Inner Fire,11,3/3/8/9/3,"5,000",Bat's Wing (2),-,Sapphire Stream,Increase health regeneration by eight percent. [White Dugon]
+Goad,15,7/3/8/15/8,"5,000",Kobold's Skull (1),-,Sapphire Stream,Taunt the enemy to attack you (small tile range). [White Dugon]
+ao poison,21,3/8/9/15/3,"3,000","Apple (3), Spider's Eye (2)",-,Mileth Special Spells,"Neutralize the poison afflicting the target, cleansing their body and restoring them to a healthy state."
+Gentle Touch,22,3/3/13/19/4,"10,000",Goblin's Skull (2),-,Sapphire Stream,Heals yourself and players surrounding you. [Green Dugon]
+Last Stand,40,23/5/8/36/17,"20,000","Goblin's Skull (2), Reinforced Leather Greaves (1)",-,Sapphire Stream,Survive through any offensive for 8 seconds. [Blue Dugon]
+ao dall,41,3/10/12/25/5,"15,000",Bat's Wing (1),-,Mileth Special Spells,Allows target to see again.
+Howl,41,23/3/12/38/10,"20,000","Frog's Leg (1), Turtle's Shell (1)",Goad (100),Sapphire Stream,Taunt the enemy to attack you (medium tile range). Replaces Goad. [Blue Dugon]
+Earthen Stance,60,25/5/5/44/16,"25,000",Rockcobbler's Scale (2),-,Sapphire Stream,[Earth] Reflects damage back to the target at a 20% chance.
+Mist Stance,60,19/8/15/40/15,"25,000",Crab's Claw (3),-,Sapphire Stream,[Water] Deals water damage around you when hit.
+Smoke Stance,60,24/6/6/38/24,"25,000",Liver (3),-,Sapphire Stream,"[Fire] You reserve 10% health to gain damage based on the amount reserved."
+Thunder Stance,60,24/5/5/51/15,"25,000",Wisp's Core (3),-,Sapphire Stream,"[Wind] Procs 10% wind damage and a 30% chance to apply crit on the next non-assail hits."
+Cat's Hearing,80,35/15/12/60/35,"10,000",Black Cat's Tail (1),-,Sapphire Stream,Allows you to see hidden creatures. [Red Dugon]
+Adaptive Skin,Master,3/3/3/3/3,-,-,-,Master,Reduces AC and adds Magic Resistance based on hostile creatures nearby.
+Cure Ailments,Master,3/3/3/3/3,-,-,-,Master Dungeon,"Cures Poison, Dall, and Suain. Self only."
+Phoenix Grasp,Master,3/3/3/3/3,-,-,-,Master,Pull the enemy to you.
+Roar,Master,3/3/3/3/3,-,-,-,Master,Taunt the enemy to attack you (large tile range). Replaces Howl.
+Lightning Stance,Master,95/40/31/160/55,"500,000",Ruidhtear Toe (3),Thunder Stance (100),Sapphire Stream,"[Wind] Procs 20% wind damage and a 50% chance to apply crit on the next 5 non-assail hits. Upgrades Thunder Stance."
+Flame Stance,Master,180/25/30/110/50,"500,000",Ice Elemental Flame (3),Smoke Stance (100),Sapphire Stream,"[Fire] You reserve 20% health to gain damage based on the amount reserved. Upgrades Smoke Stance."
+Rock Stance,Master,115/25/30/180/65,"500,000",Gold Shocker Piece (5),Earthen Stance (100),Sapphire Stream,[Earth] Has a 70% chance of reflecting damage and some status effects. Upgrades Earthen Stance.
+Tide Stance,Master,100/50/50/175/75,"250,000",Ice Elemental Flame (3),Mist Stance (100),Sapphire Stream,"[Water] Deals water damage around you when hit. Upgrades Mist Stance."
+Evasion,Master (Pure),3/3/3/3/3,"-",-,-,Tauren,"Reduces positional damage mod by 50%. Decreases AC, increases MR. 30% chance to avoid durability damage. Upgrade to Dodge. Pure Only."
